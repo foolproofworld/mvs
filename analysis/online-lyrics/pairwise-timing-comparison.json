@@ -1,0 +1,30 @@
+[
+  {
+    "id": "kugou-223522842",
+    "zeroDuration": 0,
+    "sharedUnits": 0,
+    "relativeMedianShiftSec": 0.0,
+    "maxResidualAfterShiftSec": 0.0
+  },
+  {
+    "id": "kugou-191997125",
+    "zeroDuration": 0,
+    "sharedUnits": 0,
+    "relativeMedianShiftSec": -0.166,
+    "maxResidualAfterShiftSec": 0.33
+  },
+  {
+    "id": "kugou-135049983",
+    "zeroDuration": 0,
+    "sharedUnits": 0,
+    "relativeMedianShiftSec": 0.5,
+    "maxResidualAfterShiftSec": 0.0
+  },
+  {
+    "id": "kugou-826083305",
+    "zeroDuration": 0,
+    "sharedUnits": 0,
+    "relativeMedianShiftSec": 0.134,
+    "maxResidualAfterShiftSec": 0.246
+  }
+]

@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="zh-CN">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>开始懂了 · 逐字演绎</title><link rel="stylesheet" href="style.css"><link rel="stylesheet" href="review.css"><link rel="stylesheet" href="char-editor.css"><link rel="stylesheet" href="presentation.css"></head>
+<body>
+<main>
+  <header><div><span class="eyebrow">MVS / WORDS IN MOTION</span><h1>开始懂了 <span>孙燕姿</span></h1></div><button id="reviewLyrics">核对歌词文字</button></header>
+  <div class="presentation-bar"><p class="review-status" id="selectionStatus">KRC 3 已定稿 · 逐字演绎 03</p><div class="presentation-actions"><label><select id="displayMode" aria-label="歌词呈现方式"><option value="words">逐字 · 轻微动效</option><option value="characters">逐字 · 原版对照</option></select></label><button id="previewWords">试听「爱情」片段</button></div></div>
+  <section id="stage" aria-label="黑底歌词预览">
+    <div id="lyrics" aria-label="当前歌词"></div>
+    <div id="beat" hidden></div>
+    <button id="fullscreen" title="全屏预览" aria-label="全屏预览">⛶</button>
+  </section>
+  <div class="status"><span id="lineStatus">正在加载时间轴…</span><span id="charStatus">—</span></div>
+  <section class="transport" aria-label="播放控制">
+    <input id="seek" type="range" min="0" max="270.048" step="0.01" value="0" aria-label="播放进度">
+    <div class="transport-row"><div class="buttons"><button id="prev" title="上一句">上一句</button><button id="play" class="primary" disabled>播放</button><button id="next" title="下一句">下一句</button><button id="replay">重听本句</button></div><div class="clock"><span id="time">00:00.00</span> <span>/ 04:30.05</span></div><label>速度 <select id="rate"><option value="0.5">0.5×</option><option value="0.75">0.75×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option></select></label></div>
+  </section>
+  <details id="versionArchive"><summary>全部版本已保存 <small>4 份 KRC + 本地自动对齐版</small></summary>
+  <section class="versions" aria-label="歌词版本对比">
+    <div class="version-row"><label>歌词版本 <select id="versionSelect" aria-label="歌词版本"></select></label><button id="swapVersion">A/B 对照</button></div>
+    <p id="versionDescription">正在加载版本…</p>
+    <div class="version-row"><span>同一音轨连续播放，切换只替换歌词。</span><button id="compareVerse">试听主歌</button><button id="compareChorus">试听副歌</button><button id="compareFinal">试听末副歌</button></div>
+    <a id="archiveDownload" class="archive-link" download>下载全部原始版本归档</a>
+  </section></details>
+  <details id="calibrationTools"><summary>时间轴与逐字微调 <small>保留每个字的演唱边界和本机校准记录</small></summary>
+  <section class="calibration" aria-label="歌词校准">
+    <div><h2>歌词时间</h2><p>正数 = 晚跳；负数 = 早跳。点击下方歌词可直接定位。</p></div>
+    <div class="offset-row"><label>全曲偏移 <input id="offset" type="number" min="-10000" max="10000" step="50" value="0"> ms</label><button id="earlier">早 50ms</button><button id="later">晚 50ms</button><button id="reset">重置全部</button><button id="export">导出校准</button></div>
+    <div class="offset-row"><label>本句偏移 <input id="lineOffset" type="number" min="-10000" max="10000" step="50" value="0" disabled> ms</label><label><input id="showBeat" type="checkbox"> 显示候选拍点</label><span id="saveStatus">修改自动保存在本机浏览器</span></div>
+  </section>
+  <section class="char-editor" aria-labelledby="charEditorTitle">
+    <div class="editor-heading"><h2 id="charEditorTitle">逐字校准</h2><select id="editLine" aria-label="选择校准句子"></select></div>
+    <p class="editor-note">词组整体出现取首字唱入，退场取组内最晚值。可在此独立微调各字唱入、唱止；“出现”用于逐字对照模式。时间以原音轨为准。</p>
+    <div id="charButtons" aria-label="选择校准的字"></div>
+    <div id="charEditorInfo" class="editor-note">请选择一个字</div>
+    <div class="char-fields">
+      <label>唱入（秒）<input id="charStart" type="number" min="0" max="270.048" step="0.01"></label>
+      <label>唱止（秒）<input id="charEnd" type="number" min="0" max="270.048" step="0.01"></label>
+      <label>出现（秒）<input id="charAppear" type="number" min="0" max="270.048" step="0.01"></label>
+      <label>退场（秒）<input id="charDisappear" type="number" min="0" max="270.048" step="0.01"></label>
+      <label>强调强度（0–2）<input id="charEmphasis" type="number" min="0" max="2" step="0.1" value="1"></label>
+    </div>
+    <div class="char-actions"><button id="charEarlier">此字早 20ms</button><button id="charLater">此字晚 20ms</button><button id="markStart">当前时刻设为唱入</button><button id="markEnd">当前时刻设为唱止</button><button id="listenChar">试听这个字</button><label><input id="loopChar" type="checkbox" checked> 循环</label><button id="resetChar">还原此字</button></div>
+    <div class="char-actions"><label><input id="charVerified" type="checkbox"> 此字已试听确认</label><span id="verifiedCount"></span><span id="editorError" role="alert"></span></div>
+  </section>
+  <details id="timeline"><summary>歌词时间表 <span id="count"></span></summary><div id="lineList"></div></details>
+  </details>
+  <p id="error" role="alert"></p>
+  <footer>全部单字逐一唱入，长音自然停留。以 KRC 3 为定稿时间轴。 <a href="visual.html" style="color:#b9c5a6;margin-left:12px">进入 MV 画风样片 ↗</a></footer>
+</main>
+<audio id="audio" src="analysis/audio/song.m4a" preload="auto"></audio>
+<dialog id="lyricDialog" aria-labelledby="reviewTitle">
+  <div class="dialog-head"><h2 id="reviewTitle">歌词文字核对 · 开始懂了</h2><button id="closeReview" aria-label="关闭歌词核对">关闭</button></div>
+  <p class="review-note" id="reviewSummary">正文已核对。此处只核对文字，逐字时间尚未确认。</p>
+  <div id="reviewText"></div>
+  <div class="review-note"><p>字形：本地 MV 与 LINE MUSIC 使用“透澈”，其他平台也有“透彻”版本；这里保留本地 MV 的写法。</p><p>间奏还有两处平台列出的哼唱，尚未在本地音轨确认，暂未加入正文时间轴。</p><p>对照来源：<a href="https://music-tw.line.me/track/1020112005" target="_blank" rel="noreferrer">LINE MUSIC</a> · <a href="https://www.joox.com/hk/single/JzjFoizcyxjxP7BO1ugw1A==" target="_blank" rel="noreferrer">JOOX</a></p></div>
+</dialog>
+<script type="module" src="app.js"></script>
+</body></html>

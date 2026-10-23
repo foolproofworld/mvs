@@ -1,0 +1,4875 @@
+{
+  "version": 1,
+  "title": "开始懂了",
+  "artist": "孙燕姿",
+  "duration": 270.047846,
+  "status": "draft",
+  "method": "Whisper base character-token attention; no uniform phrase fallback; onset/release boundaries require listening review",
+  "lines": [
+    {
+      "id": "line-01",
+      "section": "主歌 1",
+      "text": "我竟然没有调头",
+      "start": 21.36,
+      "end": 24.48,
+      "chars": [
+        {
+          "text": "我",
+          "start": 21.36,
+          "end": 22.04,
+          "probability": 0.9305,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint"
+          ],
+          "verified": false,
+          "appearAt": 21.24,
+          "disappearAt": 24.83,
+          "emphasis": 1
+        },
+        {
+          "text": "竟",
+          "start": 22.04,
+          "end": 22.28,
+          "probability": 0.4995,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 21.92,
+          "disappearAt": 24.83,
+          "emphasis": 1
+        },
+        {
+          "text": "然",
+          "start": 22.28,
+          "end": 22.62,
+          "probability": 0.9515,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 22.16,
+          "disappearAt": 24.83,
+          "emphasis": 1
+        },
+        {
+          "text": "没",
+          "start": 22.62,
+          "end": 23.3,
+          "probability": 0.0008,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 22.5,
+          "disappearAt": 24.83,
+          "emphasis": 1
+        },
+        {
+          "text": "有",
+          "start": 23.3,
+          "end": 23.6,
+          "probability": 0.0231,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 23.18,
+          "disappearAt": 24.83,
+          "emphasis": 1
+        },
+        {
+          "text": "调",
+          "start": 23.6,
+          "end": 24.08,
+          "probability": 0.474,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 23.48,
+          "disappearAt": 24.83,
+          "emphasis": 1
+        },
+        {
+          "text": "头",
+          "start": 24.08,
+          "end": 24.48,
+          "probability": 0.2722,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 23.96,
+          "disappearAt": 24.83,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-02",
+      "section": "主歌 1",
+      "text": "最残忍那一刻",
+      "start": 24.64,
+      "end": 27.52,
+      "chars": [
+        {
+          "text": "最",
+          "start": 24.64,
+          "end": 25.32,
+          "probability": 0.4279,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint"
+          ],
+          "verified": false,
+          "appearAt": 24.52,
+          "disappearAt": 27.87,
+          "emphasis": 1
+        },
+        {
+          "text": "残",
+          "start": 25.32,
+          "end": 25.76,
+          "probability": 0.1293,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 25.2,
+          "disappearAt": 27.87,
+          "emphasis": 1
+        },
+        {
+          "text": "忍",
+          "start": 25.76,
+          "end": 26.16,
+          "probability": 0.7141,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 25.64,
+          "disappearAt": 27.87,
+          "emphasis": 1
+        },
+        {
+          "text": "那",
+          "start": 26.16,
+          "end": 26.78,
+          "probability": 0.021,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 26.04,
+          "disappearAt": 27.87,
+          "emphasis": 1
+        },
+        {
+          "text": "一",
+          "start": 26.78,
+          "end": 27.32,
+          "probability": 0.8957,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 26.66,
+          "disappearAt": 27.87,
+          "emphasis": 1
+        },
+        {
+          "text": "刻",
+          "start": 27.32,
+          "end": 27.52,
+          "probability": 0.8856,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 27.2,
+          "disappearAt": 27.87,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-03",
+      "section": "主歌 1",
+      "text": "静静看你走",
+      "start": 28.22,
+      "end": 30.48,
+      "chars": [
+        {
+          "text": "静",
+          "start": 28.22,
+          "end": 28.94,
+          "probability": 0.354,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint"
+          ],
+          "verified": false,
+          "appearAt": 28.1,
+          "disappearAt": 30.83,
+          "emphasis": 1
+        },
+        {
+          "text": "静",
+          "start": 28.94,
+          "end": 29.16,
+          "probability": 0.9717,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 28.82,
+          "disappearAt": 30.83,
+          "emphasis": 1
+        },
+        {
+          "text": "看",
+          "start": 29.16,
+          "end": 29.38,
+          "probability": 0.796,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 29.04,
+          "disappearAt": 30.83,
+          "emphasis": 1
+        },
+        {
+          "text": "你",
+          "start": 29.38,
+          "end": 29.78,
+          "probability": 0.9219,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 29.26,
+          "disappearAt": 30.83,
+          "emphasis": 1
+        },
+        {
+          "text": "走",
+          "start": 29.78,
+          "end": 30.48,
+          "probability": 0.9359,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 29.66,
+          "disappearAt": 30.83,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-04",
+      "section": "主歌 1",
+      "text": "一点都不像我",
+      "start": 31.48,
+      "end": 34.26,
+      "chars": [
+        {
+          "text": "一",
+          "start": 31.48,
+          "end": 32.24,
+          "probability": 0.6734,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint"
+          ],
+          "verified": false,
+          "appearAt": 31.36,
+          "disappearAt": 34.61,
+          "emphasis": 1
+        },
+        {
+          "text": "点",
+          "start": 32.24,
+          "end": 32.4,
+          "probability": 0.0058,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 32.12,
+          "disappearAt": 34.61,
+          "emphasis": 1
+        },
+        {
+          "text": "都",
+          "start": 32.4,
+          "end": 32.68,
+          "probability": 0.1791,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 32.28,
+          "disappearAt": 34.61,
+          "emphasis": 1
+        },
+        {
+          "text": "不",
+          "start": 32.68,
+          "end": 33.16,
+          "probability": 0.897,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 32.56,
+          "disappearAt": 34.61,
+          "emphasis": 1
+        },
+        {
+          "text": "像",
+          "start": 33.16,
+          "end": 33.56,
+          "probability": 0.1374,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 33.04,
+          "disappearAt": 34.61,
+          "emphasis": 1
+        },
+        {
+          "text": "我",
+          "start": 33.56,
+          "end": 34.26,
+          "probability": 0.9836,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "phrase-tail-boundary"
+          ],
+          "verified": false,
+          "appearAt": 33.44,
+          "disappearAt": 34.61,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-05",
+      "section": "主歌 1",
+      "text": "原来人会变得温柔",
+      "start": 37.73,
+      "end": 40.7,
+      "chars": [
+        {
+          "text": "原",
+          "start": 37.73,
+          "end": 38.56,
+          "probability": 0.00024833233328536153,
+          "method": "base-character-attention-context-retry",
+          "reviewReasons": [
+            "first-onset-estimated-from-next-character"
+          ],
+          "verified": false,
+          "appearAt": 37.61,
+          "disappearAt": 41.05,
+          "emphasis": 1
+        },
+        {
+          "text": "来",
+          "start": 38.56,
+          "end": 38.64,
+          "probability": 0.19512465596199036,
+          "method": "base-character-attention-context-retry",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 38.44,
+          "disappearAt": 41.05,
+          "emphasis": 1
+        },
+        {
+          "text": "人",
+          "start": 38.64,
+          "end": 39.14,
+          "probability": 0.0025729970075190067,
+          "method": "base-character-attention-context-retry",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 38.52,
+          "disappearAt": 41.05,
+          "emphasis": 1
+        },
+        {
+          "text": "会",
+          "start": 39.14,
+          "end": 39.56,
+          "probability": 0.05040191859006882,
+          "method": "base-character-attention-context-retry",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 39.02,
+          "disappearAt": 41.05,
+          "emphasis": 1
+        },
+        {
+          "text": "变",
+          "start": 39.56,
+          "end": 39.82,
+          "probability": 0.446767914108932,
+          "method": "base-character-attention-context-retry",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 39.44,
+          "disappearAt": 41.05,
+          "emphasis": 1
+        },
+        {
+          "text": "得",
+          "start": 39.82,
+          "end": 40.06,
+          "probability": 0.04665471613407135,
+          "method": "base-character-attention-context-retry",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 39.7,
+          "disappearAt": 41.05,
+          "emphasis": 1
+        },
+        {
+          "text": "温",
+          "start": 40.06,
+          "end": 40.36,
+          "probability": 0.47605860512703657,
+          "method": "base-character-attention-context-retry",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 39.94,
+          "disappearAt": 41.05,
+          "emphasis": 1
+        },
+        {
+          "text": "柔",
+          "start": 40.36,
+          "end": 40.7,
+          "probability": 0.8740504086017609,
+          "method": "base-character-attention-context-retry",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 40.24,
+          "disappearAt": 41.05,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-06",
+      "section": "主歌 1",
+      "text": "是透澈的懂了",
+      "start": 40.94,
+      "end": 43.86,
+      "chars": [
+        {
+          "text": "是",
+          "start": 40.94,
+          "end": 41.58,
+          "probability": 0.0134,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 40.82,
+          "disappearAt": 44.21,
+          "emphasis": 1
+        },
+        {
+          "text": "透",
+          "start": 41.58,
+          "end": 41.92,
+          "probability": 0.0139,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 41.46,
+          "disappearAt": 44.21,
+          "emphasis": 1
+        },
+        {
+          "text": "澈",
+          "start": 41.92,
+          "end": 42.46,
+          "probability": 0.2652,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 41.8,
+          "disappearAt": 44.21,
+          "emphasis": 1
+        },
+        {
+          "text": "的",
+          "start": 42.46,
+          "end": 42.88,
+          "probability": 0.3513,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 42.34,
+          "disappearAt": 44.21,
+          "emphasis": 1
+        },
+        {
+          "text": "懂",
+          "start": 42.88,
+          "end": 43.42,
+          "probability": 0.2519,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 42.76,
+          "disappearAt": 44.21,
+          "emphasis": 1
+        },
+        {
+          "text": "了",
+          "start": 43.42,
+          "end": 43.86,
+          "probability": 0.4618,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 43.3,
+          "disappearAt": 44.21,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-07",
+      "section": "主歌 1",
+      "text": "爱情是流动的",
+      "start": 44.51,
+      "end": 46.85,
+      "chars": [
+        {
+          "text": "爱",
+          "start": 44.51,
+          "end": 45.19,
+          "probability": 0.4467,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint"
+          ],
+          "verified": false,
+          "appearAt": 44.39,
+          "disappearAt": 47.2,
+          "emphasis": 1
+        },
+        {
+          "text": "情",
+          "start": 45.19,
+          "end": 45.41,
+          "probability": 0.9903,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 45.07,
+          "disappearAt": 47.2,
+          "emphasis": 1
+        },
+        {
+          "text": "是",
+          "start": 45.41,
+          "end": 45.65,
+          "probability": 0.669,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 45.29,
+          "disappearAt": 47.2,
+          "emphasis": 1
+        },
+        {
+          "text": "流",
+          "start": 45.65,
+          "end": 45.89,
+          "probability": 0.0311,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 45.53,
+          "disappearAt": 47.2,
+          "emphasis": 1
+        },
+        {
+          "text": "动",
+          "start": 45.89,
+          "end": 46.39,
+          "probability": 0.0022,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 45.77,
+          "disappearAt": 47.2,
+          "emphasis": 1
+        },
+        {
+          "text": "的",
+          "start": 46.39,
+          "end": 46.85,
+          "probability": 0.9925,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 46.27,
+          "disappearAt": 47.2,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-08",
+      "section": "主歌 1",
+      "text": "不由人的",
+      "start": 47,
+      "end": 48.86,
+      "chars": [
+        {
+          "text": "不",
+          "start": 47,
+          "end": 47.74,
+          "probability": 0.0265,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 46.88,
+          "disappearAt": 49.21,
+          "emphasis": 1
+        },
+        {
+          "text": "由",
+          "start": 47.74,
+          "end": 48.0,
+          "probability": 0.0192,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 47.62,
+          "disappearAt": 49.21,
+          "emphasis": 1
+        },
+        {
+          "text": "人",
+          "start": 48.0,
+          "end": 48.48,
+          "probability": 0.0161,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 47.88,
+          "disappearAt": 49.21,
+          "emphasis": 1
+        },
+        {
+          "text": "的",
+          "start": 48.48,
+          "end": 48.86,
+          "probability": 0.2008,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 48.36,
+          "disappearAt": 49.21,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-09",
+      "section": "主歌 1",
+      "text": "何必激动着要理由",
+      "start": 49.03,
+      "end": 52.03,
+      "chars": [
+        {
+          "text": "何",
+          "start": 49.03,
+          "end": 49.75,
+          "probability": 0.0113,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 48.91,
+          "disappearAt": 52.38,
+          "emphasis": 1
+        },
+        {
+          "text": "必",
+          "start": 49.75,
+          "end": 49.97,
+          "probability": 0.9961,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 49.63,
+          "disappearAt": 52.38,
+          "emphasis": 1
+        },
+        {
+          "text": "激",
+          "start": 49.97,
+          "end": 50.31,
+          "probability": 0.4994,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 49.85,
+          "disappearAt": 52.38,
+          "emphasis": 1
+        },
+        {
+          "text": "动",
+          "start": 50.31,
+          "end": 50.49,
+          "probability": 0.1752,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 50.19,
+          "disappearAt": 52.38,
+          "emphasis": 1
+        },
+        {
+          "text": "着",
+          "start": 50.49,
+          "end": 50.75,
+          "probability": 0.103,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 50.37,
+          "disappearAt": 52.38,
+          "emphasis": 1
+        },
+        {
+          "text": "要",
+          "start": 50.75,
+          "end": 51.11,
+          "probability": 0.4654,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 50.63,
+          "disappearAt": 52.38,
+          "emphasis": 1
+        },
+        {
+          "text": "理",
+          "start": 51.11,
+          "end": 51.61,
+          "probability": 0.3711,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 50.99,
+          "disappearAt": 52.38,
+          "emphasis": 1
+        },
+        {
+          "text": "由",
+          "start": 51.61,
+          "end": 52.03,
+          "probability": 0.7856,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 51.49,
+          "disappearAt": 52.38,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-10",
+      "section": "副歌 1",
+      "text": "相信你只是怕伤害我",
+      "start": 54.23,
+      "end": 57.61,
+      "chars": [
+        {
+          "text": "相",
+          "start": 54.23,
+          "end": 54.89,
+          "probability": 0.0006,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 54.11,
+          "disappearAt": 57.96,
+          "emphasis": 1
+        },
+        {
+          "text": "信",
+          "start": 54.89,
+          "end": 55.19,
+          "probability": 0.6263,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 54.77,
+          "disappearAt": 57.96,
+          "emphasis": 1
+        },
+        {
+          "text": "你",
+          "start": 55.19,
+          "end": 55.47,
+          "probability": 0.9272,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 55.07,
+          "disappearAt": 57.96,
+          "emphasis": 1
+        },
+        {
+          "text": "只",
+          "start": 55.47,
+          "end": 55.75,
+          "probability": 0.0035,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 55.35,
+          "disappearAt": 57.96,
+          "emphasis": 1
+        },
+        {
+          "text": "是",
+          "start": 55.75,
+          "end": 56.15,
+          "probability": 0.1631,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 55.63,
+          "disappearAt": 57.96,
+          "emphasis": 1
+        },
+        {
+          "text": "怕",
+          "start": 56.15,
+          "end": 56.37,
+          "probability": 0.9625,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 56.03,
+          "disappearAt": 57.96,
+          "emphasis": 1
+        },
+        {
+          "text": "伤",
+          "start": 56.37,
+          "end": 56.81,
+          "probability": 0.5362,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 56.25,
+          "disappearAt": 57.96,
+          "emphasis": 1
+        },
+        {
+          "text": "害",
+          "start": 56.81,
+          "end": 57.21,
+          "probability": 0.9813,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 56.69,
+          "disappearAt": 57.96,
+          "emphasis": 1
+        },
+        {
+          "text": "我",
+          "start": 57.21,
+          "end": 57.61,
+          "probability": 0.8965,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 57.09,
+          "disappearAt": 57.96,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-11",
+      "section": "副歌 1",
+      "text": "不是骗我",
+      "start": 57.65,
+      "end": 59.73,
+      "chars": [
+        {
+          "text": "不",
+          "start": 57.65,
+          "end": 58.41,
+          "probability": 0.0796,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 57.53,
+          "disappearAt": 60.08,
+          "emphasis": 1
+        },
+        {
+          "text": "是",
+          "start": 58.41,
+          "end": 58.81,
+          "probability": 0.0023,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 58.29,
+          "disappearAt": 60.08,
+          "emphasis": 1
+        },
+        {
+          "text": "骗",
+          "start": 58.81,
+          "end": 59.31,
+          "probability": 0.5149,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 58.69,
+          "disappearAt": 60.08,
+          "emphasis": 1
+        },
+        {
+          "text": "我",
+          "start": 59.31,
+          "end": 59.73,
+          "probability": 0.9674,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 59.19,
+          "disappearAt": 60.08,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-12",
+      "section": "副歌 1",
+      "text": "很爱过谁会舍得",
+      "start": 59.95,
+      "end": 62.71,
+      "chars": [
+        {
+          "text": "很",
+          "start": 59.95,
+          "end": 60.65,
+          "probability": 0.0033,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 59.83,
+          "disappearAt": 63.06,
+          "emphasis": 1
+        },
+        {
+          "text": "爱",
+          "start": 60.65,
+          "end": 60.93,
+          "probability": 0.4025,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 60.53,
+          "disappearAt": 63.06,
+          "emphasis": 1
+        },
+        {
+          "text": "过",
+          "start": 60.93,
+          "end": 61.15,
+          "probability": 0.832,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 60.81,
+          "disappearAt": 63.06,
+          "emphasis": 1
+        },
+        {
+          "text": "谁",
+          "start": 61.15,
+          "end": 61.47,
+          "probability": 0.9309,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 61.03,
+          "disappearAt": 63.06,
+          "emphasis": 1
+        },
+        {
+          "text": "会",
+          "start": 61.47,
+          "end": 61.85,
+          "probability": 0.8819,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 61.35,
+          "disappearAt": 63.06,
+          "emphasis": 1
+        },
+        {
+          "text": "舍",
+          "start": 61.85,
+          "end": 62.31,
+          "probability": 0.4757,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 61.73,
+          "disappearAt": 63.06,
+          "emphasis": 1
+        },
+        {
+          "text": "得",
+          "start": 62.31,
+          "end": 62.71,
+          "probability": 0.5014,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 62.19,
+          "disappearAt": 63.06,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-13",
+      "section": "副歌 1",
+      "text": "把我的梦摇醒了",
+      "start": 64,
+      "end": 66.6,
+      "chars": [
+        {
+          "text": "把",
+          "start": 64,
+          "end": 64.7,
+          "probability": 0.0097,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 63.88,
+          "disappearAt": 66.95,
+          "emphasis": 1
+        },
+        {
+          "text": "我",
+          "start": 64.7,
+          "end": 64.96,
+          "probability": 0.1369,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 64.58,
+          "disappearAt": 66.95,
+          "emphasis": 1
+        },
+        {
+          "text": "的",
+          "start": 64.96,
+          "end": 65.24,
+          "probability": 0.003,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 64.84,
+          "disappearAt": 66.95,
+          "emphasis": 1
+        },
+        {
+          "text": "梦",
+          "start": 65.24,
+          "end": 65.56,
+          "probability": 0.5224,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 65.12,
+          "disappearAt": 66.95,
+          "emphasis": 1
+        },
+        {
+          "text": "摇",
+          "start": 65.56,
+          "end": 65.9,
+          "probability": 0.2007,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 65.44,
+          "disappearAt": 66.95,
+          "emphasis": 1
+        },
+        {
+          "text": "醒",
+          "start": 65.9,
+          "end": 66.22,
+          "probability": 0.0563,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 65.78,
+          "disappearAt": 66.95,
+          "emphasis": 1
+        },
+        {
+          "text": "了",
+          "start": 66.22,
+          "end": 66.6,
+          "probability": 0.8797,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 66.1,
+          "disappearAt": 66.95,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-14",
+      "section": "副歌 1",
+      "text": "宣布幸福不会来了",
+      "start": 66.77,
+      "end": 70.1,
+      "chars": [
+        {
+          "text": "宣",
+          "start": 66.77,
+          "end": 67.51,
+          "probability": 0.492,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint"
+          ],
+          "verified": false,
+          "appearAt": 66.65,
+          "disappearAt": 70.45,
+          "emphasis": 1
+        },
+        {
+          "text": "布",
+          "start": 67.51,
+          "end": 67.87,
+          "probability": 0.9441,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 67.39,
+          "disappearAt": 70.45,
+          "emphasis": 1
+        },
+        {
+          "text": "幸",
+          "start": 67.87,
+          "end": 68.21,
+          "probability": 0.7214,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 67.75,
+          "disappearAt": 70.45,
+          "emphasis": 1
+        },
+        {
+          "text": "福",
+          "start": 68.21,
+          "end": 68.53,
+          "probability": 0.9825,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 68.09,
+          "disappearAt": 70.45,
+          "emphasis": 1
+        },
+        {
+          "text": "不",
+          "start": 68.53,
+          "end": 68.97,
+          "probability": 0.3756,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 68.41,
+          "disappearAt": 70.45,
+          "emphasis": 1
+        },
+        {
+          "text": "会",
+          "start": 68.97,
+          "end": 69.41,
+          "probability": 0.0283,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 68.85,
+          "disappearAt": 70.45,
+          "emphasis": 1
+        },
+        {
+          "text": "来",
+          "start": 69.41,
+          "end": 69.97,
+          "probability": 0.9674,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 69.29,
+          "disappearAt": 70.45,
+          "emphasis": 1
+        },
+        {
+          "text": "了",
+          "start": 69.97,
+          "end": 70.1,
+          "probability": 0.0011,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "phrase-tail-boundary",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 69.85,
+          "disappearAt": 70.45,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-15",
+      "section": "副歌 1",
+      "text": "用心酸微笑去原谅了",
+      "start": 70.6,
+      "end": 73.84,
+      "chars": [
+        {
+          "text": "用",
+          "start": 70.6,
+          "end": 71.24,
+          "probability": 0.1492,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 70.48,
+          "disappearAt": 74.19,
+          "emphasis": 1
+        },
+        {
+          "text": "心",
+          "start": 71.24,
+          "end": 71.52,
+          "probability": 0.9332,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 71.12,
+          "disappearAt": 74.19,
+          "emphasis": 1
+        },
+        {
+          "text": "酸",
+          "start": 71.52,
+          "end": 71.84,
+          "probability": 0.5283,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 71.4,
+          "disappearAt": 74.19,
+          "emphasis": 1
+        },
+        {
+          "text": "微",
+          "start": 71.84,
+          "end": 72.06,
+          "probability": 0.8255,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 71.72,
+          "disappearAt": 74.19,
+          "emphasis": 1
+        },
+        {
+          "text": "笑",
+          "start": 72.06,
+          "end": 72.32,
+          "probability": 0.9269,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 71.94,
+          "disappearAt": 74.19,
+          "emphasis": 1
+        },
+        {
+          "text": "去",
+          "start": 72.32,
+          "end": 72.6,
+          "probability": 0.7259,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 72.2,
+          "disappearAt": 74.19,
+          "emphasis": 1
+        },
+        {
+          "text": "原",
+          "start": 72.6,
+          "end": 73.02,
+          "probability": 0.0604,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 72.48,
+          "disappearAt": 74.19,
+          "emphasis": 1
+        },
+        {
+          "text": "谅",
+          "start": 73.02,
+          "end": 73.68,
+          "probability": 0.6806,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 72.9,
+          "disappearAt": 74.19,
+          "emphasis": 1
+        },
+        {
+          "text": "了",
+          "start": 73.68,
+          "end": 73.84,
+          "probability": 0.4688,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 73.56,
+          "disappearAt": 74.19,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-16",
+      "section": "副歌 1",
+      "text": "也翻越了",
+      "start": 73.88,
+      "end": 75.96,
+      "chars": [
+        {
+          "text": "也",
+          "start": 73.88,
+          "end": 74.66,
+          "probability": 0.2483,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 73.76,
+          "disappearAt": 76.31,
+          "emphasis": 1
+        },
+        {
+          "text": "翻",
+          "start": 74.66,
+          "end": 75.1,
+          "probability": 0.0034,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 74.54,
+          "disappearAt": 76.31,
+          "emphasis": 1
+        },
+        {
+          "text": "越",
+          "start": 75.1,
+          "end": 75.4,
+          "probability": 0.1143,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 74.98,
+          "disappearAt": 76.31,
+          "emphasis": 1
+        },
+        {
+          "text": "了",
+          "start": 75.4,
+          "end": 75.96,
+          "probability": 0.9607,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 75.28,
+          "disappearAt": 76.31,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-17",
+      "section": "副歌 1",
+      "text": "有昨天还是好的",
+      "start": 76.25,
+      "end": 78.94,
+      "chars": [
+        {
+          "text": "有",
+          "start": 76.25,
+          "end": 76.85,
+          "probability": 0.7114,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint"
+          ],
+          "verified": false,
+          "appearAt": 76.13,
+          "disappearAt": 79.29,
+          "emphasis": 1
+        },
+        {
+          "text": "昨",
+          "start": 76.85,
+          "end": 77.15,
+          "probability": 0.6495,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 76.73,
+          "disappearAt": 79.29,
+          "emphasis": 1
+        },
+        {
+          "text": "天",
+          "start": 77.15,
+          "end": 77.45,
+          "probability": 0.9932,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 77.03,
+          "disappearAt": 79.29,
+          "emphasis": 1
+        },
+        {
+          "text": "还",
+          "start": 77.45,
+          "end": 77.79,
+          "probability": 0.021,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 77.33,
+          "disappearAt": 79.29,
+          "emphasis": 1
+        },
+        {
+          "text": "是",
+          "start": 77.79,
+          "end": 78.19,
+          "probability": 0.1788,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 77.67,
+          "disappearAt": 79.29,
+          "emphasis": 1
+        },
+        {
+          "text": "好",
+          "start": 78.19,
+          "end": 78.53,
+          "probability": 0.0002,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 78.07,
+          "disappearAt": 79.29,
+          "emphasis": 1
+        },
+        {
+          "text": "的",
+          "start": 78.53,
+          "end": 78.94,
+          "probability": 0.5667,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "phrase-tail-boundary"
+          ],
+          "verified": false,
+          "appearAt": 78.41,
+          "disappearAt": 79.29,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-18",
+      "section": "副歌 1",
+      "text": "但明天是自己的",
+      "start": 80.23,
+      "end": 82.75,
+      "chars": [
+        {
+          "text": "但",
+          "start": 80.23,
+          "end": 80.91,
+          "probability": 0.298,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 80.11,
+          "disappearAt": 83.1,
+          "emphasis": 1
+        },
+        {
+          "text": "明",
+          "start": 80.91,
+          "end": 81.21,
+          "probability": 0.9468,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 80.79,
+          "disappearAt": 83.1,
+          "emphasis": 1
+        },
+        {
+          "text": "天",
+          "start": 81.21,
+          "end": 81.45,
+          "probability": 0.8691,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 81.09,
+          "disappearAt": 83.1,
+          "emphasis": 1
+        },
+        {
+          "text": "是",
+          "start": 81.45,
+          "end": 81.77,
+          "probability": 0.9313,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 81.33,
+          "disappearAt": 83.1,
+          "emphasis": 1
+        },
+        {
+          "text": "自",
+          "start": 81.77,
+          "end": 82.11,
+          "probability": 0.1777,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 81.65,
+          "disappearAt": 83.1,
+          "emphasis": 1
+        },
+        {
+          "text": "己",
+          "start": 82.11,
+          "end": 82.55,
+          "probability": 0.0012,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 81.99,
+          "disappearAt": 83.1,
+          "emphasis": 1
+        },
+        {
+          "text": "的",
+          "start": 82.55,
+          "end": 82.75,
+          "probability": 0.132,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 82.43,
+          "disappearAt": 83.1,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-19",
+      "section": "副歌 1",
+      "text": "开始懂了",
+      "start": 83.07,
+      "end": 85.43,
+      "chars": [
+        {
+          "text": "开",
+          "start": 83.07,
+          "end": 83.85,
+          "probability": 0.0022,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 82.95,
+          "disappearAt": 85.78,
+          "emphasis": 1
+        },
+        {
+          "text": "始",
+          "start": 83.85,
+          "end": 84.25,
+          "probability": 0.0028,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 83.73,
+          "disappearAt": 85.78,
+          "emphasis": 1
+        },
+        {
+          "text": "懂",
+          "start": 84.25,
+          "end": 84.79,
+          "probability": 0.0008,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 84.13,
+          "disappearAt": 85.78,
+          "emphasis": 1
+        },
+        {
+          "text": "了",
+          "start": 84.79,
+          "end": 85.43,
+          "probability": 0.6585,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 84.67,
+          "disappearAt": 85.78,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-20",
+      "section": "副歌 1",
+      "text": "快乐是选择",
+      "start": 86.79,
+      "end": 89.57,
+      "chars": [
+        {
+          "text": "快",
+          "start": 86.79,
+          "end": 87.41,
+          "probability": 0.1386,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 86.67,
+          "disappearAt": 89.92,
+          "emphasis": 1
+        },
+        {
+          "text": "乐",
+          "start": 87.41,
+          "end": 87.63,
+          "probability": 0.125,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 87.29,
+          "disappearAt": 89.92,
+          "emphasis": 1
+        },
+        {
+          "text": "是",
+          "start": 87.63,
+          "end": 87.97,
+          "probability": 0.3078,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 87.51,
+          "disappearAt": 89.92,
+          "emphasis": 1
+        },
+        {
+          "text": "选",
+          "start": 87.97,
+          "end": 88.83,
+          "probability": 0.0805,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 87.85,
+          "disappearAt": 89.92,
+          "emphasis": 1
+        },
+        {
+          "text": "择",
+          "start": 88.83,
+          "end": 89.57,
+          "probability": 0.9608,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 88.71,
+          "disappearAt": 89.92,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-21",
+      "section": "主歌 2",
+      "text": "我竟然没有调头",
+      "start": 107.05,
+      "end": 110.22,
+      "chars": [
+        {
+          "text": "我",
+          "start": 107.05,
+          "end": 107.61,
+          "probability": 0.4601,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint"
+          ],
+          "verified": false,
+          "appearAt": 106.93,
+          "disappearAt": 110.57,
+          "emphasis": 1
+        },
+        {
+          "text": "竟",
+          "start": 107.61,
+          "end": 107.99,
+          "probability": 0.5691,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 107.49,
+          "disappearAt": 110.57,
+          "emphasis": 1
+        },
+        {
+          "text": "然",
+          "start": 107.99,
+          "end": 108.35,
+          "probability": 0.9555,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 107.87,
+          "disappearAt": 110.57,
+          "emphasis": 1
+        },
+        {
+          "text": "没",
+          "start": 108.35,
+          "end": 108.95,
+          "probability": 0.0047,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 108.23,
+          "disappearAt": 110.57,
+          "emphasis": 1
+        },
+        {
+          "text": "有",
+          "start": 108.95,
+          "end": 109.37,
+          "probability": 0.0042,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 108.83,
+          "disappearAt": 110.57,
+          "emphasis": 1
+        },
+        {
+          "text": "调",
+          "start": 109.37,
+          "end": 109.77,
+          "probability": 0.5047,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 109.25,
+          "disappearAt": 110.57,
+          "emphasis": 1
+        },
+        {
+          "text": "头",
+          "start": 109.77,
+          "end": 110.22,
+          "probability": 0.1642,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "phrase-tail-boundary",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 109.65,
+          "disappearAt": 110.57,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-22",
+      "section": "主歌 2",
+      "text": "最残忍那一刻",
+      "start": 110.29,
+      "end": 113.15,
+      "chars": [
+        {
+          "text": "最",
+          "start": 110.29,
+          "end": 110.93,
+          "probability": 0.5556,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint"
+          ],
+          "verified": false,
+          "appearAt": 110.17,
+          "disappearAt": 113.5,
+          "emphasis": 1
+        },
+        {
+          "text": "残",
+          "start": 110.93,
+          "end": 111.41,
+          "probability": 0.1213,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 110.81,
+          "disappearAt": 113.5,
+          "emphasis": 1
+        },
+        {
+          "text": "忍",
+          "start": 111.41,
+          "end": 111.87,
+          "probability": 0.8896,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 111.29,
+          "disappearAt": 113.5,
+          "emphasis": 1
+        },
+        {
+          "text": "那",
+          "start": 111.87,
+          "end": 112.35,
+          "probability": 0.1584,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 111.75,
+          "disappearAt": 113.5,
+          "emphasis": 1
+        },
+        {
+          "text": "一",
+          "start": 112.35,
+          "end": 112.77,
+          "probability": 0.5488,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 112.23,
+          "disappearAt": 113.5,
+          "emphasis": 1
+        },
+        {
+          "text": "刻",
+          "start": 112.77,
+          "end": 113.15,
+          "probability": 0.862,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 112.65,
+          "disappearAt": 113.5,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-23",
+      "section": "主歌 2",
+      "text": "静静看你走",
+      "start": 113.83,
+      "end": 116.11,
+      "chars": [
+        {
+          "text": "静",
+          "start": 113.83,
+          "end": 114.47,
+          "probability": 0.2016,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 113.71,
+          "disappearAt": 116.46,
+          "emphasis": 1
+        },
+        {
+          "text": "静",
+          "start": 114.47,
+          "end": 114.83,
+          "probability": 0.1655,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 114.35,
+          "disappearAt": 116.46,
+          "emphasis": 1
+        },
+        {
+          "text": "看",
+          "start": 114.83,
+          "end": 115.03,
+          "probability": 0.4253,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 114.71,
+          "disappearAt": 116.46,
+          "emphasis": 1
+        },
+        {
+          "text": "你",
+          "start": 115.03,
+          "end": 115.35,
+          "probability": 0.7325,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 114.91,
+          "disappearAt": 116.46,
+          "emphasis": 1
+        },
+        {
+          "text": "走",
+          "start": 115.35,
+          "end": 116.11,
+          "probability": 0.9242,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 115.23,
+          "disappearAt": 116.46,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-24",
+      "section": "主歌 2",
+      "text": "一点都不像我",
+      "start": 117.09,
+      "end": 119.85,
+      "chars": [
+        {
+          "text": "一",
+          "start": 117.09,
+          "end": 117.93,
+          "probability": 0.5702,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint"
+          ],
+          "verified": false,
+          "appearAt": 116.97,
+          "disappearAt": 120.2,
+          "emphasis": 1
+        },
+        {
+          "text": "点",
+          "start": 117.93,
+          "end": 118.09,
+          "probability": 0.0072,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 117.81,
+          "disappearAt": 120.2,
+          "emphasis": 1
+        },
+        {
+          "text": "都",
+          "start": 118.09,
+          "end": 118.43,
+          "probability": 0.3161,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 117.97,
+          "disappearAt": 120.2,
+          "emphasis": 1
+        },
+        {
+          "text": "不",
+          "start": 118.43,
+          "end": 118.79,
+          "probability": 0.835,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 118.31,
+          "disappearAt": 120.2,
+          "emphasis": 1
+        },
+        {
+          "text": "像",
+          "start": 118.79,
+          "end": 119.23,
+          "probability": 0.1117,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 118.67,
+          "disappearAt": 120.2,
+          "emphasis": 1
+        },
+        {
+          "text": "我",
+          "start": 119.23,
+          "end": 119.85,
+          "probability": 0.9882,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 119.11,
+          "disappearAt": 120.2,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-25",
+      "section": "主歌 2",
+      "text": "原来人会变得温柔",
+      "start": 123.28,
+      "end": 126.52,
+      "chars": [
+        {
+          "text": "原",
+          "start": 123.28,
+          "end": 123.94,
+          "probability": 0.001,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 123.16,
+          "disappearAt": 126.87,
+          "emphasis": 1
+        },
+        {
+          "text": "来",
+          "start": 123.94,
+          "end": 124.22,
+          "probability": 0.2779,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 123.82,
+          "disappearAt": 126.87,
+          "emphasis": 1
+        },
+        {
+          "text": "人",
+          "start": 124.22,
+          "end": 124.7,
+          "probability": 0.5998,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 124.1,
+          "disappearAt": 126.87,
+          "emphasis": 1
+        },
+        {
+          "text": "会",
+          "start": 124.7,
+          "end": 125.22,
+          "probability": 0.3289,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 124.58,
+          "disappearAt": 126.87,
+          "emphasis": 1
+        },
+        {
+          "text": "变",
+          "start": 125.22,
+          "end": 125.56,
+          "probability": 0.5483,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 125.1,
+          "disappearAt": 126.87,
+          "emphasis": 1
+        },
+        {
+          "text": "得",
+          "start": 125.56,
+          "end": 125.76,
+          "probability": 0.4537,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 125.44,
+          "disappearAt": 126.87,
+          "emphasis": 1
+        },
+        {
+          "text": "温",
+          "start": 125.76,
+          "end": 126.16,
+          "probability": 0.5327,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 125.64,
+          "disappearAt": 126.87,
+          "emphasis": 1
+        },
+        {
+          "text": "柔",
+          "start": 126.16,
+          "end": 126.52,
+          "probability": 0.8536,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "phrase-tail-boundary"
+          ],
+          "verified": false,
+          "appearAt": 126.04,
+          "disappearAt": 126.87,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-26",
+      "section": "主歌 2",
+      "text": "是透澈的懂了",
+      "start": 126.59,
+      "end": 129.47,
+      "chars": [
+        {
+          "text": "是",
+          "start": 126.59,
+          "end": 127.25,
+          "probability": 0.2835,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 126.47,
+          "disappearAt": 129.82,
+          "emphasis": 1
+        },
+        {
+          "text": "透",
+          "start": 127.25,
+          "end": 127.57,
+          "probability": 0.0021,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 127.13,
+          "disappearAt": 129.82,
+          "emphasis": 1
+        },
+        {
+          "text": "澈",
+          "start": 127.57,
+          "end": 128.01,
+          "probability": 0.213,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 127.45,
+          "disappearAt": 129.82,
+          "emphasis": 1
+        },
+        {
+          "text": "的",
+          "start": 128.01,
+          "end": 128.57,
+          "probability": 0.9627,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 127.89,
+          "disappearAt": 129.82,
+          "emphasis": 1
+        },
+        {
+          "text": "懂",
+          "start": 128.57,
+          "end": 129.09,
+          "probability": 0.0228,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 128.45,
+          "disappearAt": 129.82,
+          "emphasis": 1
+        },
+        {
+          "text": "了",
+          "start": 129.09,
+          "end": 129.47,
+          "probability": 0.0007,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 128.97,
+          "disappearAt": 129.82,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-27",
+      "section": "主歌 2",
+      "text": "爱情是流动的",
+      "start": 130.1,
+      "end": 132.46,
+      "chars": [
+        {
+          "text": "爱",
+          "start": 130.1,
+          "end": 130.76,
+          "probability": 0.5709,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint"
+          ],
+          "verified": false,
+          "appearAt": 129.98,
+          "disappearAt": 132.81,
+          "emphasis": 1
+        },
+        {
+          "text": "情",
+          "start": 130.76,
+          "end": 131.02,
+          "probability": 0.8234,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 130.64,
+          "disappearAt": 132.81,
+          "emphasis": 1
+        },
+        {
+          "text": "是",
+          "start": 131.02,
+          "end": 131.28,
+          "probability": 0.1219,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 130.9,
+          "disappearAt": 132.81,
+          "emphasis": 1
+        },
+        {
+          "text": "流",
+          "start": 131.28,
+          "end": 131.6,
+          "probability": 0.7508,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 131.16,
+          "disappearAt": 132.81,
+          "emphasis": 1
+        },
+        {
+          "text": "动",
+          "start": 131.6,
+          "end": 132.06,
+          "probability": 0.9141,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 131.48,
+          "disappearAt": 132.81,
+          "emphasis": 1
+        },
+        {
+          "text": "的",
+          "start": 132.06,
+          "end": 132.46,
+          "probability": 0.9989,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "phrase-tail-boundary"
+          ],
+          "verified": false,
+          "appearAt": 131.94,
+          "disappearAt": 132.81,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-28",
+      "section": "主歌 2",
+      "text": "不由人的",
+      "start": 132.5,
+      "end": 134.48,
+      "chars": [
+        {
+          "text": "不",
+          "start": 132.5,
+          "end": 133.38,
+          "probability": 0.0016,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 132.38,
+          "disappearAt": 134.83,
+          "emphasis": 1
+        },
+        {
+          "text": "由",
+          "start": 133.38,
+          "end": 133.58,
+          "probability": 0.0007,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 133.26,
+          "disappearAt": 134.83,
+          "emphasis": 1
+        },
+        {
+          "text": "人",
+          "start": 133.58,
+          "end": 134.08,
+          "probability": 0.1499,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 133.46,
+          "disappearAt": 134.83,
+          "emphasis": 1
+        },
+        {
+          "text": "的",
+          "start": 134.08,
+          "end": 134.48,
+          "probability": 0.1088,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 133.96,
+          "disappearAt": 134.83,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-29",
+      "section": "主歌 2",
+      "text": "何必激动着要理由",
+      "start": 134.72,
+      "end": 137.72,
+      "chars": [
+        {
+          "text": "何",
+          "start": 134.72,
+          "end": 135.42,
+          "probability": 0.0016,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 134.6,
+          "disappearAt": 138.07,
+          "emphasis": 1
+        },
+        {
+          "text": "必",
+          "start": 135.42,
+          "end": 135.64,
+          "probability": 0.9843,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 135.3,
+          "disappearAt": 138.07,
+          "emphasis": 1
+        },
+        {
+          "text": "激",
+          "start": 135.64,
+          "end": 135.98,
+          "probability": 0.4939,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 135.52,
+          "disappearAt": 138.07,
+          "emphasis": 1
+        },
+        {
+          "text": "动",
+          "start": 135.98,
+          "end": 136.16,
+          "probability": 0.0614,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 135.86,
+          "disappearAt": 138.07,
+          "emphasis": 1
+        },
+        {
+          "text": "着",
+          "start": 136.16,
+          "end": 136.42,
+          "probability": 0.0125,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 136.04,
+          "disappearAt": 138.07,
+          "emphasis": 1
+        },
+        {
+          "text": "要",
+          "start": 136.42,
+          "end": 136.76,
+          "probability": 0.0299,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 136.3,
+          "disappearAt": 138.07,
+          "emphasis": 1
+        },
+        {
+          "text": "理",
+          "start": 136.76,
+          "end": 137.22,
+          "probability": 0.0004,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 136.64,
+          "disappearAt": 138.07,
+          "emphasis": 1
+        },
+        {
+          "text": "由",
+          "start": 137.22,
+          "end": 137.72,
+          "probability": 0.5413,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 137.1,
+          "disappearAt": 138.07,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-30",
+      "section": "副歌 2",
+      "text": "相信你只是怕伤害我",
+      "start": 139.76,
+      "end": 143.01,
+      "chars": [
+        {
+          "text": "相",
+          "start": 139.76,
+          "end": 140.44,
+          "probability": 0.0003,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 139.64,
+          "disappearAt": 143.36,
+          "emphasis": 1
+        },
+        {
+          "text": "信",
+          "start": 140.44,
+          "end": 140.72,
+          "probability": 0.2297,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 140.32,
+          "disappearAt": 143.36,
+          "emphasis": 1
+        },
+        {
+          "text": "你",
+          "start": 140.72,
+          "end": 140.98,
+          "probability": 0.9326,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 140.6,
+          "disappearAt": 143.36,
+          "emphasis": 1
+        },
+        {
+          "text": "只",
+          "start": 140.98,
+          "end": 141.24,
+          "probability": 0.0069,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 140.86,
+          "disappearAt": 143.36,
+          "emphasis": 1
+        },
+        {
+          "text": "是",
+          "start": 141.24,
+          "end": 141.56,
+          "probability": 0.0415,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 141.12,
+          "disappearAt": 143.36,
+          "emphasis": 1
+        },
+        {
+          "text": "怕",
+          "start": 141.56,
+          "end": 141.84,
+          "probability": 0.3704,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 141.44,
+          "disappearAt": 143.36,
+          "emphasis": 1
+        },
+        {
+          "text": "伤",
+          "start": 141.84,
+          "end": 142.24,
+          "probability": 0.5339,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 141.72,
+          "disappearAt": 143.36,
+          "emphasis": 1
+        },
+        {
+          "text": "害",
+          "start": 142.24,
+          "end": 142.62,
+          "probability": 0.9913,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 142.12,
+          "disappearAt": 143.36,
+          "emphasis": 1
+        },
+        {
+          "text": "我",
+          "start": 142.62,
+          "end": 143.01,
+          "probability": 0.7979,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "phrase-tail-boundary"
+          ],
+          "verified": false,
+          "appearAt": 142.5,
+          "disappearAt": 143.36,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-31",
+      "section": "副歌 2",
+      "text": "不是骗我",
+      "start": 143.05,
+      "end": 145.05,
+      "chars": [
+        {
+          "text": "不",
+          "start": 143.05,
+          "end": 143.81,
+          "probability": 0.0602,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 142.93,
+          "disappearAt": 145.4,
+          "emphasis": 1
+        },
+        {
+          "text": "是",
+          "start": 143.81,
+          "end": 144.21,
+          "probability": 0.0012,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 143.69,
+          "disappearAt": 145.4,
+          "emphasis": 1
+        },
+        {
+          "text": "骗",
+          "start": 144.21,
+          "end": 144.67,
+          "probability": 0.5058,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 144.09,
+          "disappearAt": 145.4,
+          "emphasis": 1
+        },
+        {
+          "text": "我",
+          "start": 144.67,
+          "end": 145.05,
+          "probability": 0.9146,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 144.55,
+          "disappearAt": 145.4,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-32",
+      "section": "副歌 2",
+      "text": "很爱过谁会舍得",
+      "start": 145.4,
+      "end": 148.18,
+      "chars": [
+        {
+          "text": "很",
+          "start": 145.4,
+          "end": 146.1,
+          "probability": 0.003,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 145.28,
+          "disappearAt": 148.53,
+          "emphasis": 1
+        },
+        {
+          "text": "爱",
+          "start": 146.1,
+          "end": 146.38,
+          "probability": 0.0056,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 145.98,
+          "disappearAt": 148.53,
+          "emphasis": 1
+        },
+        {
+          "text": "过",
+          "start": 146.38,
+          "end": 146.58,
+          "probability": 0.1706,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 146.26,
+          "disappearAt": 148.53,
+          "emphasis": 1
+        },
+        {
+          "text": "谁",
+          "start": 146.58,
+          "end": 147.0,
+          "probability": 0.2851,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 146.46,
+          "disappearAt": 148.53,
+          "emphasis": 1
+        },
+        {
+          "text": "会",
+          "start": 147.0,
+          "end": 147.3,
+          "probability": 0.6948,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 146.88,
+          "disappearAt": 148.53,
+          "emphasis": 1
+        },
+        {
+          "text": "舍",
+          "start": 147.3,
+          "end": 147.9,
+          "probability": 0.3797,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 147.18,
+          "disappearAt": 148.53,
+          "emphasis": 1
+        },
+        {
+          "text": "得",
+          "start": 147.9,
+          "end": 148.18,
+          "probability": 0.4066,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 147.78,
+          "disappearAt": 148.53,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-33",
+      "section": "副歌 2",
+      "text": "把我的梦摇醒了",
+      "start": 149.42,
+      "end": 152.06,
+      "chars": [
+        {
+          "text": "把",
+          "start": 149.42,
+          "end": 150.1,
+          "probability": 0.0352,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 149.3,
+          "disappearAt": 152.41,
+          "emphasis": 1
+        },
+        {
+          "text": "我",
+          "start": 150.1,
+          "end": 150.4,
+          "probability": 0.0036,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 149.98,
+          "disappearAt": 152.41,
+          "emphasis": 1
+        },
+        {
+          "text": "的",
+          "start": 150.4,
+          "end": 150.64,
+          "probability": 0.3374,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 150.28,
+          "disappearAt": 152.41,
+          "emphasis": 1
+        },
+        {
+          "text": "梦",
+          "start": 150.64,
+          "end": 151.0,
+          "probability": 0.5119,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 150.52,
+          "disappearAt": 152.41,
+          "emphasis": 1
+        },
+        {
+          "text": "摇",
+          "start": 151.0,
+          "end": 151.28,
+          "probability": 0.4746,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 150.88,
+          "disappearAt": 152.41,
+          "emphasis": 1
+        },
+        {
+          "text": "醒",
+          "start": 151.28,
+          "end": 151.68,
+          "probability": 0.7905,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 151.16,
+          "disappearAt": 152.41,
+          "emphasis": 1
+        },
+        {
+          "text": "了",
+          "start": 151.68,
+          "end": 152.06,
+          "probability": 0.9364,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 151.56,
+          "disappearAt": 152.41,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-34",
+      "section": "副歌 2",
+      "text": "宣布幸福不会来了",
+      "start": 152.24,
+      "end": 155.5,
+      "chars": [
+        {
+          "text": "宣",
+          "start": 152.24,
+          "end": 152.92,
+          "probability": 0.5137,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint"
+          ],
+          "verified": false,
+          "appearAt": 152.12,
+          "disappearAt": 155.85,
+          "emphasis": 1
+        },
+        {
+          "text": "布",
+          "start": 152.92,
+          "end": 153.28,
+          "probability": 0.9467,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 152.8,
+          "disappearAt": 155.85,
+          "emphasis": 1
+        },
+        {
+          "text": "幸",
+          "start": 153.28,
+          "end": 153.64,
+          "probability": 0.7442,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 153.16,
+          "disappearAt": 155.85,
+          "emphasis": 1
+        },
+        {
+          "text": "福",
+          "start": 153.64,
+          "end": 153.92,
+          "probability": 0.9977,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 153.52,
+          "disappearAt": 155.85,
+          "emphasis": 1
+        },
+        {
+          "text": "不",
+          "start": 153.92,
+          "end": 154.34,
+          "probability": 0.0037,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 153.8,
+          "disappearAt": 155.85,
+          "emphasis": 1
+        },
+        {
+          "text": "会",
+          "start": 154.34,
+          "end": 154.82,
+          "probability": 0.0732,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 154.22,
+          "disappearAt": 155.85,
+          "emphasis": 1
+        },
+        {
+          "text": "来",
+          "start": 154.82,
+          "end": 155.4,
+          "probability": 0.8964,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 154.7,
+          "disappearAt": 155.85,
+          "emphasis": 1
+        },
+        {
+          "text": "了",
+          "start": 155.4,
+          "end": 155.5,
+          "probability": 0.0002,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "phrase-tail-boundary",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 155.28,
+          "disappearAt": 155.85,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-35",
+      "section": "副歌 2",
+      "text": "用心酸微笑去原谅了",
+      "start": 156.06,
+      "end": 159.24,
+      "chars": [
+        {
+          "text": "用",
+          "start": 156.06,
+          "end": 156.72,
+          "probability": 0.1036,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 155.94,
+          "disappearAt": 159.59,
+          "emphasis": 1
+        },
+        {
+          "text": "心",
+          "start": 156.72,
+          "end": 156.98,
+          "probability": 0.9691,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 156.6,
+          "disappearAt": 159.59,
+          "emphasis": 1
+        },
+        {
+          "text": "酸",
+          "start": 156.98,
+          "end": 157.26,
+          "probability": 0.5522,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 156.86,
+          "disappearAt": 159.59,
+          "emphasis": 1
+        },
+        {
+          "text": "微",
+          "start": 157.26,
+          "end": 157.46,
+          "probability": 0.8774,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 157.14,
+          "disappearAt": 159.59,
+          "emphasis": 1
+        },
+        {
+          "text": "笑",
+          "start": 157.46,
+          "end": 157.72,
+          "probability": 0.9539,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 157.34,
+          "disappearAt": 159.59,
+          "emphasis": 1
+        },
+        {
+          "text": "去",
+          "start": 157.72,
+          "end": 158.08,
+          "probability": 0.1275,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 157.6,
+          "disappearAt": 159.59,
+          "emphasis": 1
+        },
+        {
+          "text": "原",
+          "start": 158.08,
+          "end": 158.5,
+          "probability": 0.3048,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 157.96,
+          "disappearAt": 159.59,
+          "emphasis": 1
+        },
+        {
+          "text": "谅",
+          "start": 158.5,
+          "end": 158.9,
+          "probability": 0.5681,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 158.38,
+          "disappearAt": 159.59,
+          "emphasis": 1
+        },
+        {
+          "text": "了",
+          "start": 158.9,
+          "end": 159.24,
+          "probability": 0.0915,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 158.78,
+          "disappearAt": 159.59,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-36",
+      "section": "副歌 2",
+      "text": "也翻越了",
+      "start": 159.29,
+      "end": 161.31,
+      "chars": [
+        {
+          "text": "也",
+          "start": 159.29,
+          "end": 160.11,
+          "probability": 0.2416,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 159.17,
+          "disappearAt": 161.66,
+          "emphasis": 1
+        },
+        {
+          "text": "翻",
+          "start": 160.11,
+          "end": 160.53,
+          "probability": 0.0172,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 159.99,
+          "disappearAt": 161.66,
+          "emphasis": 1
+        },
+        {
+          "text": "越",
+          "start": 160.53,
+          "end": 160.83,
+          "probability": 0.6838,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 160.41,
+          "disappearAt": 161.66,
+          "emphasis": 1
+        },
+        {
+          "text": "了",
+          "start": 160.83,
+          "end": 161.31,
+          "probability": 0.8002,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 160.71,
+          "disappearAt": 161.66,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-37",
+      "section": "副歌 2",
+      "text": "有昨天还是好的",
+      "start": 161.64,
+      "end": 164.38,
+      "chars": [
+        {
+          "text": "有",
+          "start": 161.64,
+          "end": 162.28,
+          "probability": 0.0567,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 161.52,
+          "disappearAt": 164.73,
+          "emphasis": 1
+        },
+        {
+          "text": "昨",
+          "start": 162.28,
+          "end": 162.6,
+          "probability": 0.0402,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 162.16,
+          "disappearAt": 164.73,
+          "emphasis": 1
+        },
+        {
+          "text": "天",
+          "start": 162.6,
+          "end": 162.86,
+          "probability": 0.9886,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 162.48,
+          "disappearAt": 164.73,
+          "emphasis": 1
+        },
+        {
+          "text": "还",
+          "start": 162.86,
+          "end": 163.22,
+          "probability": 0.0897,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 162.74,
+          "disappearAt": 164.73,
+          "emphasis": 1
+        },
+        {
+          "text": "是",
+          "start": 163.22,
+          "end": 163.56,
+          "probability": 0.0172,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 163.1,
+          "disappearAt": 164.73,
+          "emphasis": 1
+        },
+        {
+          "text": "好",
+          "start": 163.56,
+          "end": 164.08,
+          "probability": 0.0137,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 163.44,
+          "disappearAt": 164.73,
+          "emphasis": 1
+        },
+        {
+          "text": "的",
+          "start": 164.08,
+          "end": 164.38,
+          "probability": 0.8365,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "phrase-tail-boundary"
+          ],
+          "verified": false,
+          "appearAt": 163.96,
+          "disappearAt": 164.73,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-38",
+      "section": "副歌 2",
+      "text": "但明天是自己的",
+      "start": 165.7,
+      "end": 168.22,
+      "chars": [
+        {
+          "text": "但",
+          "start": 165.7,
+          "end": 166.38,
+          "probability": 0.6109,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint"
+          ],
+          "verified": false,
+          "appearAt": 165.58,
+          "disappearAt": 168.57,
+          "emphasis": 1
+        },
+        {
+          "text": "明",
+          "start": 166.38,
+          "end": 166.68,
+          "probability": 0.0001,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 166.26,
+          "disappearAt": 168.57,
+          "emphasis": 1
+        },
+        {
+          "text": "天",
+          "start": 166.68,
+          "end": 166.86,
+          "probability": 0.5946,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 166.56,
+          "disappearAt": 168.57,
+          "emphasis": 1
+        },
+        {
+          "text": "是",
+          "start": 166.86,
+          "end": 167.2,
+          "probability": 0.77,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 166.74,
+          "disappearAt": 168.57,
+          "emphasis": 1
+        },
+        {
+          "text": "自",
+          "start": 167.2,
+          "end": 167.58,
+          "probability": 0.4647,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 167.08,
+          "disappearAt": 168.57,
+          "emphasis": 1
+        },
+        {
+          "text": "己",
+          "start": 167.58,
+          "end": 167.98,
+          "probability": 0.0002,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 167.46,
+          "disappearAt": 168.57,
+          "emphasis": 1
+        },
+        {
+          "text": "的",
+          "start": 167.98,
+          "end": 168.22,
+          "probability": 0.1203,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 167.86,
+          "disappearAt": 168.57,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-39",
+      "section": "副歌 2",
+      "text": "开始懂了",
+      "start": 168.57,
+      "end": 170.77,
+      "chars": [
+        {
+          "text": "开",
+          "start": 168.57,
+          "end": 169.23,
+          "probability": 0.0007,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 168.45,
+          "disappearAt": 171.12,
+          "emphasis": 1
+        },
+        {
+          "text": "始",
+          "start": 169.23,
+          "end": 169.59,
+          "probability": 0.0001,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 169.11,
+          "disappearAt": 171.12,
+          "emphasis": 1
+        },
+        {
+          "text": "懂",
+          "start": 169.59,
+          "end": 170.23,
+          "probability": 0.0017,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 169.47,
+          "disappearAt": 171.12,
+          "emphasis": 1
+        },
+        {
+          "text": "了",
+          "start": 170.23,
+          "end": 170.77,
+          "probability": 0.7321,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 170.11,
+          "disappearAt": 171.12,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-40",
+      "section": "副歌 2",
+      "text": "快乐是选择",
+      "start": 172.17,
+      "end": 174.65,
+      "chars": [
+        {
+          "text": "快",
+          "start": 172.17,
+          "end": 172.87,
+          "probability": 0.4322,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint"
+          ],
+          "verified": false,
+          "appearAt": 172.05,
+          "disappearAt": 175.0,
+          "emphasis": 1
+        },
+        {
+          "text": "乐",
+          "start": 172.87,
+          "end": 173.15,
+          "probability": 0.1898,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 172.75,
+          "disappearAt": 175.0,
+          "emphasis": 1
+        },
+        {
+          "text": "是",
+          "start": 173.15,
+          "end": 173.51,
+          "probability": 0.1576,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 173.03,
+          "disappearAt": 175.0,
+          "emphasis": 1
+        },
+        {
+          "text": "选",
+          "start": 173.51,
+          "end": 174.21,
+          "probability": 0.1675,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 173.39,
+          "disappearAt": 175.0,
+          "emphasis": 1
+        },
+        {
+          "text": "择",
+          "start": 174.21,
+          "end": 174.65,
+          "probability": 0.7679,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 174.09,
+          "disappearAt": 175.0,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-41",
+      "section": "副歌 3",
+      "text": "相信你只是怕伤害我",
+      "start": 205.03,
+      "end": 208.08,
+      "chars": [
+        {
+          "text": "相",
+          "start": 205.03,
+          "end": 205.45,
+          "probability": 0.0001,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 204.91,
+          "disappearAt": 208.43,
+          "emphasis": 1
+        },
+        {
+          "text": "信",
+          "start": 205.45,
+          "end": 205.75,
+          "probability": 0.0019,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 205.33,
+          "disappearAt": 208.43,
+          "emphasis": 1
+        },
+        {
+          "text": "你",
+          "start": 205.75,
+          "end": 206.07,
+          "probability": 0.159,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 205.63,
+          "disappearAt": 208.43,
+          "emphasis": 1
+        },
+        {
+          "text": "只",
+          "start": 206.07,
+          "end": 206.25,
+          "probability": 0.0963,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 205.95,
+          "disappearAt": 208.43,
+          "emphasis": 1
+        },
+        {
+          "text": "是",
+          "start": 206.25,
+          "end": 206.57,
+          "probability": 0.0103,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 206.13,
+          "disappearAt": 208.43,
+          "emphasis": 1
+        },
+        {
+          "text": "怕",
+          "start": 206.57,
+          "end": 206.89,
+          "probability": 0.2245,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 206.45,
+          "disappearAt": 208.43,
+          "emphasis": 1
+        },
+        {
+          "text": "伤",
+          "start": 206.89,
+          "end": 207.39,
+          "probability": 0.4761,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 206.77,
+          "disappearAt": 208.43,
+          "emphasis": 1
+        },
+        {
+          "text": "害",
+          "start": 207.39,
+          "end": 207.71,
+          "probability": 0.9878,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 207.27,
+          "disappearAt": 208.43,
+          "emphasis": 1
+        },
+        {
+          "text": "我",
+          "start": 207.71,
+          "end": 208.08,
+          "probability": 0.8622,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "phrase-tail-boundary"
+          ],
+          "verified": false,
+          "appearAt": 207.59,
+          "disappearAt": 208.43,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-42",
+      "section": "副歌 3",
+      "text": "不是骗我",
+      "start": 208.12,
+      "end": 210.1,
+      "chars": [
+        {
+          "text": "不",
+          "start": 208.12,
+          "end": 208.9,
+          "probability": 0.1655,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 208.0,
+          "disappearAt": 210.45,
+          "emphasis": 1
+        },
+        {
+          "text": "是",
+          "start": 208.9,
+          "end": 209.28,
+          "probability": 0.0015,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 208.78,
+          "disappearAt": 210.45,
+          "emphasis": 1
+        },
+        {
+          "text": "骗",
+          "start": 209.28,
+          "end": 209.72,
+          "probability": 0.5116,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 209.16,
+          "disappearAt": 210.45,
+          "emphasis": 1
+        },
+        {
+          "text": "我",
+          "start": 209.72,
+          "end": 210.1,
+          "probability": 0.7531,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 209.6,
+          "disappearAt": 210.45,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-43",
+      "section": "副歌 3",
+      "text": "很爱过谁会舍得",
+      "start": 210.41,
+      "end": 213.25,
+      "chars": [
+        {
+          "text": "很",
+          "start": 210.41,
+          "end": 211.09,
+          "probability": 0.0027,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 210.29,
+          "disappearAt": 213.6,
+          "emphasis": 1
+        },
+        {
+          "text": "爱",
+          "start": 211.09,
+          "end": 211.41,
+          "probability": 0.0195,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 210.97,
+          "disappearAt": 213.6,
+          "emphasis": 1
+        },
+        {
+          "text": "过",
+          "start": 211.41,
+          "end": 211.61,
+          "probability": 0.0495,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 211.29,
+          "disappearAt": 213.6,
+          "emphasis": 1
+        },
+        {
+          "text": "谁",
+          "start": 211.61,
+          "end": 211.97,
+          "probability": 0.6251,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 211.49,
+          "disappearAt": 213.6,
+          "emphasis": 1
+        },
+        {
+          "text": "会",
+          "start": 211.97,
+          "end": 212.41,
+          "probability": 0.6778,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 211.85,
+          "disappearAt": 213.6,
+          "emphasis": 1
+        },
+        {
+          "text": "舍",
+          "start": 212.41,
+          "end": 212.99,
+          "probability": 0.4274,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 212.29,
+          "disappearAt": 213.6,
+          "emphasis": 1
+        },
+        {
+          "text": "得",
+          "start": 212.99,
+          "end": 213.25,
+          "probability": 0.3551,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 212.87,
+          "disappearAt": 213.6,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-44",
+      "section": "副歌 3",
+      "text": "把我的梦摇醒了",
+      "start": 214.52,
+      "end": 217.1,
+      "chars": [
+        {
+          "text": "把",
+          "start": 214.52,
+          "end": 215.2,
+          "probability": 0.0066,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 214.4,
+          "disappearAt": 217.45,
+          "emphasis": 1
+        },
+        {
+          "text": "我",
+          "start": 215.2,
+          "end": 215.5,
+          "probability": 0.0569,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 215.08,
+          "disappearAt": 217.45,
+          "emphasis": 1
+        },
+        {
+          "text": "的",
+          "start": 215.5,
+          "end": 215.72,
+          "probability": 0.0603,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 215.38,
+          "disappearAt": 217.45,
+          "emphasis": 1
+        },
+        {
+          "text": "梦",
+          "start": 215.72,
+          "end": 216.06,
+          "probability": 0.5078,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 215.6,
+          "disappearAt": 217.45,
+          "emphasis": 1
+        },
+        {
+          "text": "摇",
+          "start": 216.06,
+          "end": 216.34,
+          "probability": 0.444,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 215.94,
+          "disappearAt": 217.45,
+          "emphasis": 1
+        },
+        {
+          "text": "醒",
+          "start": 216.34,
+          "end": 216.74,
+          "probability": 0.3856,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 216.22,
+          "disappearAt": 217.45,
+          "emphasis": 1
+        },
+        {
+          "text": "了",
+          "start": 216.74,
+          "end": 217.1,
+          "probability": 0.9136,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 216.62,
+          "disappearAt": 217.45,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-45",
+      "section": "副歌 3",
+      "text": "宣布幸福不会来了",
+      "start": 217.3,
+      "end": 220.74,
+      "chars": [
+        {
+          "text": "宣",
+          "start": 217.3,
+          "end": 218.08,
+          "probability": 0.4726,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint"
+          ],
+          "verified": false,
+          "appearAt": 217.18,
+          "disappearAt": 221.09,
+          "emphasis": 1
+        },
+        {
+          "text": "布",
+          "start": 218.08,
+          "end": 218.42,
+          "probability": 0.9524,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 217.96,
+          "disappearAt": 221.09,
+          "emphasis": 1
+        },
+        {
+          "text": "幸",
+          "start": 218.42,
+          "end": 218.76,
+          "probability": 0.8948,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 218.3,
+          "disappearAt": 221.09,
+          "emphasis": 1
+        },
+        {
+          "text": "福",
+          "start": 218.76,
+          "end": 219.04,
+          "probability": 0.9945,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 218.64,
+          "disappearAt": 221.09,
+          "emphasis": 1
+        },
+        {
+          "text": "不",
+          "start": 219.04,
+          "end": 219.48,
+          "probability": 0.447,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 218.92,
+          "disappearAt": 221.09,
+          "emphasis": 1
+        },
+        {
+          "text": "会",
+          "start": 219.48,
+          "end": 219.92,
+          "probability": 0.0424,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 219.36,
+          "disappearAt": 221.09,
+          "emphasis": 1
+        },
+        {
+          "text": "来",
+          "start": 219.92,
+          "end": 220.4,
+          "probability": 0.247,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 219.8,
+          "disappearAt": 221.09,
+          "emphasis": 1
+        },
+        {
+          "text": "了",
+          "start": 220.4,
+          "end": 220.74,
+          "probability": 0.0548,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "phrase-tail-boundary",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 220.28,
+          "disappearAt": 221.09,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-46",
+      "section": "副歌 3",
+      "text": "用心酸微笑去原谅了",
+      "start": 221.08,
+      "end": 224.36,
+      "chars": [
+        {
+          "text": "用",
+          "start": 221.08,
+          "end": 221.78,
+          "probability": 0.2835,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 220.96,
+          "disappearAt": 224.71,
+          "emphasis": 1
+        },
+        {
+          "text": "心",
+          "start": 221.78,
+          "end": 222.02,
+          "probability": 0.785,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 221.66,
+          "disappearAt": 224.71,
+          "emphasis": 1
+        },
+        {
+          "text": "酸",
+          "start": 222.02,
+          "end": 222.34,
+          "probability": 0.4603,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 221.9,
+          "disappearAt": 224.71,
+          "emphasis": 1
+        },
+        {
+          "text": "微",
+          "start": 222.34,
+          "end": 222.56,
+          "probability": 0.0247,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 222.22,
+          "disappearAt": 224.71,
+          "emphasis": 1
+        },
+        {
+          "text": "笑",
+          "start": 222.56,
+          "end": 222.82,
+          "probability": 0.3312,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 222.44,
+          "disappearAt": 224.71,
+          "emphasis": 1
+        },
+        {
+          "text": "去",
+          "start": 222.82,
+          "end": 223.18,
+          "probability": 0.0099,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 222.7,
+          "disappearAt": 224.71,
+          "emphasis": 1
+        },
+        {
+          "text": "原",
+          "start": 223.18,
+          "end": 223.62,
+          "probability": 0.0286,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 223.06,
+          "disappearAt": 224.71,
+          "emphasis": 1
+        },
+        {
+          "text": "谅",
+          "start": 223.62,
+          "end": 224.16,
+          "probability": 0.5259,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 223.5,
+          "disappearAt": 224.71,
+          "emphasis": 1
+        },
+        {
+          "text": "了",
+          "start": 224.16,
+          "end": 224.36,
+          "probability": 0.1479,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 224.04,
+          "disappearAt": 224.71,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-47",
+      "section": "副歌 3",
+      "text": "也翻越了",
+      "start": 224.68,
+      "end": 226.62,
+      "chars": [
+        {
+          "text": "也",
+          "start": 224.68,
+          "end": 225.42,
+          "probability": 0.0484,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 224.56,
+          "disappearAt": 226.97,
+          "emphasis": 1
+        },
+        {
+          "text": "翻",
+          "start": 225.42,
+          "end": 225.88,
+          "probability": 0.0209,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 225.3,
+          "disappearAt": 226.97,
+          "emphasis": 1
+        },
+        {
+          "text": "越",
+          "start": 225.88,
+          "end": 226.18,
+          "probability": 0.4123,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 225.76,
+          "disappearAt": 226.97,
+          "emphasis": 1
+        },
+        {
+          "text": "了",
+          "start": 226.18,
+          "end": 226.62,
+          "probability": 0.7946,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 226.06,
+          "disappearAt": 226.97,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-48",
+      "section": "副歌 3",
+      "text": "有昨天还是好的",
+      "start": 226.74,
+      "end": 229.46,
+      "chars": [
+        {
+          "text": "有",
+          "start": 226.74,
+          "end": 227.38,
+          "probability": 0.0046,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 226.62,
+          "disappearAt": 229.81,
+          "emphasis": 1
+        },
+        {
+          "text": "昨",
+          "start": 227.38,
+          "end": 227.66,
+          "probability": 0.1724,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 227.26,
+          "disappearAt": 229.81,
+          "emphasis": 1
+        },
+        {
+          "text": "天",
+          "start": 227.66,
+          "end": 227.96,
+          "probability": 0.9868,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 227.54,
+          "disappearAt": 229.81,
+          "emphasis": 1
+        },
+        {
+          "text": "还",
+          "start": 227.96,
+          "end": 228.3,
+          "probability": 0.0174,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 227.84,
+          "disappearAt": 229.81,
+          "emphasis": 1
+        },
+        {
+          "text": "是",
+          "start": 228.3,
+          "end": 228.76,
+          "probability": 0.3621,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 228.18,
+          "disappearAt": 229.81,
+          "emphasis": 1
+        },
+        {
+          "text": "好",
+          "start": 228.76,
+          "end": 229.14,
+          "probability": 0.0365,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 228.64,
+          "disappearAt": 229.81,
+          "emphasis": 1
+        },
+        {
+          "text": "的",
+          "start": 229.14,
+          "end": 229.46,
+          "probability": 0.2647,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "phrase-tail-boundary",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 229.02,
+          "disappearAt": 229.81,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-49",
+      "section": "副歌 3",
+      "text": "但明天是自己的",
+      "start": 230.8,
+      "end": 233.28,
+      "chars": [
+        {
+          "text": "但",
+          "start": 230.8,
+          "end": 231.46,
+          "probability": 0.0109,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 230.68,
+          "disappearAt": 233.63,
+          "emphasis": 1
+        },
+        {
+          "text": "明",
+          "start": 231.46,
+          "end": 231.74,
+          "probability": 0.2095,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 231.34,
+          "disappearAt": 233.63,
+          "emphasis": 1
+        },
+        {
+          "text": "天",
+          "start": 231.74,
+          "end": 231.94,
+          "probability": 0.0239,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 231.62,
+          "disappearAt": 233.63,
+          "emphasis": 1
+        },
+        {
+          "text": "是",
+          "start": 231.94,
+          "end": 232.26,
+          "probability": 0.8671,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 231.82,
+          "disappearAt": 233.63,
+          "emphasis": 1
+        },
+        {
+          "text": "自",
+          "start": 232.26,
+          "end": 232.62,
+          "probability": 0.3313,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 232.14,
+          "disappearAt": 233.63,
+          "emphasis": 1
+        },
+        {
+          "text": "己",
+          "start": 232.62,
+          "end": 233.0,
+          "probability": 0.0007,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 232.5,
+          "disappearAt": 233.63,
+          "emphasis": 1
+        },
+        {
+          "text": "的",
+          "start": 233.0,
+          "end": 233.28,
+          "probability": 0.9787,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 232.88,
+          "disappearAt": 233.63,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-50",
+      "section": "副歌 3",
+      "text": "开始懂了",
+      "start": 233.57,
+      "end": 235.89,
+      "chars": [
+        {
+          "text": "开",
+          "start": 233.57,
+          "end": 234.35,
+          "probability": 0.005,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 233.45,
+          "disappearAt": 236.24,
+          "emphasis": 1
+        },
+        {
+          "text": "始",
+          "start": 234.35,
+          "end": 234.75,
+          "probability": 0.001,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 234.23,
+          "disappearAt": 236.24,
+          "emphasis": 1
+        },
+        {
+          "text": "懂",
+          "start": 234.75,
+          "end": 235.45,
+          "probability": 0.0601,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 234.63,
+          "disappearAt": 236.24,
+          "emphasis": 1
+        },
+        {
+          "text": "了",
+          "start": 235.45,
+          "end": 235.89,
+          "probability": 0.9227,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 235.33,
+          "disappearAt": 236.24,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    },
+    {
+      "id": "line-51",
+      "section": "副歌 3",
+      "text": "快乐是选择",
+      "start": 237.24,
+      "end": 240.7,
+      "chars": [
+        {
+          "text": "快",
+          "start": 237.24,
+          "end": 237.96,
+          "probability": 0.0438,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "first-character-onset-hint",
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 237.12,
+          "disappearAt": 241.05,
+          "emphasis": 1
+        },
+        {
+          "text": "乐",
+          "start": 237.96,
+          "end": 238.3,
+          "probability": 0.0848,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 237.84,
+          "disappearAt": 241.05,
+          "emphasis": 1
+        },
+        {
+          "text": "是",
+          "start": 238.3,
+          "end": 238.72,
+          "probability": 0.2085,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 238.18,
+          "disappearAt": 241.05,
+          "emphasis": 1
+        },
+        {
+          "text": "选",
+          "start": 238.72,
+          "end": 240.4,
+          "probability": 0.2168,
+          "method": "base-character-attention",
+          "reviewReasons": [
+            "low-model-probability"
+          ],
+          "verified": false,
+          "appearAt": 238.6,
+          "disappearAt": 241.05,
+          "emphasis": 1
+        },
+        {
+          "text": "择",
+          "start": 240.4,
+          "end": 240.7,
+          "probability": 0.6057,
+          "method": "base-character-attention",
+          "reviewReasons": [],
+          "verified": false,
+          "appearAt": 240.28,
+          "disappearAt": 241.05,
+          "emphasis": 1
+        }
+      ],
+      "verified": false
+    }
+  ],
+  "textStatus": "cross-checked",
+  "timingStatus": "character-draft",
+  "textReview": {
+    "checkedAt": "2026-10-23",
+    "textStatus": "cross-checked",
+    "userConfirmed": false,
+    "timingStatus": "draft",
+    "mainLines": 51,
+    "order": [
+      "主歌 1",
+      "副歌 1",
+      "主歌 2",
+      "副歌 2",
+      "副歌 3"
+    ],
+    "sources": [
+      {
+        "name": "LINE MUSIC",
+        "url": "https://music-tw.line.me/track/1020112005"
+      },
+      {
+        "name": "JOOX",
+        "url": "https://www.joox.com/hk/single/JzjFoizcyxjxP7BO1ugw1A=="
+      },
+      {
+        "name": "酷狗音乐",
+        "url": "https://www.kugou.com/song-36/7aaodd.html"
+      },
+      {
+        "name": "本地 MV 字幕样本",
+        "file": "analysis/lyric-spelling-reference.jpg",
+        "time": 127.5
+      }
+    ],
+    "conclusion": "正文与平台歌词交叉比对一致（统一简繁、忽略分句和字形版本差异）；未发现正文漏句或重复顺序错误。时间尚未确认。",
+    "spellingNote": "本地 MV 与 LINE MUSIC 为“透澈”；JOOX／酷狗为“透彻”。本项目保留本地 MV 的“透澈”，不将该差异判为漏字或错词。",
+    "omittedVocalizations": [
+      {
+        "referenceTime": 181.95,
+        "text": "啊 耶耶",
+        "status": "platform-listed-local-vocal-check-pending"
+      },
+      {
+        "referenceTime": 202.71,
+        "text": "哦 耶耶",
+        "status": "platform-listed-local-vocal-check-pending"
+      }
+    ],
+    "vocalizationNote": "平台列出的两处间奏哼唱单独记录；未在本地音轨确认前，不加入正式逐字时间轴。"
+  },
+  "alignmentRevision": 2
+}

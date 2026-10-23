@@ -1,0 +1,160 @@
+{
+  "snapshotAt": "2026-10-23T15:09:33.696460+08:00",
+  "root": "C:\\Users\\byd\\Desktop\\tmp\\mvs",
+  "repository": {
+    "remote": "https://github.com/foolproofworld/mvs.git",
+    "branch": "main",
+    "hasCommit": false,
+    "trackedFileCount": 0,
+    "note": "All project work remains local and untracked. No commit or push performed."
+  },
+  "decisions": {
+    "song": "开始懂了",
+    "artist": "孙燕姿",
+    "sourceDurationSeconds": 270.047846,
+    "selectedLyricVersion": "kugou-135049983",
+    "display": "all-individual-characters",
+    "configurationModeIsLegacyName": "words",
+    "presentation": "all-characters-rhythm-v3",
+    "visualStyle": null,
+    "visualStyleStatus": "awaiting-explicit-user-selection",
+    "agentRecommendationOnly": "paper",
+    "completeSongVisualsFinished": false,
+    "deployed": false,
+    "finalMp4Exists": false
+  },
+  "runtime": {
+    "node": "v22.23.2",
+    "python": "3.12.14",
+    "previewRoot": "http://127.0.0.1:5173/",
+    "visualPreview": "http://127.0.0.1:5173/visual.html"
+  },
+  "browserCalibration": {
+    "origin": "http://127.0.0.1:5173",
+    "selectedVersionKey": "mvs-calibration-v1:kugou-135049983",
+    "actualUserValuesCaptured": false,
+    "includedInLyricArchive": false,
+    "exportBeforeMigration": true
+  },
+  "verification": {
+    "testsExitCode": 0,
+    "tests": 17,
+    "passed": 17,
+    "failed": 0,
+    "syntaxExitCodes": {
+      "app.js": 0,
+      "editor.js": 0,
+      "timing.js": 0,
+      "words.js": 0,
+      "visual.js": 0,
+      "visual-state.js": 0,
+      "visual-renderer.js": 0,
+      "scripts/serve.mjs": 0
+    },
+    "httpHead": {
+      "/": {
+        "status": 200,
+        "bytes": 6930
+      },
+      "/visual.html": {
+        "status": 200,
+        "bytes": 2199
+      },
+      "/data/project.json": {
+        "status": 200,
+        "bytes": 320
+      },
+      "/data/versions/kugou-135049983.json": {
+        "status": 200,
+        "bytes": 99294
+      },
+      "/analysis/audio/song.m4a": {
+        "status": 200,
+        "bytes": 6625387
+      }
+    },
+    "archiveHashMatches": true,
+    "sourceSnapshotMismatches": [],
+    "zipIntegrityError": null,
+    "zipEntries": 30,
+    "visualReviewReport": "review/visual-r1-report.json",
+    "evidenceScope": "Unit checks and sampled browser/canvas checks; not full-song rendering or subjective sync certification."
+  },
+  "files": [
+    {
+      "path": "26488341311-1-192.mp4",
+      "bytes": 38747870,
+      "sha256": "b2a658da6133457e24b296859351c1c7b7f57470fbead0b99ff360a311e85f02"
+    },
+    {
+      "path": "analysis/audio/song.m4a",
+      "bytes": 6625387,
+      "sha256": "78e10276316785c6a698ef8fe1b5d2a643d0057aa10ebf721abc30a1d333d91f"
+    },
+    {
+      "path": "data/project.json",
+      "bytes": 320,
+      "sha256": "1a600d570758279fcc0d39d27f6d9fdc14ddfade07a196612d40ea08f5d8fd22"
+    },
+    {
+      "path": "data/versions.json",
+      "bytes": 1843,
+      "sha256": "87b53eecff7f2fa3bc1e8bbd01660280ba3ab965db33efcec0432fee75188e1e"
+    },
+    {
+      "path": "data/lyrics.json",
+      "bytes": 132479,
+      "sha256": "0f269f89bdd4df4ff093c235fa3d3a39f01ca78f56b8f70de0d42d8da848f47b"
+    },
+    {
+      "path": "data/versions/kugou-223522842.json",
+      "bytes": 99282,
+      "sha256": "2fdb52b6269063b053709e562c63948ef892783240a961cda59af355aade17d4"
+    },
+    {
+      "path": "data/versions/kugou-191997125.json",
+      "bytes": 99289,
+      "sha256": "6ab87f9a1296895fdacb22349643d901f4a049e44b66d24e7e79a90b796bff99"
+    },
+    {
+      "path": "data/versions/kugou-135049983.json",
+      "bytes": 99294,
+      "sha256": "d3916ecdfc5413c86677944126a5cc16686333a2240fc5ebaaf6dc8802c1c09c"
+    },
+    {
+      "path": "data/versions/kugou-826083305.json",
+      "bytes": 99167,
+      "sha256": "27731d2dc78e047f0e49a04b4b4072cb4aeec53265b615cb7cb70aa9971a19b9"
+    },
+    {
+      "path": "archive/lyrics-versions-2026-10-23.zip",
+      "bytes": 552988,
+      "sha256": "a45b9c1d7524da254e144e7b69ef04cb76d1ebd6ac61607c9b37c0adb2d47bc9"
+    },
+    {
+      "path": "archive/lyrics-versions-2026-10-23.manifest.json",
+      "bytes": 5844,
+      "sha256": "0ad56a66446a749df178777cc8dd64b1994f088c81a9a65edcd0426bc269403b"
+    },
+    {
+      "path": "HANDOFF.md",
+      "bytes": 43245,
+      "sha256": "d2dbbabbbf5dab8cabd9a15a9e9d877ce325ca73be448638ec243a99b76834bd"
+    },
+    {
+      "path": "docs/接手提示词.md",
+      "bytes": 3553,
+      "sha256": "3e94223d79316efa9bbad97c748a3695fe107c4141f4a943cfa2ce412d51b447"
+    }
+  ],
+  "nextSteps": [
+    "preserve-local-work-and-browser-calibration",
+    "obtain-explicit-visual-style-choice",
+    "character-or-subject-design",
+    "full-song-sections-and-storyboard",
+    "keyframes-and-hardest-scene-preview",
+    "full-frontend-mv",
+    "full-song-sync-and-performance-review",
+    "static-delivery-and-backup"
+  ]
+}

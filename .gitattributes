@@ -1,0 +1,2 @@
+# 按原样保存每个文件的字节，不做换行转换：歌词原始文件与归档 ZIP 的 SHA-256 由 tests/words.test.mjs 校验
+* -text

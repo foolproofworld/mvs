@@ -1,0 +1,48 @@
+{
+  "checkedAt": "2026-10-23",
+  "textStatus": "cross-checked",
+  "userConfirmed": false,
+  "timingStatus": "draft",
+  "mainLines": 51,
+  "order": [
+    "主歌 1",
+    "副歌 1",
+    "主歌 2",
+    "副歌 2",
+    "副歌 3"
+  ],
+  "sources": [
+    {
+      "name": "LINE MUSIC",
+      "url": "https://music-tw.line.me/track/1020112005"
+    },
+    {
+      "name": "JOOX",
+      "url": "https://www.joox.com/hk/single/JzjFoizcyxjxP7BO1ugw1A=="
+    },
+    {
+      "name": "酷狗音乐",
+      "url": "https://www.kugou.com/song-36/7aaodd.html"
+    },
+    {
+      "name": "本地 MV 字幕样本",
+      "file": "analysis/lyric-spelling-reference.jpg",
+      "time": 127.5
+    }
+  ],
+  "conclusion": "正文与平台歌词交叉比对一致（统一简繁、忽略分句和字形版本差异）；未发现正文漏句或重复顺序错误。时间尚未确认。",
+  "spellingNote": "本地 MV 与 LINE MUSIC 为“透澈”；JOOX／酷狗为“透彻”。本项目保留本地 MV 的“透澈”，不将该差异判为漏字或错词。",
+  "omittedVocalizations": [
+    {
+      "referenceTime": 181.95,
+      "text": "啊 耶耶",
+      "status": "platform-listed-local-vocal-check-pending"
+    },
+    {
+      "referenceTime": 202.71,
+      "text": "哦 耶耶",
+      "status": "platform-listed-local-vocal-check-pending"
+    }
+  ],
+  "vocalizationNote": "平台列出的两处间奏哼唱单独记录；未在本地音轨确认前，不加入正式逐字时间轴。"
+}

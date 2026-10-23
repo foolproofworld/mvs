@@ -1,0 +1,50 @@
+[
+  {
+    "id": "auto",
+    "name": "本地自动对齐 · 对照基线",
+    "format": "模型候选",
+    "url": "data/lyrics.json",
+    "provider": "local",
+    "description": "原有本地逐字候选，保留已有人工校准记录。"
+  },
+  {
+    "id": "kugou-223522842",
+    "name": "酷狗 KRC 1 · ID 223522842",
+    "format": "逐字 KRC",
+    "url": "data/versions/kugou-223522842.json",
+    "provider": "kugou",
+    "description": "原始分句 49 行 · 325 字 · 首句 21.367s；音源时长 271.669s，尚未验证与本地MV完全一致。",
+    "firstStart": 21.367,
+    "lastEnd": 244.201
+  },
+  {
+    "id": "kugou-191997125",
+    "name": "酷狗 KRC 2 · ID 191997125",
+    "format": "逐字 KRC",
+    "url": "data/versions/kugou-191997125.json",
+    "provider": "kugou",
+    "description": "原始分句 49 行 · 325 字 · 首句 21.304s；音源时长 271.669s，尚未验证与本地MV完全一致。",
+    "firstStart": 21.304,
+    "lastEnd": 243.652
+  },
+  {
+    "id": "kugou-135049983",
+    "name": "酷狗 KRC 3 · 比版本1整体晚0.5秒",
+    "format": "逐字 KRC",
+    "url": "data/versions/kugou-135049983.json",
+    "provider": "kugou",
+    "description": "原始分句 49 行 · 325 字 · 首句 21.867s；音源时长 271.542s，尚未验证与本地MV完全一致。 与版本1相对字时长一致，只差整体 +0.500s。",
+    "firstStart": 21.867,
+    "lastEnd": 244.701
+  },
+  {
+    "id": "kugou-826083305",
+    "name": "酷狗 KRC 4 · ID 826083305",
+    "format": "逐字 KRC",
+    "url": "data/versions/kugou-826083305.json",
+    "provider": "kugou",
+    "description": "原始分句 49 行 · 325 字 · 首句 21.472s；音源时长 271.568s，尚未验证与本地MV完全一致。",
+    "firstStart": 21.472,
+    "lastEnd": 243.592
+  }
+]

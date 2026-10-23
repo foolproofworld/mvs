@@ -1,0 +1,19 @@
+{
+  "file": "26488341311-1-192.mp4",
+  "size": 38747870,
+  "sha256": "b2a658da6133457e24b296859351c1c7b7f57470fbead0b99ff360a311e85f02",
+  "duration": 270.047846,
+  "ffmpeg": "C:\\Users\\byd\\Desktop\\tmp\\mvs\\.venv\\Lib\\site-packages\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+  "streams": [
+    {
+      "type": "video",
+      "duration": 269.966,
+      "codec": "h264"
+    },
+    {
+      "type": "audio",
+      "duration": 270.04784580498864,
+      "codec": "aac"
+    }
+  ]
+}

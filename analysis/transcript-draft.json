@@ -1,0 +1,1778 @@
+[
+  {
+    "start": 30.460000000000008,
+    "end": 37.68,
+    "text": "走 一点都不想我",
+    "avg_logprob": -0.5241331142006498,
+    "no_speech_prob": 0.7969627976417542,
+    "words": [
+      {
+        "start": 30.460000000000008,
+        "end": 31.340000000000003,
+        "text": "走",
+        "probability": 0.017155317589640617
+      },
+      {
+        "start": 31.340000000000003,
+        "end": 32.22,
+        "text": " 一",
+        "probability": 0.1680271327495575
+      },
+      {
+        "start": 32.22,
+        "end": 32.4,
+        "text": "点",
+        "probability": 0.5427758693695068
+      },
+      {
+        "start": 32.4,
+        "end": 32.7,
+        "text": "都",
+        "probability": 0.4102954864501953
+      },
+      {
+        "start": 32.7,
+        "end": 33.18,
+        "text": "不",
+        "probability": 0.9774335026741028
+      },
+      {
+        "start": 33.18,
+        "end": 33.54,
+        "text": "想",
+        "probability": 0.5606032013893127
+      },
+      {
+        "start": 33.54,
+        "end": 37.68,
+        "text": "我",
+        "probability": 0.8918861150741577
+      }
+    ],
+    "verified": false
+  },
+  {
+    "start": 37.68,
+    "end": 40.78,
+    "text": "来人会变得温柔",
+    "avg_logprob": -0.5241331142006498,
+    "no_speech_prob": 0.7969627976417542,
+    "words": [
+      {
+        "start": 37.68,
+        "end": 38.56,
+        "text": "来",
+        "probability": 0.11526326835155487
+      },
+      {
+        "start": 38.56,
+        "end": 39.0,
+        "text": "人",
+        "probability": 0.9529128670692444
+      },
+      {
+        "start": 39.0,
+        "end": 39.52,
+        "text": "会",
+        "probability": 0.8664229512214661
+      },
+      {
+        "start": 39.52,
+        "end": 39.82,
+        "text": "变",
+        "probability": 0.6925722807645798
+      },
+      {
+        "start": 39.82,
+        "end": 40.1,
+        "text": "得",
+        "probability": 0.4773532450199127
+      },
+      {
+        "start": 40.1,
+        "end": 40.34,
+        "text": "温",
+        "probability": 0.7896914184093475
+      },
+      {
+        "start": 40.34,
+        "end": 40.78,
+        "text": "柔",
+        "probability": 0.9682733714580536
+      }
+    ],
+    "verified": false
+  },
+  {
+    "start": 40.78,
+    "end": 44.58,
+    "text": "这都着难懂了",
+    "avg_logprob": -0.5241331142006498,
+    "no_speech_prob": 0.7969627976417542,
+    "words": [
+      {
+        "start": 40.78,
+        "end": 41.6,
+        "text": "这",
+        "probability": 0.8125370144844055
+      },
+      {
+        "start": 41.6,
+        "end": 41.96,
+        "text": "都",
+        "probability": 0.18974213302135468
+      },
+      {
+        "start": 41.96,
+        "end": 42.38,
+        "text": "着",
+        "probability": 0.14335718750953674
+      },
+      {
+        "start": 42.38,
+        "end": 42.88,
+        "text": "难",
+        "probability": 0.5954000949859619
+      },
+      {
+        "start": 42.88,
+        "end": 43.44,
+        "text": "懂",
+        "probability": 0.5093909502029419
+      },
+      {
+        "start": 43.44,
+        "end": 44.58,
+        "text": "了",
+        "probability": 0.3691808879375458
+      }
+    ],
+    "verified": false
+  },
+  {
+    "start": 44.58,
+    "end": 46.98,
+    "text": "爱情是来来懂的",
+    "avg_logprob": -0.5241331142006498,
+    "no_speech_prob": 0.7969627976417542,
+    "words": [
+      {
+        "start": 44.58,
+        "end": 45.2,
+        "text": "爱",
+        "probability": 0.9345594048500061
+      },
+      {
+        "start": 45.2,
+        "end": 45.44,
+        "text": "情",
+        "probability": 0.986689567565918
+      },
+      {
+        "start": 45.44,
+        "end": 45.72,
+        "text": "是",
+        "probability": 0.9677481055259705
+      },
+      {
+        "start": 45.72,
+        "end": 45.96,
+        "text": "来",
+        "probability": 0.09936369210481644
+      },
+      {
+        "start": 45.96,
+        "end": 46.18,
+        "text": "来",
+        "probability": 0.36916258931159973
+      },
+      {
+        "start": 46.18,
+        "end": 46.48,
+        "text": "懂",
+        "probability": 0.37017184495925903
+      },
+      {
+        "start": 46.48,
+        "end": 46.98,
+        "text": "的",
+        "probability": 0.9759325981140137
+      }
+    ],
+    "verified": false
+  },
+  {
+    "start": 46.98,
+    "end": 49.3,
+    "text": "不用人的",
+    "avg_logprob": -0.5241331142006498,
+    "no_speech_prob": 0.7969627976417542,
+    "words": [
+      {
+        "start": 46.98,
+        "end": 47.88,
+        "text": "不用",
+        "probability": 0.3471176326274872
+      },
+      {
+        "start": 47.88,
+        "end": 48.56,
+        "text": "人",
+        "probability": 0.4363058805465698
+      },
+      {
+        "start": 48.56,
+        "end": 49.3,
+        "text": "的",
+        "probability": 0.8556995391845703
+      }
+    ],
+    "verified": false
+  },
+  {
+    "start": 49.3,
+    "end": 52.18,
+    "text": "他必须等着要理由",
+    "avg_logprob": -0.5241331142006498,
+    "no_speech_prob": 0.7969627976417542,
+    "words": [
+      {
+        "start": 49.3,
+        "end": 49.74,
+        "text": "他",
+        "probability": 0.13368059694766998
+      },
+      {
+        "start": 49.74,
+        "end": 50.02,
+        "text": "必",
+        "probability": 0.7998397350311279
+      },
+      {
+        "start": 50.02,
+        "end": 50.2,
+        "text": "须",
+        "probability": 0.5777430906891823
+      },
+      {
+        "start": 50.2,
+        "end": 50.5,
+        "text": "等",
+        "probability": 0.22095689177513123
+      },
+      {
+        "start": 50.5,
+        "end": 50.72,
+        "text": "着",
+        "probability": 0.9605614542961121
+      },
+      {
+        "start": 50.72,
+        "end": 51.18,
+        "text": "要",
+        "probability": 0.8130811452865601
+      },
+      {
+        "start": 51.18,
+        "end": 51.58,
+        "text": "理",
+        "probability": 0.5434414148330688
+      },
+      {
+        "start": 51.58,
+        "end": 52.18,
+        "text": "由",
+        "probability": 0.9654264450073242
+      }
+    ],
+    "verified": false
+  },
+  {
+    "start": 54.220000000000006,
+    "end": 57.78,
+    "text": "相信你只是怕伤害我",
+    "avg_logprob": -0.5241331142006498,
+    "no_speech_prob": 0.7969627976417542,
+    "words": [
+      {
+        "start": 54.220000000000006,
+        "end": 55.1,
+        "text": "相信",
+        "probability": 0.9663757085800171
+      },
+      {
+        "start": 55.1,
+        "end": 55.48,
+        "text": "你",
+        "probability": 0.9893702268600464
+      },
+      {
+        "start": 55.48,
+        "end": 55.94,
+        "text": "只是",
+        "probability": 0.9761172533035278
+      },
+      {
+        "start": 55.94,
+        "end": 56.38,
+        "text": "怕",
+        "probability": 0.9766136407852173
+      },
+      {
+        "start": 56.38,
+        "end": 56.76,
+        "text": "伤",
+        "probability": 0.8708267211914062
+      },
+      {
+        "start": 56.76,
+        "end": 57.18,
+        "text": "害",
+        "probability": 0.9915015697479248
+      },
+      {
+        "start": 57.18,
+        "end": 57.78,
+        "text": "我",
+        "probability": 0.9665647745132446
+      }
+    ],
+    "verified": false
+  },
+  {
+    "start": 57.78,
+    "end": 63.54,
+    "text": "不是騙我 愛過誰會生的",
+    "avg_logprob": -0.42691762307110953,
+    "no_speech_prob": 0.5610032677650452,
+    "words": [
+      {
+        "start": 57.78,
+        "end": 58.7,
+        "text": "不是",
+        "probability": 0.05886935815215111
+      },
+      {
+        "start": 58.7,
+        "end": 59.18,
+        "text": "騙",
+        "probability": 0.6660092771053314
+      },
+      {
+        "start": 59.18,
+        "end": 60.0,
+        "text": "我",
+        "probability": 0.9821298718452454
+      },
+      {
+        "start": 60.22,
+        "end": 60.64,
+        "text": " 愛",
+        "probability": 0.8092057704925537
+      },
+      {
+        "start": 60.64,
+        "end": 61.14,
+        "text": "過",
+        "probability": 0.7303611040115356
+      },
+      {
+        "start": 61.14,
+        "end": 61.46,
+        "text": "誰",
+        "probability": 0.9384517669677734
+      },
+      {
+        "start": 61.46,
+        "end": 61.86,
+        "text": "會",
+        "probability": 0.7882632613182068
+      },
+      {
+        "start": 61.86,
+        "end": 62.46,
+        "text": "生",
+        "probability": 0.6562245488166809
+      },
+      {
+        "start": 62.46,
+        "end": 63.54,
+        "text": "的",
+        "probability": 0.9351262450218201
+      }
+    ],
+    "verified": false
+  },
+  {
+    "start": 63.54,
+    "end": 66.78,
+    "text": "當我的夢要醒了",
+    "avg_logprob": -0.42691762307110953,
+    "no_speech_prob": 0.5610032677650452,
+    "words": [
+      {
+        "start": 63.54,
+        "end": 64.7,
+        "text": "當",
+        "probability": 0.25267869234085083
+      },
+      {
+        "start": 64.7,
+        "end": 65.22,
+        "text": "我的",
+        "probability": 0.5522972941398621
+      },
+      {
+        "start": 65.22,
+        "end": 65.44,
+        "text": "夢",
+        "probability": 0.9731749892234802
+      },
+      {
+        "start": 65.44,
+        "end": 65.9,
+        "text": "要",
+        "probability": 0.8905870914459229
+      },
+      {
+        "start": 65.9,
+        "end": 66.22,
+        "text": "醒",
+        "probability": 0.9630820155143738
+      },
+      {
+        "start": 66.22,
+        "end": 66.78,
+        "text": "了",
+        "probability": 0.8696568012237549
+      }
+    ],
+    "verified": false
+  },
+  {
+    "start": 66.78,
+    "end": 70.74,
+    "text": "全部幸福也不回來了",
+    "avg_logprob": -0.42691762307110953,
+    "no_speech_prob": 0.5610032677650452,
+    "words": [
+      {
+        "start": 66.78,
+        "end": 67.7,
+        "text": "全部",
+        "probability": 0.7721668481826782
+      },
+      {
+        "start": 67.7,
+        "end": 68.2,
+        "text": "幸",
+        "probability": 0.936320424079895
+      },
+      {
+        "start": 68.2,
+        "end": 68.5,
+        "text": "福",
+        "probability": 0.9970172643661499
+      },
+      {
+        "start": 68.5,
+        "end": 68.8,
+        "text": "也",
+        "probability": 0.17614354193210602
+      },
+      {
+        "start": 68.8,
+        "end": 69.02,
+        "text": "不",
+        "probability": 0.6879254579544067
+      },
+      {
+        "start": 69.02,
+        "end": 69.78,
+        "text": "回來",
+        "probability": 0.9316227436065674
+      },
+      {
+        "start": 69.78,
+        "end": 70.74,
+        "text": "了",
+        "probability": 0.6108995079994202
+      }
+    ],
+    "verified": false
+  },
+  {
+    "start": 70.74,
+    "end": 74.14,
+    "text": "用心算微笑去原諒了",
+    "avg_logprob": -0.42691762307110953,
+    "no_speech_prob": 0.5610032677650452,
+    "words": [
+      {
+        "start": 70.74,
+        "end": 71.28,
+        "text": "用",
+        "probability": 0.41023558378219604
+      },
+      {
+        "start": 71.28,
+        "end": 71.52,
+        "text": "心",
+        "probability": 0.9925525188446045
+      },
+      {
+        "start": 71.52,
+        "end": 71.8,
+        "text": "算",
+        "probability": 0.40806692838668823
+      },
+      {
+        "start": 71.8,
+        "end": 72.08,
+        "text": "微",
+        "probability": 0.5047587156295776
+      },
+      {
+        "start": 72.08,
+        "end": 72.28,
+        "text": "笑",
+        "probability": 0.9818409085273743
+      },
+      {
+        "start": 72.28,
+        "end": 72.58,
+        "text": "去",
+        "probability": 0.6757305264472961
+      },
+      {
+        "start": 72.58,
+        "end": 73.08,
+        "text": "原",
+        "probability": 0.0740194320678711
+      },
+      {
+        "start": 73.08,
+        "end": 73.48,
+        "text": "諒",
+        "probability": 0.9697783291339874
+      },
+      {
+        "start": 73.48,
+        "end": 74.14,
+        "text": "了",
+        "probability": 0.9811882376670837
+      }
+    ],
+    "verified": false
+  },
+  {
+    "start": 74.14,
+    "end": 79.04,
+    "text": "也犯怨了 有昨天還是好的",
+    "avg_logprob": -0.42691762307110953,
+    "no_speech_prob": 0.5610032677650452,
+    "words": [
+      {
+        "start": 74.14,
+        "end": 74.68,
+        "text": "也",
+        "probability": 0.810941219329834
+      },
+      {
+        "start": 74.68,
+        "end": 75.1,
+        "text": "犯",
+        "probability": 0.6129855215549469
+      },
+      {
+        "start": 75.1,
+        "end": 75.54,
+        "text": "怨",
+        "probability": 0.5660903304815292
+      },
+      {
+        "start": 75.54,
+        "end": 76.42,
+        "text": "了",
+        "probability": 0.9925053715705872
+      },
+      {
+        "start": 76.42,
+        "end": 76.86,
+        "text": " 有",
+        "probability": 0.040481846779584885
+      },
+      {
+        "start": 76.86,
+        "end": 77.14,
+        "text": "昨",
+        "probability": 0.9699745774269104
+      },
+      {
+        "start": 77.14,
+        "end": 77.46,
+        "text": "天",
+        "probability": 0.9961362481117249
+      },
+      {
+        "start": 77.46,
+        "end": 78.14,
+        "text": "還是",
+        "probability": 0.9446927309036255
+      },
+      {
+        "start": 78.14,
+        "end": 79.04,
+        "text": "好的",
+        "probability": 0.5820176601409912
+      }
+    ],
+    "verified": false
+  },
+  {
+    "start": 79.78,
+    "end": 85.2,
+    "text": "但明天是自己了 但是到了",
+    "avg_logprob": -0.42691762307110953,
+    "no_speech_prob": 0.5610032677650452,
+    "words": [
+      {
+        "start": 79.78,
+        "end": 80.92,
+        "text": "但",
+        "probability": 0.8252022862434387
+      },
+      {
+        "start": 80.92,
+        "end": 81.24,
+        "text": "明",
+        "probability": 0.9767904281616211
+      },
+      {
+        "start": 81.24,
+        "end": 81.46,
+        "text": "天",
+        "probability": 0.9841845035552979
+      },
+      {
+        "start": 81.46,
+        "end": 81.76,
+        "text": "是",
+        "probability": 0.9659197330474854
+      },
+      {
+        "start": 81.76,
+        "end": 82.44,
+        "text": "自己",
+        "probability": 0.9470714926719666
+      },
+      {
+        "start": 82.44,
+        "end": 82.94,
+        "text": "了",
+        "probability": 0.7288510203361511
+      },
+      {
+        "start": 83.7,
+        "end": 84.04,
+        "text": " 但是",
+        "probability": 0.18373480439186096
+      },
+      {
+        "start": 84.04,
+        "end": 85.2,
+        "text": "到了",
+        "probability": 0.5718051791191101
+      }
+    ],
+    "verified": false
+  },
+  {
+    "start": 105.98,
+    "end": 107.06,
+    "text": "快樂是有選擇",
+    "avg_logprob": -0.5000143269697825,
+    "no_speech_prob": 0.3900144100189209,
+    "words": [
+      {
+        "start": 105.98,
+        "end": 107.06,
+        "text": "快",
+        "probability": 0.1312498301267624
+      },
+      {
+        "start": 107.06,
+        "end": 107.06,
+        "text": "樂",
+        "probability": 0.21628589928150177
+      },
+      {
+        "start": 107.06,
+        "end": 107.06,
+        "text": "是",
+        "probability": 0.5621780753135681
+      },
+      {
+        "start": 107.06,
+        "end": 107.06,
+        "text": "有",
+        "probability": 0.14192241430282593
+      },
+      {
+        "start": 107.06,
+        "end": 107.06,
+        "text": "選",
+        "probability": 0.4335441589355469
+      },
+      {
+        "start": 107.06,
+        "end": 107.06,
+        "text": "擇",
+        "probability": 0.9864104092121124
+      }
+    ],
+    "verified": false
+  },
+  {
+    "start": 107.06,
+    "end": 110.28,
+    "text": "我竟然沒有掉頭",
+    "avg_logprob": -0.5000143269697825,
+    "no_speech_prob": 0.3900144100189209,
+    "words": [
+      {
+        "start": 107.06,
+        "end": 107.6,
+        "text": "我",
+        "probability": 0.428376704454422
+      },
+      {
+        "start": 107.6,
+        "end": 107.9,
+        "text": "竟",
+        "probability": 0.8663782775402069
+      },
+      {
+        "start": 107.9,
+        "end": 108.28,
+        "text": "然",
+        "probability": 0.9966456294059753
+      },
+      {
+        "start": 108.28,
+        "end": 109.2,
+        "text": "沒有",
+        "probability": 0.943811297416687
+      },
+      {
+        "start": 109.2,
+        "end": 109.7,
+        "text": "掉",
+        "probability": 0.5111136436462402
+      },
+      {
+        "start": 109.7,
+        "end": 110.28,
+        "text": "頭",
+        "probability": 0.8623790144920349
+      }
+    ],
+    "verified": false
+  },
+  {
+    "start": 110.28,
+    "end": 113.26,
+    "text": "最殘忍那一刻",
+    "avg_logprob": -0.5000143269697825,
+    "no_speech_prob": 0.3900144100189209,
+    "words": [
+      {
+        "start": 110.28,
+        "end": 110.96,
+        "text": "最",
+        "probability": 0.7246231436729431
+      },
+      {
+        "start": 110.96,
+        "end": 111.3,
+        "text": "殘",
+        "probability": 0.8713189661502838
+      },
+      {
+        "start": 111.3,
+        "end": 111.78,
+        "text": "忍",
+        "probability": 0.9181560277938843
+      },
+      {
+        "start": 111.78,
+        "end": 112.38,
+        "text": "那",
+        "probability": 0.7656520009040833
+      },
+      {
+        "start": 112.38,
+        "end": 112.92,
+        "text": "一",
+        "probability": 0.9316432476043701
+      },
+      {
+        "start": 112.92,
+        "end": 113.26,
+        "text": "刻",
+        "probability": 0.8417645692825317
+      }
+    ],
+    "verified": false
+  },
+  {
+    "start": 113.26,
+    "end": 123.2,
+    "text": "靜靜看你走 一点都不想我",
+    "avg_logprob": -0.6269126403129707,
+    "no_speech_prob": 0.5450083017349243,
+    "words": [
+      {
+        "start": 113.26,
+        "end": 114.5,
+        "text": "靜",
+        "probability": 0.303174682892859
+      },
+      {
+        "start": 114.5,
+        "end": 114.74,
+        "text": "靜",
+        "probability": 0.8949199318885803
+      },
+      {
+        "start": 114.74,
+        "end": 115.0,
+        "text": "看",
+        "probability": 0.8866004347801208
+      },
+      {
+        "start": 115.0,
+        "end": 115.38,
+        "text": "你",
+        "probability": 0.9504872560501099
+      },
+      {
+        "start": 115.38,
+        "end": 116.2,
+        "text": "走",
+        "probability": 0.9491556286811829
+      },
+      {
+        "start": 116.2,
+        "end": 117.9,
+        "text": " 一",
+        "probability": 0.20795680582523346
+      },
+      {
+        "start": 117.9,
+        "end": 118.08,
+        "text": "点",
+        "probability": 0.8456732630729675
+      },
+      {
+        "start": 118.08,
+        "end": 118.4,
+        "text": "都",
+        "probability": 0.4636354446411133
+      },
+      {
+        "start": 118.4,
+        "end": 118.8,
+        "text": "不",
+        "probability": 0.9817276000976562
+      },
+      {
+        "start": 118.8,
+        "end": 119.18,
+        "text": "想",
+        "probability": 0.6840037703514099
+      },
+      {
+        "start": 119.18,
+        "end": 123.2,
+        "text": "我",
+        "probability": 0.8097027540206909
+      }
+    ],
+    "verified": false
+  },
+  {
+    "start": 123.2,
+    "end": 129.66,
+    "text": "原来人会变得温柔 是同着的动的",
+    "avg_logprob": -0.6269126403129707,
+    "no_speech_prob": 0.5450083017349243,
+    "words": [
+      {
+        "start": 123.2,
+        "end": 123.92,
+        "text": "原",
+        "probability": 0.7964242696762085
+      },
+      {
+        "start": 123.92,
+        "end": 124.18,
+        "text": "来",
+        "probability": 0.9905519485473633
+      },
+      {
+        "start": 124.18,
+        "end": 124.74,
+        "text": "人",
+        "probability": 0.9469193816184998
+      },
+      {
+        "start": 124.74,
+        "end": 125.18,
+        "text": "会",
+        "probability": 0.23447881639003754
+      },
+      {
+        "start": 125.18,
+        "end": 125.46,
+        "text": "变",
+        "probability": 0.8903132677078247
+      },
+      {
+        "start": 125.46,
+        "end": 125.76,
+        "text": "得",
+        "probability": 0.5221161246299744
+      },
+      {
+        "start": 125.76,
+        "end": 126.0,
+        "text": "温",
+        "probability": 0.6258618533611298
+      },
+      {
+        "start": 126.0,
+        "end": 126.54,
+        "text": "柔",
+        "probability": 0.895734578371048
+      },
+      {
+        "start": 126.54,
+        "end": 127.24,
+        "text": " 是",
+        "probability": 0.12771117687225342
+      },
+      {
+        "start": 127.24,
+        "end": 127.62,
+        "text": "同",
+        "probability": 0.22683875262737274
+      },
+      {
+        "start": 127.62,
+        "end": 127.94,
+        "text": "着",
+        "probability": 0.1713169664144516
+      },
+      {
+        "start": 127.94,
+        "end": 128.58,
+        "text": "的",
+        "probability": 0.9633042216300964
+      },
+      {
+        "start": 128.58,
+        "end": 129.06,
+        "text": "动",
+        "probability": 0.3756648302078247
+      },
+      {
+        "start": 129.06,
+        "end": 129.66,
+        "text": "的",
+        "probability": 0.6970036625862122
+      }
+    ],
+    "verified": false
+  },
+  {
+    "start": 130.26,
+    "end": 134.66,
+    "text": "爱情是流动的 会有人的",
+    "avg_logprob": -0.6269126403129707,
+    "no_speech_prob": 0.5450083017349243,
+    "words": [
+      {
+        "start": 130.26,
+        "end": 130.78,
+        "text": "爱",
+        "probability": 0.8991386294364929
+      },
+      {
+        "start": 130.78,
+        "end": 131.02,
+        "text": "情",
+        "probability": 0.9207214117050171
+      },
+      {
+        "start": 131.02,
+        "end": 131.3,
+        "text": "是",
+        "probability": 0.901753306388855
+      },
+      {
+        "start": 131.3,
+        "end": 131.62,
+        "text": "流",
+        "probability": 0.778136134147644
+      },
+      {
+        "start": 131.62,
+        "end": 132.02,
+        "text": "动",
+        "probability": 0.9694840312004089
+      },
+      {
+        "start": 132.02,
+        "end": 132.78,
+        "text": "的",
+        "probability": 0.9992868304252625
+      },
+      {
+        "start": 132.96,
+        "end": 133.38,
+        "text": " 会",
+        "probability": 0.14769576489925385
+      },
+      {
+        "start": 133.38,
+        "end": 134.02,
+        "text": "有人",
+        "probability": 0.5776351094245911
+      },
+      {
+        "start": 134.02,
+        "end": 134.66,
+        "text": "的",
+        "probability": 0.9980403780937195
+      }
+    ],
+    "verified": false
+  },
+  {
+    "start": 135.26,
+    "end": 137.74,
+    "text": "和笔记忆都没有朋友",
+    "avg_logprob": -0.6269126403129707,
+    "no_speech_prob": 0.5450083017349243,
+    "words": [
+      {
+        "start": 135.04,
+        "end": 135.44,
+        "text": "和",
+        "probability": 0.17723329365253448
+      },
+      {
+        "start": 135.44,
+        "end": 135.72,
+        "text": "笔",
+        "probability": 0.52036227658391
+      },
+      {
+        "start": 135.72,
+        "end": 135.92,
+        "text": "记",
+        "probability": 0.7925031185150146
+      },
+      {
+        "start": 135.92,
+        "end": 136.06,
+        "text": "忆",
+        "probability": 0.6255056411027908
+      },
+      {
+        "start": 136.06,
+        "end": 136.18,
+        "text": "都",
+        "probability": 0.1438494324684143
+      },
+      {
+        "start": 136.18,
+        "end": 136.82,
+        "text": "没有",
+        "probability": 0.12885944545269012
+      },
+      {
+        "start": 136.82,
+        "end": 137.74,
+        "text": "朋友",
+        "probability": 0.2598705291748047
+      }
+    ],
+    "verified": false
+  },
+  {
+    "start": 139.74,
+    "end": 143.12,
+    "text": "相信你只是发伤害我",
+    "avg_logprob": -0.614411030945025,
+    "no_speech_prob": 0.8932887315750122,
+    "words": [
+      {
+        "start": 139.74,
+        "end": 140.62,
+        "text": "相信",
+        "probability": 0.06259355694055557
+      },
+      {
+        "start": 140.62,
+        "end": 140.98,
+        "text": "你",
+        "probability": 0.9316595792770386
+      },
+      {
+        "start": 140.98,
+        "end": 141.4,
+        "text": "只是",
+        "probability": 0.8726322650909424
+      },
+      {
+        "start": 141.4,
+        "end": 141.84,
+        "text": "发",
+        "probability": 0.2691466212272644
+      },
+      {
+        "start": 141.84,
+        "end": 142.2,
+        "text": "伤",
+        "probability": 0.8772388994693756
+      },
+      {
+        "start": 142.2,
+        "end": 142.64,
+        "text": "害",
+        "probability": 0.6853383183479309
+      },
+      {
+        "start": 142.64,
+        "end": 143.12,
+        "text": "我",
+        "probability": 0.9161641597747803
+      }
+    ],
+    "verified": false
+  },
+  {
+    "start": 143.12,
+    "end": 145.56,
+    "text": "不是骗我",
+    "avg_logprob": -0.614411030945025,
+    "no_speech_prob": 0.8932887315750122,
+    "words": [
+      {
+        "start": 143.12,
+        "end": 144.12,
+        "text": "不是",
+        "probability": 0.7842413783073425
+      },
+      {
+        "start": 144.12,
+        "end": 144.56,
+        "text": "骗",
+        "probability": 0.8939300179481506
+      },
+      {
+        "start": 144.56,
+        "end": 145.56,
+        "text": "我",
+        "probability": 0.9861701726913452
+      }
+    ],
+    "verified": false
+  },
+  {
+    "start": 145.56,
+    "end": 149.38,
+    "text": "看来过谁怪啥的",
+    "avg_logprob": -0.614411030945025,
+    "no_speech_prob": 0.8932887315750122,
+    "words": [
+      {
+        "start": 145.56,
+        "end": 146.06,
+        "text": "看",
+        "probability": 0.1116059198975563
+      },
+      {
+        "start": 146.06,
+        "end": 146.4,
+        "text": "来",
+        "probability": 0.6417461633682251
+      },
+      {
+        "start": 146.4,
+        "end": 146.58,
+        "text": "过",
+        "probability": 0.9117425680160522
+      },
+      {
+        "start": 146.58,
+        "end": 146.94,
+        "text": "谁",
+        "probability": 0.9768176078796387
+      },
+      {
+        "start": 146.94,
+        "end": 147.32,
+        "text": "怪",
+        "probability": 0.3126004636287689
+      },
+      {
+        "start": 147.32,
+        "end": 147.9,
+        "text": "啥",
+        "probability": 0.40185336768627167
+      },
+      {
+        "start": 147.9,
+        "end": 149.38,
+        "text": "的",
+        "probability": 0.6830036044120789
+      }
+    ],
+    "verified": false
+  },
+  {
+    "start": 149.38,
+    "end": 152.4,
+    "text": "让我的梦游行了",
+    "avg_logprob": -0.614411030945025,
+    "no_speech_prob": 0.8932887315750122,
+    "words": [
+      {
+        "start": 149.38,
+        "end": 150.12,
+        "text": "让",
+        "probability": 0.5083742141723633
+      },
+      {
+        "start": 150.12,
+        "end": 150.6,
+        "text": "我的",
+        "probability": 0.9889842867851257
+      },
+      {
+        "start": 150.6,
+        "end": 150.9,
+        "text": "梦",
+        "probability": 0.6461978107690811
+      },
+      {
+        "start": 150.9,
+        "end": 151.24,
+        "text": "游",
+        "probability": 0.40114690363407135
+      },
+      {
+        "start": 151.24,
+        "end": 151.76,
+        "text": "行",
+        "probability": 0.3238663077354431
+      },
+      {
+        "start": 151.76,
+        "end": 152.4,
+        "text": "了",
+        "probability": 0.24863523244857788
+      }
+    ],
+    "verified": false
+  },
+  {
+    "start": 152.4,
+    "end": 156.1,
+    "text": "全部幸福我回来了",
+    "avg_logprob": -0.614411030945025,
+    "no_speech_prob": 0.8932887315750122,
+    "words": [
+      {
+        "start": 152.4,
+        "end": 153.14,
+        "text": "全部",
+        "probability": 0.521142303943634
+      },
+      {
+        "start": 153.14,
+        "end": 153.64,
+        "text": "幸",
+        "probability": 0.8695726990699768
+      },
+      {
+        "start": 153.64,
+        "end": 153.86,
+        "text": "福",
+        "probability": 0.993155300617218
+      },
+      {
+        "start": 153.86,
+        "end": 154.24,
+        "text": "我",
+        "probability": 0.8159085512161255
+      },
+      {
+        "start": 154.24,
+        "end": 154.64,
+        "text": "回",
+        "probability": 0.5505407452583313
+      },
+      {
+        "start": 154.64,
+        "end": 155.34,
+        "text": "来",
+        "probability": 0.7262845635414124
+      },
+      {
+        "start": 155.34,
+        "end": 156.1,
+        "text": "了",
+        "probability": 0.645858883857727
+      }
+    ],
+    "verified": false
+  },
+  {
+    "start": 156.1,
+    "end": 159.52,
+    "text": "用心脏微笑 只愿亮我",
+    "avg_logprob": -0.614411030945025,
+    "no_speech_prob": 0.8932887315750122,
+    "words": [
+      {
+        "start": 156.1,
+        "end": 156.76,
+        "text": "用",
+        "probability": 0.40928423404693604
+      },
+      {
+        "start": 156.76,
+        "end": 156.98,
+        "text": "心",
+        "probability": 0.9969677329063416
+      },
+      {
+        "start": 156.98,
+        "end": 157.24,
+        "text": "脏",
+        "probability": 0.4875718876719475
+      },
+      {
+        "start": 157.24,
+        "end": 157.48,
+        "text": "微",
+        "probability": 0.644269585609436
+      },
+      {
+        "start": 157.48,
+        "end": 157.72,
+        "text": "笑",
+        "probability": 0.9834849238395691
+      },
+      {
+        "start": 157.92,
+        "end": 158.06,
+        "text": " 只",
+        "probability": 0.19363945722579956
+      },
+      {
+        "start": 158.06,
+        "end": 158.56,
+        "text": "愿",
+        "probability": 0.8897594809532166
+      },
+      {
+        "start": 158.56,
+        "end": 158.84,
+        "text": "亮",
+        "probability": 0.2673109471797943
+      },
+      {
+        "start": 158.84,
+        "end": 159.52,
+        "text": "我",
+        "probability": 0.35736772418022156
+      }
+    ],
+    "verified": false
+  },
+  {
+    "start": 159.52,
+    "end": 161.9,
+    "text": "也参业了",
+    "avg_logprob": -0.614411030945025,
+    "no_speech_prob": 0.8932887315750122,
+    "words": [
+      {
+        "start": 159.52,
+        "end": 160.12,
+        "text": "也",
+        "probability": 0.5569792985916138
+      },
+      {
+        "start": 160.12,
+        "end": 160.54,
+        "text": "参",
+        "probability": 0.6167642623186111
+      },
+      {
+        "start": 160.54,
+        "end": 160.88,
+        "text": "业",
+        "probability": 0.6707039773464203
+      },
+      {
+        "start": 160.88,
+        "end": 161.9,
+        "text": "了",
+        "probability": 0.9938797950744629
+      }
+    ],
+    "verified": false
+  },
+  {
+    "start": 161.9,
+    "end": 164.38,
+    "text": "有昨天还是好的",
+    "avg_logprob": -0.614411030945025,
+    "no_speech_prob": 0.8932887315750122,
+    "words": [
+      {
+        "start": 161.9,
+        "end": 162.3,
+        "text": "有",
+        "probability": 0.4378018379211426
+      },
+      {
+        "start": 162.3,
+        "end": 162.58,
+        "text": "昨",
+        "probability": 0.6499882340431213
+      },
+      {
+        "start": 162.58,
+        "end": 162.84,
+        "text": "天",
+        "probability": 0.9949398040771484
+      },
+      {
+        "start": 162.84,
+        "end": 163.48,
+        "text": "还是",
+        "probability": 0.8752909302711487
+      },
+      {
+        "start": 163.48,
+        "end": 164.38,
+        "text": "好的",
+        "probability": 0.885193407535553
+      }
+    ],
+    "verified": false
+  },
+  {
+    "start": 164.38,
+    "end": 171.82,
+    "text": "但你的是自己的 看你是懂了",
+    "avg_logprob": -0.9461493429384733,
+    "no_speech_prob": 0.15451422333717346,
+    "words": [
+      {
+        "start": 164.38,
+        "end": 166.36,
+        "text": "但",
+        "probability": 0.6129274368286133
+      },
+      {
+        "start": 166.36,
+        "end": 166.76,
+        "text": "你的",
+        "probability": 0.7909970879554749
+      },
+      {
+        "start": 166.76,
+        "end": 167.2,
+        "text": "是",
+        "probability": 0.29876482486724854
+      },
+      {
+        "start": 167.2,
+        "end": 167.88,
+        "text": "自己",
+        "probability": 0.8861764073371887
+      },
+      {
+        "start": 167.88,
+        "end": 168.5,
+        "text": "的",
+        "probability": 0.8981258869171143
+      },
+      {
+        "start": 168.78,
+        "end": 169.26,
+        "text": " 看",
+        "probability": 0.10253481566905975
+      },
+      {
+        "start": 169.26,
+        "end": 169.64,
+        "text": "你是",
+        "probability": 0.5851194858551025
+      },
+      {
+        "start": 169.64,
+        "end": 170.22,
+        "text": "懂",
+        "probability": 0.5448753833770752
+      },
+      {
+        "start": 170.22,
+        "end": 171.82,
+        "text": "了",
+        "probability": 0.29315221309661865
+      }
+    ],
+    "verified": false
+  },
+  {
+    "start": 172.38,
+    "end": 174.38,
+    "text": "快樂是誰",
+    "avg_logprob": -0.9461493429384733,
+    "no_speech_prob": 0.15451422333717346,
+    "words": [
+      {
+        "start": 172.35,
+        "end": 172.88,
+        "text": "快",
+        "probability": 0.2676345705986023
+      },
+      {
+        "start": 172.88,
+        "end": 173.14,
+        "text": "樂",
+        "probability": 0.33544784784317017
+      },
+      {
+        "start": 173.14,
+        "end": 173.58,
+        "text": "是",
+        "probability": 0.10425851494073868
+      },
+      {
+        "start": 173.58,
+        "end": 174.38,
+        "text": "誰",
+        "probability": 0.8688800930976868
+      }
+    ],
+    "verified": false
+  },
+  {
+    "start": 224.38,
+    "end": 226.38,
+    "text": "也犯愿了",
+    "avg_logprob": -0.5846785783767701,
+    "no_speech_prob": 0.30941885709762573,
+    "words": [
+      {
+        "start": 224.38,
+        "end": 225.42,
+        "text": "也",
+        "probability": 0.4191284477710724
+      },
+      {
+        "start": 225.42,
+        "end": 225.9,
+        "text": "犯",
+        "probability": 0.6562453359365463
+      },
+      {
+        "start": 225.9,
+        "end": 226.28,
+        "text": "愿",
+        "probability": 0.49447090923786163
+      },
+      {
+        "start": 226.28,
+        "end": 226.92,
+        "text": "了",
+        "probability": 0.9906052947044373
+      }
+    ],
+    "verified": false
+  },
+  {
+    "start": 226.96,
+    "end": 229.54,
+    "text": "那昨天還是好的",
+    "avg_logprob": -0.5846785783767701,
+    "no_speech_prob": 0.30941885709762573,
+    "words": [
+      {
+        "start": 226.96,
+        "end": 227.38,
+        "text": "那",
+        "probability": 0.12197334319353104
+      },
+      {
+        "start": 227.38,
+        "end": 227.68,
+        "text": "昨",
+        "probability": 0.9883078932762146
+      },
+      {
+        "start": 227.68,
+        "end": 227.96,
+        "text": "天",
+        "probability": 0.9936872124671936
+      },
+      {
+        "start": 227.96,
+        "end": 228.64,
+        "text": "還是",
+        "probability": 0.25188764929771423
+      },
+      {
+        "start": 228.64,
+        "end": 229.54,
+        "text": "好的",
+        "probability": 0.5849804282188416
+      }
+    ],
+    "verified": false
+  },
+  {
+    "start": 230.38,
+    "end": 233.58,
+    "text": "但明天是自己的",
+    "avg_logprob": -0.5846785783767701,
+    "no_speech_prob": 0.30941885709762573,
+    "words": [
+      {
+        "start": 230.38,
+        "end": 231.46,
+        "text": "但",
+        "probability": 0.3648228049278259
+      },
+      {
+        "start": 231.46,
+        "end": 231.74,
+        "text": "明",
+        "probability": 0.6394059062004089
+      },
+      {
+        "start": 231.74,
+        "end": 231.94,
+        "text": "天",
+        "probability": 0.5427521467208862
+      },
+      {
+        "start": 231.94,
+        "end": 232.26,
+        "text": "是",
+        "probability": 0.9266852736473083
+      },
+      {
+        "start": 232.26,
+        "end": 232.94,
+        "text": "自己",
+        "probability": 0.921218752861023
+      },
+      {
+        "start": 232.94,
+        "end": 233.58,
+        "text": "的",
+        "probability": 0.9946452379226685
+      }
+    ],
+    "verified": false
+  },
+  {
+    "start": 233.58,
+    "end": 236.7,
+    "text": "開始動了",
+    "avg_logprob": -0.5846785783767701,
+    "no_speech_prob": 0.30941885709762573,
+    "words": [
+      {
+        "start": 233.58,
+        "end": 234.64,
+        "text": "開始",
+        "probability": 0.526919960975647
+      },
+      {
+        "start": 234.64,
+        "end": 235.36,
+        "text": "動",
+        "probability": 0.6305087208747864
+      },
+      {
+        "start": 235.36,
+        "end": 236.7,
+        "text": "了",
+        "probability": 0.9375647306442261
+      }
+    ],
+    "verified": false
+  },
+  {
+    "start": 236.7,
+    "end": 238.74,
+    "text": "快樂是",
+    "avg_logprob": -0.5846785783767701,
+    "no_speech_prob": 0.30941885709762573,
+    "words": [
+      {
+        "start": 236.7,
+        "end": 237.98,
+        "text": "快",
+        "probability": 0.3522627651691437
+      },
+      {
+        "start": 237.98,
+        "end": 238.3,
+        "text": "樂",
+        "probability": 0.9236786961555481
+      },
+      {
+        "start": 238.3,
+        "end": 238.74,
+        "text": "是",
+        "probability": 0.5212044715881348
+      }
+    ],
+    "verified": false
+  },
+  {
+    "start": 238.74,
+    "end": 240.86,
+    "text": "轻轻",
+    "avg_logprob": -1.4080071789877755,
+    "no_speech_prob": 0.5956099629402161,
+    "words": [
+      {
+        "start": 238.74,
+        "end": 240.4,
+        "text": "轻",
+        "probability": 0.090570411644876
+      },
+      {
+        "start": 240.4,
+        "end": 240.86,
+        "text": "轻",
+        "probability": 0.7336845695972443
+      }
+    ],
+    "verified": false
+  }
+]

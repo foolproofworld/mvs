@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>开始懂了 · 铅笔样张</title><link rel="stylesheet" href="visual.css"><link rel="stylesheet" href="shots.css"></head>
+<body class="shots"><main>
+  <header><div><p class="eyebrow">MVS / STORYBOARD 02 · PENCIL</p><h1>开始懂了<span>孙燕姿</span></h1></div><nav><a href="shots.html">分镜试做 01 ↗</a><a href="/">歌词校准 ↗</a></nav></header>
+  <div class="intro"><p>她把那晚画进素描本，画、擦、翻页，然后出门。</p><span>铅笔绘本 · 歌词写进画面 · 样张</span></div>
+  <div class="toolbar"><div class="segmented" id="demoTabs" role="group" aria-label="选择样张"></div></div>
+  <section class="screen" id="screen" data-style="pencil" aria-label="铅笔样张画面">
+    <canvas id="scene" width="1920" height="1080" aria-hidden="true"></canvas>
+    <canvas id="ink" class="overlay" width="1920" height="1080" aria-label="写在画面里的歌词"></canvas>
+    <div id="visualLyrics" hidden aria-label="辅助字幕"></div>
+    <button id="full" aria-label="全屏">⛶</button>
+  </section>
+  <div class="player">
+    <input id="visualSeek" type="range" min="0" max="1" step="0.01" value="0" aria-label="样张进度">
+    <div class="play-row"><div><button id="visualPlay" class="primary" disabled>播放样张</button><button id="replay">从头</button><label class="chain"><input type="checkbox" id="aux"> 辅助字幕</label></div><p><span id="visualTime">00:00.00</span><span id="shotRange"></span></p></div>
+    <p class="play-note" id="demoNote"></p>
+  </div>
+  <section class="notes">
+    <p><span>完整剧本</span>64 个镜头覆盖整首 270 秒，写在项目根目录的 storyboard.md；这里是从中挑出的 4 个镜头，专门检验“歌词写进画面”。</p>
+    <p><span>仍是草稿</span>剧情、人物造型待你确认；确认后再画角色设定图和每个镜头的关键帧草图。</p>
+  </section>
+  <p id="visualError" role="alert"></p>
+  <footer><span>KRC 3 · 每个字在唱入时刻开始写出 · 字体暂用系统楷体</span><a id="saveStill" href="#">保存当前画面 ↓</a></footer>
+</main><audio id="visualAudio" src="analysis/audio/song.m4a" preload="auto"></audio><script type="module" src="storyboard-page.js"></script></body></html>

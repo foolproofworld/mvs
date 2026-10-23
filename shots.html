@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>开始懂了 · 分镜试做</title><link rel="stylesheet" href="visual.css"><link rel="stylesheet" href="shots.css"></head>
+<body class="shots"><main>
+  <header><div><p class="eyebrow">MVS / STORYBOARD TRIAL</p><h1>开始懂了<span>孙燕姿</span></h1></div><nav><a href="visual.html">画风样片 ↗</a><a href="/">歌词校准 ↗</a></nav></header>
+  <div class="intro"><p>四个小分镜，三种画法各演一遍。</p><span>分镜试做 / 草稿 01</span></div>
+  <div class="toolbar">
+    <div class="segmented" id="shotTabs" role="group" aria-label="选择镜头"></div>
+    <div class="segmented" id="styleTabs" role="group" aria-label="选择画风"></div>
+  </div>
+  <section class="screen" id="screen" data-style="paper" aria-label="分镜试做画面">
+    <canvas id="scene" width="1920" height="1080" aria-label="分镜画面"></canvas>
+    <div id="visualLyrics" aria-label="逐字歌词"></div>
+    <button id="full" aria-label="全屏">⛶</button>
+  </section>
+  <div class="player">
+    <input id="visualSeek" type="range" min="21" max="31.3" step="0.01" value="21" aria-label="镜头进度">
+    <div class="play-row"><div><button id="visualPlay" class="primary" disabled>播放本镜</button><button id="replay">从头</button><label class="chain"><input type="checkbox" id="chain"> 四镜连播</label></div><p><span id="visualTime">00:21.00</span><span id="shotRange"></span></p></div>
+    <p class="play-note" id="playNote">KRC 3 · 全部逐字 · 切换画风时音乐连续播放；第 2、3 镜在原曲里是连着的</p>
+  </div>
+  <section class="directions" aria-labelledby="boardHeading"><div class="section-title"><h2 id="boardHeading">分镜表 · 三种画法同一时刻</h2><p>点缩略图跳到该镜、该画风。</p></div>
+    <div id="board" class="board"></div>
+  </section>
+  <section class="notes">
+    <p><span>这一轮先看</span>同一个镜头在三种画法里的手感：人物动作、情绪能不能看懂、歌词好不好读。</p>
+    <p><span>仍是草稿</span>主角造型（短发、灰蓝长外套、锈红围巾）、四个镜头的剧情都是试做提案，画风选定后再出角色设定图和全曲分镜。</p>
+  </section>
+  <p id="visualError" role="alert"></p>
+  <footer><span>镜头 1：21.0–31.3 · 镜头 2–3：149.4–162.1（连续） · 镜头 4：233.7–245.6</span><a id="saveStill" href="#">保存当前画面 ↓</a></footer>
+</main><audio id="visualAudio" src="analysis/audio/song.m4a" preload="auto"></audio><script type="module" src="shots.js"></script></body></html>

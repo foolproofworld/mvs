@@ -1,0 +1,70 @@
+[
+  {
+    "sourceId": "223522842",
+    "lineCount": 49,
+    "charCount": 325,
+    "firstStart": 21.367,
+    "lastEnd": 244.201,
+    "fingerprint": "d84c39baeb394b475cc68967f54f831357a389693f0d6c2baaddd22faed4f227"
+  },
+  {
+    "sourceId": "191997125",
+    "lineCount": 49,
+    "charCount": 325,
+    "firstStart": 21.304,
+    "lastEnd": 243.652,
+    "fingerprint": "bbd961fbd4a14903fa984af78734617c862f6667b3f36518c3038447945af38d"
+  },
+  {
+    "sourceId": "137026410",
+    "lineCount": 49,
+    "charCount": 325,
+    "firstStart": 21.304,
+    "lastEnd": 243.652,
+    "fingerprint": "bbd961fbd4a14903fa984af78734617c862f6667b3f36518c3038447945af38d",
+    "duplicateOf": "191997125"
+  },
+  {
+    "sourceId": "135049983",
+    "lineCount": 49,
+    "charCount": 325,
+    "firstStart": 21.867,
+    "lastEnd": 244.701,
+    "fingerprint": "f281be89efddf943bb809b8d9ec7bb034339c0445eb5337e6d882865dae30d49"
+  },
+  {
+    "sourceId": "826083305",
+    "lineCount": 49,
+    "charCount": 325,
+    "firstStart": 21.472,
+    "lastEnd": 243.592,
+    "fingerprint": "c6e91d7e3871663248d5d38ff1885176281e13cee92b5c375bfa8409de467ddf"
+  },
+  {
+    "sourceId": "826083304",
+    "lineCount": 49,
+    "charCount": 325,
+    "firstStart": 21.472,
+    "lastEnd": 243.592,
+    "fingerprint": "c6e91d7e3871663248d5d38ff1885176281e13cee92b5c375bfa8409de467ddf",
+    "duplicateOf": "826083305"
+  },
+  {
+    "sourceId": "826083206",
+    "lineCount": 49,
+    "charCount": 325,
+    "firstStart": 21.472,
+    "lastEnd": 243.592,
+    "fingerprint": "c6e91d7e3871663248d5d38ff1885176281e13cee92b5c375bfa8409de467ddf",
+    "duplicateOf": "826083305"
+  },
+  {
+    "sourceId": "826083205",
+    "lineCount": 49,
+    "charCount": 325,
+    "firstStart": 21.472,
+    "lastEnd": 243.592,
+    "fingerprint": "c6e91d7e3871663248d5d38ff1885176281e13cee92b5c375bfa8409de467ddf",
+    "duplicateOf": "826083305"
+  }
+]

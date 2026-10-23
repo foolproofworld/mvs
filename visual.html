@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>开始懂了 · 画风样片</title><link rel="stylesheet" href="visual.css"></head>
+<body><main>
+  <header><div><p class="eyebrow">MVS / VISUAL STUDIES</p><h1>开始懂了<span>孙燕姿</span></h1></div><a href="/">返回歌词校准 ↗</a></header>
+  <div class="intro"><p>把回忆留住，把手松开。</p><span>画风样片 / 01</span></div>
+  <section class="screen" id="screen" data-style="paper" aria-label="MV 画风样片">
+    <canvas id="scene" width="1920" height="1080" aria-label="窗前的空椅、围巾与河岸"></canvas>
+    <div id="visualLyrics" aria-label="逐字歌词"></div>
+    <button id="full" aria-label="全屏样片">⛶</button>
+  </section>
+  <div class="player">
+    <input id="visualSeek" type="range" min="20.7" max="75.5" step="0.01" value="44.45" aria-label="样片进度">
+    <div class="play-row"><div><button id="visualPlay" class="primary" disabled>播放样片</button><button id="sampleReplay">重看转折</button><button id="opening">同一开场</button></div><p><span id="visualTime">00:44.45</span><span> / 01:15.50</span></p></div>
+    <p class="play-note" id="playNote">KRC 3 · 全部逐字 · 切换画风时音乐连续播放</p>
+  </div>
+  <section class="directions" aria-labelledby="styleHeading"><div class="section-title"><h2 id="styleHeading">同一个故事，三种画法</h2><p>点击切换，比较同一时刻。</p></div>
+    <div id="styleCards" class="style-cards"></div>
+  </section>
+  <section class="notes"><p><span>样片里的变化</span>空椅与细雨 → 围巾松开、随风离开 → 光线转暖，空间打开。</p><p><span>这一轮先看</span>画风、色调和动起来的手感。角色与整曲分镜将在画风选定后展开。</p></section>
+  <p id="visualError" role="alert"></p>
+  <footer><span>44.45–75.50 秒 · 主歌末段 → 第一副歌</span><a id="saveStill" href="#">保存当前画面 ↓</a></footer>
+</main><audio id="visualAudio" src="analysis/audio/song.m4a" preload="auto"></audio><script type="module" src="visual.js"></script></body></html>

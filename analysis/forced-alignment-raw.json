@@ -1,0 +1,2979 @@
+[
+  {
+    "text": "我竟然没有调头",
+    "crop_start": 20.7,
+    "alignment": [
+      {
+        "word": "我",
+        "tokens": [
+          1654
+        ],
+        "start": 0.0,
+        "end": 1.34,
+        "probability": 0.9494828581809998
+      },
+      {
+        "word": "竟",
+        "tokens": [
+          11957,
+          253
+        ],
+        "start": 1.34,
+        "end": 1.58,
+        "probability": 0.49220090359449387
+      },
+      {
+        "word": "然",
+        "tokens": [
+          5823
+        ],
+        "start": 1.58,
+        "end": 1.9,
+        "probability": 0.86444491147995
+      },
+      {
+        "word": "没有",
+        "tokens": [
+          17944
+        ],
+        "start": 1.9,
+        "end": 2.72,
+        "probability": 0.03526260331273079
+      },
+      {
+        "word": "调",
+        "tokens": [
+          8897,
+          225
+        ],
+        "start": 2.72,
+        "end": 3.38,
+        "probability": 0.49780489364638925
+      },
+      {
+        "word": "头",
+        "tokens": [
+          39862
+        ],
+        "start": 3.38,
+        "end": 4.06,
+        "probability": 0.08678805828094482
+      }
+    ]
+  },
+  {
+    "text": "最残忍那一刻",
+    "crop_start": 24.099999999999998,
+    "alignment": [
+      {
+        "word": "最",
+        "tokens": [
+          8661
+        ],
+        "start": 0.0,
+        "end": 1.2,
+        "probability": 0.06726360321044922
+      },
+      {
+        "word": "残",
+        "tokens": [
+          15976,
+          233
+        ],
+        "start": 1.2,
+        "end": 1.64,
+        "probability": 0.35773545503616333
+      },
+      {
+        "word": "忍",
+        "tokens": [
+          4263,
+          235
+        ],
+        "start": 1.64,
+        "end": 2.06,
+        "probability": 0.870530366897583
+      },
+      {
+        "word": "那",
+        "tokens": [
+          4184
+        ],
+        "start": 2.06,
+        "end": 2.7,
+        "probability": 0.011460396461188793
+      },
+      {
+        "word": "一",
+        "tokens": [
+          2257
+        ],
+        "start": 2.7,
+        "end": 3.22,
+        "probability": 0.8231289982795715
+      },
+      {
+        "word": "刻",
+        "tokens": [
+          45500
+        ],
+        "start": 3.22,
+        "end": 3.46,
+        "probability": 0.8906148076057434
+      }
+    ]
+  },
+  {
+    "text": "静静看你走",
+    "crop_start": 27.4,
+    "alignment": [
+      {
+        "word": "静",
+        "tokens": [
+          5363,
+          247
+        ],
+        "start": 0.0,
+        "end": 1.48,
+        "probability": 0.29371610656380653
+      },
+      {
+        "word": "静",
+        "tokens": [
+          5363,
+          247
+        ],
+        "start": 1.48,
+        "end": 1.68,
+        "probability": 0.9553614854812622
+      },
+      {
+        "word": "看",
+        "tokens": [
+          4200
+        ],
+        "start": 1.68,
+        "end": 2.0,
+        "probability": 0.8000934720039368
+      },
+      {
+        "word": "你",
+        "tokens": [
+          2166
+        ],
+        "start": 2.0,
+        "end": 2.4,
+        "probability": 0.9335438013076782
+      },
+      {
+        "word": "走",
+        "tokens": [
+          9575
+        ],
+        "start": 2.4,
+        "end": 3.12,
+        "probability": 0.9301221370697021
+      }
+    ]
+  },
+  {
+    "text": "一点都不像我",
+    "crop_start": 30.7,
+    "alignment": [
+      {
+        "word": "一点",
+        "tokens": [
+          49042
+        ],
+        "start": 0.0,
+        "end": 1.62,
+        "probability": 0.013914444483816624
+      },
+      {
+        "word": "都",
+        "tokens": [
+          7182
+        ],
+        "start": 1.62,
+        "end": 1.98,
+        "probability": 0.18351691961288452
+      },
+      {
+        "word": "不",
+        "tokens": [
+          1960
+        ],
+        "start": 1.98,
+        "end": 2.46,
+        "probability": 0.9369153380393982
+      },
+      {
+        "word": "像",
+        "tokens": [
+          12760
+        ],
+        "start": 2.46,
+        "end": 2.86,
+        "probability": 0.460901141166687
+      },
+      {
+        "word": "我",
+        "tokens": [
+          1654
+        ],
+        "start": 2.86,
+        "end": 3.56,
+        "probability": 0.9858702421188354
+      }
+    ]
+  },
+  {
+    "text": "原来人会变得温柔",
+    "crop_start": 34.9,
+    "alignment": [
+      {
+        "word": "原",
+        "tokens": [
+          19683
+        ],
+        "start": 0.0,
+        "end": 3.68,
+        "probability": 0.0002975290990434587
+      },
+      {
+        "word": "来",
+        "tokens": [
+          6912
+        ],
+        "start": 3.68,
+        "end": 3.68,
+        "probability": 0.19514481723308563
+      },
+      {
+        "word": "人",
+        "tokens": [
+          4035
+        ],
+        "start": 3.68,
+        "end": 4.18,
+        "probability": 0.008838536217808723
+      },
+      {
+        "word": "会",
+        "tokens": [
+          12949
+        ],
+        "start": 4.18,
+        "end": 4.64,
+        "probability": 0.06515610218048096
+      },
+      {
+        "word": "变",
+        "tokens": [
+          2129,
+          246
+        ],
+        "start": 4.64,
+        "end": 4.92,
+        "probability": 0.4950972115620971
+      },
+      {
+        "word": "得",
+        "tokens": [
+          5916
+        ],
+        "start": 4.92,
+        "end": 5.16,
+        "probability": 0.043818943202495575
+      },
+      {
+        "word": "温",
+        "tokens": [
+          9592,
+          102
+        ],
+        "start": 5.16,
+        "end": 5.46,
+        "probability": 0.47929848451167345
+      },
+      {
+        "word": "柔",
+        "tokens": [
+          17238,
+          242
+        ],
+        "start": 5.46,
+        "end": 5.78,
+        "probability": 0.9088995456695557
+      }
+    ]
+  },
+  {
+    "text": "是透澈的懂了",
+    "crop_start": 40.199999999999996,
+    "alignment": [
+      {
+        "word": "是",
+        "tokens": [
+          1541
+        ],
+        "start": 0.0,
+        "end": 1.36,
+        "probability": 0.0009320003446191549
+      },
+      {
+        "word": "透",
+        "tokens": [
+          45808
+        ],
+        "start": 1.36,
+        "end": 1.68,
+        "probability": 0.01403332781046629
+      },
+      {
+        "word": "澈",
+        "tokens": [
+          25621,
+          230
+        ],
+        "start": 1.68,
+        "end": 2.28,
+        "probability": 0.2097988891764544
+      },
+      {
+        "word": "的",
+        "tokens": [
+          1546
+        ],
+        "start": 2.28,
+        "end": 2.7,
+        "probability": 0.48051226139068604
+      },
+      {
+        "word": "懂",
+        "tokens": [
+          29624
+        ],
+        "start": 2.7,
+        "end": 3.26,
+        "probability": 0.11975222080945969
+      },
+      {
+        "word": "了",
+        "tokens": [
+          2289
+        ],
+        "start": 3.26,
+        "end": 3.74,
+        "probability": 0.18413230776786804
+      }
+    ]
+  },
+  {
+    "text": "爱情是流动的",
+    "crop_start": 44.0,
+    "alignment": [
+      {
+        "word": "爱",
+        "tokens": [
+          27324
+        ],
+        "start": 0.0,
+        "end": 1.2,
+        "probability": 0.5587164163589478
+      },
+      {
+        "word": "情",
+        "tokens": [
+          10570
+        ],
+        "start": 1.2,
+        "end": 1.42,
+        "probability": 0.9876580238342285
+      },
+      {
+        "word": "是",
+        "tokens": [
+          1541
+        ],
+        "start": 1.42,
+        "end": 1.66,
+        "probability": 0.6657311916351318
+      },
+      {
+        "word": "流",
+        "tokens": [
+          27854
+        ],
+        "start": 1.66,
+        "end": 1.92,
+        "probability": 0.022747406736016273
+      },
+      {
+        "word": "动",
+        "tokens": [
+          34961
+        ],
+        "start": 1.92,
+        "end": 2.34,
+        "probability": 0.0022799496073275805
+      },
+      {
+        "word": "的",
+        "tokens": [
+          1546
+        ],
+        "start": 2.34,
+        "end": 2.86,
+        "probability": 0.9706459641456604
+      }
+    ]
+  },
+  {
+    "text": "不由人的",
+    "crop_start": 46.4,
+    "alignment": [
+      {
+        "word": "不",
+        "tokens": [
+          1960
+        ],
+        "start": 0.0,
+        "end": 1.3,
+        "probability": 0.029014592990279198
+      },
+      {
+        "word": "由",
+        "tokens": [
+          23786
+        ],
+        "start": 1.3,
+        "end": 1.58,
+        "probability": 0.006128678098320961
+      },
+      {
+        "word": "人",
+        "tokens": [
+          4035
+        ],
+        "start": 1.58,
+        "end": 2.08,
+        "probability": 0.007978696376085281
+      },
+      {
+        "word": "的",
+        "tokens": [
+          1546
+        ],
+        "start": 2.08,
+        "end": 2.54,
+        "probability": 0.2466537207365036
+      }
+    ]
+  },
+  {
+    "text": "何必激动着要理由",
+    "crop_start": 48.699999999999996,
+    "alignment": [
+      {
+        "word": "何",
+        "tokens": [
+          11906
+        ],
+        "start": 0.0,
+        "end": 1.06,
+        "probability": 0.01430145837366581
+      },
+      {
+        "word": "必",
+        "tokens": [
+          28531
+        ],
+        "start": 1.06,
+        "end": 1.28,
+        "probability": 0.9972257018089294
+      },
+      {
+        "word": "激",
+        "tokens": [
+          26373,
+          222
+        ],
+        "start": 1.28,
+        "end": 1.54,
+        "probability": 0.4972340608946979
+      },
+      {
+        "word": "动",
+        "tokens": [
+          34961
+        ],
+        "start": 1.54,
+        "end": 1.8,
+        "probability": 0.07620033621788025
+      },
+      {
+        "word": "着",
+        "tokens": [
+          20708
+        ],
+        "start": 1.8,
+        "end": 2.08,
+        "probability": 0.08509378135204315
+      },
+      {
+        "word": "要",
+        "tokens": [
+          4275
+        ],
+        "start": 2.08,
+        "end": 2.42,
+        "probability": 0.3659076988697052
+      },
+      {
+        "word": "理",
+        "tokens": [
+          13876
+        ],
+        "start": 2.42,
+        "end": 2.9,
+        "probability": 0.3440810441970825
+      },
+      {
+        "word": "由",
+        "tokens": [
+          23786
+        ],
+        "start": 2.9,
+        "end": 3.46,
+        "probability": 0.9018696546554565
+      }
+    ]
+  },
+  {
+    "text": "相信你只是怕伤害我",
+    "crop_start": 53.6,
+    "alignment": [
+      {
+        "word": "相信",
+        "tokens": [
+          35428
+        ],
+        "start": 0.0,
+        "end": 1.5,
+        "probability": 0.9576159119606018
+      },
+      {
+        "word": "你",
+        "tokens": [
+          2166
+        ],
+        "start": 1.5,
+        "end": 1.88,
+        "probability": 0.9580096006393433
+      },
+      {
+        "word": "只是",
+        "tokens": [
+          36859
+        ],
+        "start": 1.88,
+        "end": 2.32,
+        "probability": 0.9856789708137512
+      },
+      {
+        "word": "怕",
+        "tokens": [
+          21164
+        ],
+        "start": 2.32,
+        "end": 2.74,
+        "probability": 0.9617845416069031
+      },
+      {
+        "word": "伤",
+        "tokens": [
+          7384,
+          97
+        ],
+        "start": 2.74,
+        "end": 3.22,
+        "probability": 0.5549916177988052
+      },
+      {
+        "word": "害",
+        "tokens": [
+          14694
+        ],
+        "start": 3.22,
+        "end": 3.62,
+        "probability": 0.994608998298645
+      },
+      {
+        "word": "我",
+        "tokens": [
+          1654
+        ],
+        "start": 3.62,
+        "end": 4.14,
+        "probability": 0.9541581273078918
+      }
+    ]
+  },
+  {
+    "text": "不是骗我",
+    "crop_start": 57.3,
+    "alignment": [
+      {
+        "word": "不是",
+        "tokens": [
+          7296
+        ],
+        "start": 0.0,
+        "end": 1.22,
+        "probability": 0.05111485719680786
+      },
+      {
+        "word": "骗",
+        "tokens": [
+          49657,
+          245
+        ],
+        "start": 1.22,
+        "end": 1.96,
+        "probability": 0.4837345276027918
+      },
+      {
+        "word": "我",
+        "tokens": [
+          1654
+        ],
+        "start": 1.96,
+        "end": 2.5,
+        "probability": 0.971233606338501
+      }
+    ]
+  },
+  {
+    "text": "很爱过谁会舍得",
+    "crop_start": 59.6,
+    "alignment": [
+      {
+        "word": "很",
+        "tokens": [
+          4563
+        ],
+        "start": 0.0,
+        "end": 1.08,
+        "probability": 0.0031165671534836292
+      },
+      {
+        "word": "爱",
+        "tokens": [
+          27324
+        ],
+        "start": 1.08,
+        "end": 1.32,
+        "probability": 0.3505811095237732
+      },
+      {
+        "word": "过",
+        "tokens": [
+          16866
+        ],
+        "start": 1.32,
+        "end": 1.54,
+        "probability": 0.6847046613693237
+      },
+      {
+        "word": "谁",
+        "tokens": [
+          33556
+        ],
+        "start": 1.54,
+        "end": 1.92,
+        "probability": 0.8588504791259766
+      },
+      {
+        "word": "会",
+        "tokens": [
+          12949
+        ],
+        "start": 1.92,
+        "end": 2.26,
+        "probability": 0.8897078633308411
+      },
+      {
+        "word": "舍",
+        "tokens": [
+          10256,
+          235
+        ],
+        "start": 2.26,
+        "end": 2.7,
+        "probability": 0.4236537214455893
+      },
+      {
+        "word": "得",
+        "tokens": [
+          5916
+        ],
+        "start": 2.7,
+        "end": 3.16,
+        "probability": 0.4683894217014313
+      }
+    ]
+  },
+  {
+    "text": "把我的梦摇醒了",
+    "crop_start": 63.0,
+    "alignment": [
+      {
+        "word": "把",
+        "tokens": [
+          16075
+        ],
+        "start": 0.0,
+        "end": 1.7,
+        "probability": 0.011680765077471733
+      },
+      {
+        "word": "我的",
+        "tokens": [
+          14200
+        ],
+        "start": 1.7,
+        "end": 2.24,
+        "probability": 0.6962231993675232
+      },
+      {
+        "word": "梦",
+        "tokens": [
+          19017,
+          99
+        ],
+        "start": 2.24,
+        "end": 2.48,
+        "probability": 0.5574994683265686
+      },
+      {
+        "word": "摇",
+        "tokens": [
+          34783,
+          229
+        ],
+        "start": 2.48,
+        "end": 2.88,
+        "probability": 0.2026323870231863
+      },
+      {
+        "word": "醒",
+        "tokens": [
+          40796
+        ],
+        "start": 2.88,
+        "end": 3.24,
+        "probability": 0.1996937245130539
+      },
+      {
+        "word": "了",
+        "tokens": [
+          2289
+        ],
+        "start": 3.24,
+        "end": 3.74,
+        "probability": 0.7680232524871826
+      }
+    ]
+  },
+  {
+    "text": "宣布幸福不会来了",
+    "crop_start": 66.2,
+    "alignment": [
+      {
+        "word": "宣",
+        "tokens": [
+          2415,
+          96
+        ],
+        "start": 0.0,
+        "end": 1.28,
+        "probability": 0.09200200711347861
+      },
+      {
+        "word": "布",
+        "tokens": [
+          34688
+        ],
+        "start": 1.28,
+        "end": 1.66,
+        "probability": 0.9421002864837646
+      },
+      {
+        "word": "幸",
+        "tokens": [
+          36482
+        ],
+        "start": 1.66,
+        "end": 2.02,
+        "probability": 0.4750473201274872
+      },
+      {
+        "word": "福",
+        "tokens": [
+          33952
+        ],
+        "start": 2.02,
+        "end": 2.34,
+        "probability": 0.9792245030403137
+      },
+      {
+        "word": "不会",
+        "tokens": [
+          47928
+        ],
+        "start": 2.34,
+        "end": 3.12,
+        "probability": 0.21187016367912292
+      },
+      {
+        "word": "来了",
+        "tokens": [
+          34912
+        ],
+        "start": 3.12,
+        "end": 3.9,
+        "probability": 0.030685001984238625
+      }
+    ]
+  },
+  {
+    "text": "用心酸微笑去原谅了",
+    "crop_start": 70.10000000000001,
+    "alignment": [
+      {
+        "word": "用",
+        "tokens": [
+          9254
+        ],
+        "start": 0.0,
+        "end": 0.44,
+        "probability": 0.01924188993871212
+      },
+      {
+        "word": "心",
+        "tokens": [
+          7945
+        ],
+        "start": 0.44,
+        "end": 1.4,
+        "probability": 0.919329822063446
+      },
+      {
+        "word": "酸",
+        "tokens": [
+          16911,
+          116
+        ],
+        "start": 1.4,
+        "end": 1.74,
+        "probability": 0.5651225075125694
+      },
+      {
+        "word": "微",
+        "tokens": [
+          39152
+        ],
+        "start": 1.74,
+        "end": 1.96,
+        "probability": 0.888309895992279
+      },
+      {
+        "word": "笑",
+        "tokens": [
+          11600
+        ],
+        "start": 1.96,
+        "end": 2.2,
+        "probability": 0.9389462471008301
+      },
+      {
+        "word": "去",
+        "tokens": [
+          6734
+        ],
+        "start": 2.2,
+        "end": 2.48,
+        "probability": 0.7209216952323914
+      },
+      {
+        "word": "原",
+        "tokens": [
+          19683
+        ],
+        "start": 2.48,
+        "end": 2.94,
+        "probability": 0.204520583152771
+      },
+      {
+        "word": "谅",
+        "tokens": [
+          8897,
+          227
+        ],
+        "start": 2.94,
+        "end": 3.58,
+        "probability": 0.6124801263213158
+      },
+      {
+        "word": "了",
+        "tokens": [
+          2289
+        ],
+        "start": 3.58,
+        "end": 3.96,
+        "probability": 0.8081337809562683
+      }
+    ]
+  },
+  {
+    "text": "也翻越了",
+    "crop_start": 73.5,
+    "alignment": [
+      {
+        "word": "也",
+        "tokens": [
+          6404
+        ],
+        "start": 0.0,
+        "end": 1.14,
+        "probability": 0.09616731107234955
+      },
+      {
+        "word": "翻",
+        "tokens": [
+          42716
+        ],
+        "start": 1.14,
+        "end": 1.6,
+        "probability": 0.005381754599511623
+      },
+      {
+        "word": "越",
+        "tokens": [
+          25761
+        ],
+        "start": 1.6,
+        "end": 1.9,
+        "probability": 0.1695079207420349
+      },
+      {
+        "word": "了",
+        "tokens": [
+          2289
+        ],
+        "start": 1.9,
+        "end": 2.5,
+        "probability": 0.8859971761703491
+      }
+    ]
+  },
+  {
+    "text": "有昨天还是好的",
+    "crop_start": 75.60000000000001,
+    "alignment": [
+      {
+        "word": "有",
+        "tokens": [
+          2412
+        ],
+        "start": 0.0,
+        "end": 1.24,
+        "probability": 0.4746915102005005
+      },
+      {
+        "word": "昨",
+        "tokens": [
+          47404
+        ],
+        "start": 1.24,
+        "end": 1.54,
+        "probability": 0.8660882115364075
+      },
+      {
+        "word": "天",
+        "tokens": [
+          6135
+        ],
+        "start": 1.54,
+        "end": 1.86,
+        "probability": 0.9920491576194763
+      },
+      {
+        "word": "还是",
+        "tokens": [
+          45726
+        ],
+        "start": 1.86,
+        "end": 2.44,
+        "probability": 0.2977886497974396
+      },
+      {
+        "word": "好的",
+        "tokens": [
+          20715
+        ],
+        "start": 2.44,
+        "end": 3.34,
+        "probability": 0.0007794348057359457
+      }
+    ]
+  },
+  {
+    "text": "但明天是自己的",
+    "crop_start": 78.9,
+    "alignment": [
+      {
+        "word": "但",
+        "tokens": [
+          8395
+        ],
+        "start": 0.0,
+        "end": 2.02,
+        "probability": 0.2477738857269287
+      },
+      {
+        "word": "明",
+        "tokens": [
+          11100
+        ],
+        "start": 2.02,
+        "end": 2.32,
+        "probability": 0.8988410830497742
+      },
+      {
+        "word": "天",
+        "tokens": [
+          6135
+        ],
+        "start": 2.32,
+        "end": 2.56,
+        "probability": 0.8679776191711426
+      },
+      {
+        "word": "是",
+        "tokens": [
+          1541
+        ],
+        "start": 2.56,
+        "end": 2.88,
+        "probability": 0.8980969190597534
+      },
+      {
+        "word": "自己",
+        "tokens": [
+          17645
+        ],
+        "start": 2.88,
+        "end": 3.52,
+        "probability": 0.47887399792671204
+      },
+      {
+        "word": "的",
+        "tokens": [
+          1546
+        ],
+        "start": 3.52,
+        "end": 3.9,
+        "probability": 0.29756665229797363
+      }
+    ]
+  },
+  {
+    "text": "开始懂了",
+    "crop_start": 82.10000000000001,
+    "alignment": [
+      {
+        "word": "开始",
+        "tokens": [
+          45213
+        ],
+        "start": 0.0,
+        "end": 0.4,
+        "probability": 0.00021908893540967256
+      },
+      {
+        "word": "懂",
+        "tokens": [
+          29624
+        ],
+        "start": 0.4,
+        "end": 0.86,
+        "probability": 0.002104929881170392
+      },
+      {
+        "word": "了",
+        "tokens": [
+          2289
+        ],
+        "start": 0.86,
+        "end": 3.24,
+        "probability": 0.18297941982746124
+      }
+    ]
+  },
+  {
+    "text": "快乐是选择",
+    "crop_start": 85.4,
+    "alignment": [
+      {
+        "word": "快",
+        "tokens": [
+          10251
+        ],
+        "start": 0.0,
+        "end": 2.0,
+        "probability": 0.6382921934127808
+      },
+      {
+        "word": "乐",
+        "tokens": [
+          44365
+        ],
+        "start": 2.0,
+        "end": 2.26,
+        "probability": 0.16027675569057465
+      },
+      {
+        "word": "是",
+        "tokens": [
+          1541
+        ],
+        "start": 2.26,
+        "end": 2.62,
+        "probability": 0.5221312046051025
+      },
+      {
+        "word": "选",
+        "tokens": [
+          2215,
+          231
+        ],
+        "start": 2.62,
+        "end": 3.52,
+        "probability": 0.24870489368913695
+      },
+      {
+        "word": "择",
+        "tokens": [
+          6852,
+          102
+        ],
+        "start": 3.52,
+        "end": 4.3,
+        "probability": 0.9580894708633423
+      }
+    ]
+  },
+  {
+    "text": "我竟然没有调头",
+    "crop_start": 105.9,
+    "alignment": [
+      {
+        "word": "我",
+        "tokens": [
+          1654
+        ],
+        "start": 0.0,
+        "end": 1.74,
+        "probability": 0.441069632768631
+      },
+      {
+        "word": "竟",
+        "tokens": [
+          11957,
+          253
+        ],
+        "start": 1.74,
+        "end": 2.02,
+        "probability": 0.5557033456861973
+      },
+      {
+        "word": "然",
+        "tokens": [
+          5823
+        ],
+        "start": 2.02,
+        "end": 2.4,
+        "probability": 0.9866552352905273
+      },
+      {
+        "word": "没有",
+        "tokens": [
+          17944
+        ],
+        "start": 2.4,
+        "end": 3.18,
+        "probability": 0.041272468864917755
+      },
+      {
+        "word": "调",
+        "tokens": [
+          8897,
+          225
+        ],
+        "start": 3.18,
+        "end": 3.84,
+        "probability": 0.5023942124098539
+      },
+      {
+        "word": "头",
+        "tokens": [
+          39862
+        ],
+        "start": 3.84,
+        "end": 4.32,
+        "probability": 0.04093557596206665
+      }
+    ]
+  },
+  {
+    "text": "最残忍那一刻",
+    "crop_start": 109.7,
+    "alignment": [
+      {
+        "word": "最",
+        "tokens": [
+          8661
+        ],
+        "start": 0.0,
+        "end": 1.22,
+        "probability": 0.09931530803442001
+      },
+      {
+        "word": "残",
+        "tokens": [
+          15976,
+          233
+        ],
+        "start": 1.22,
+        "end": 1.68,
+        "probability": 0.2119760401546955
+      },
+      {
+        "word": "忍",
+        "tokens": [
+          4263,
+          235
+        ],
+        "start": 1.68,
+        "end": 2.14,
+        "probability": 0.9254535138607025
+      },
+      {
+        "word": "那",
+        "tokens": [
+          4184
+        ],
+        "start": 2.14,
+        "end": 2.68,
+        "probability": 0.205487459897995
+      },
+      {
+        "word": "一",
+        "tokens": [
+          2257
+        ],
+        "start": 2.68,
+        "end": 3.08,
+        "probability": 0.7740362882614136
+      },
+      {
+        "word": "刻",
+        "tokens": [
+          45500
+        ],
+        "start": 3.08,
+        "end": 3.5,
+        "probability": 0.8902233242988586
+      }
+    ]
+  },
+  {
+    "text": "静静看你走",
+    "crop_start": 112.7,
+    "alignment": [
+      {
+        "word": "静",
+        "tokens": [
+          5363,
+          247
+        ],
+        "start": 0.0,
+        "end": 1.78,
+        "probability": 0.017712352331727743
+      },
+      {
+        "word": "静",
+        "tokens": [
+          5363,
+          247
+        ],
+        "start": 1.78,
+        "end": 2.1,
+        "probability": 0.26586006954312325
+      },
+      {
+        "word": "看",
+        "tokens": [
+          4200
+        ],
+        "start": 2.1,
+        "end": 2.3,
+        "probability": 0.06699474900960922
+      },
+      {
+        "word": "你",
+        "tokens": [
+          2166
+        ],
+        "start": 2.3,
+        "end": 2.66,
+        "probability": 0.4749012291431427
+      },
+      {
+        "word": "走",
+        "tokens": [
+          9575
+        ],
+        "start": 2.66,
+        "end": 3.46,
+        "probability": 0.8596360683441162
+      }
+    ]
+  },
+  {
+    "text": "一点都不像我",
+    "crop_start": 115.9,
+    "alignment": [
+      {
+        "word": "一点",
+        "tokens": [
+          49042
+        ],
+        "start": 0.0,
+        "end": 2.08,
+        "probability": 0.001434611389413476
+      },
+      {
+        "word": "都",
+        "tokens": [
+          7182
+        ],
+        "start": 2.08,
+        "end": 2.52,
+        "probability": 0.27388760447502136
+      },
+      {
+        "word": "不",
+        "tokens": [
+          1960
+        ],
+        "start": 2.52,
+        "end": 2.92,
+        "probability": 0.9407273530960083
+      },
+      {
+        "word": "像",
+        "tokens": [
+          12760
+        ],
+        "start": 2.92,
+        "end": 3.3,
+        "probability": 0.40195563435554504
+      },
+      {
+        "word": "我",
+        "tokens": [
+          1654
+        ],
+        "start": 3.3,
+        "end": 4.0,
+        "probability": 0.9861499667167664
+      }
+    ]
+  },
+  {
+    "text": "原来人会变得温柔",
+    "crop_start": 120.4,
+    "alignment": [
+      {
+        "word": "原",
+        "tokens": [
+          19683
+        ],
+        "start": 0.0,
+        "end": 3.56,
+        "probability": 0.0016821692697703838
+      },
+      {
+        "word": "来",
+        "tokens": [
+          6912
+        ],
+        "start": 3.56,
+        "end": 3.82,
+        "probability": 0.37329918146133423
+      },
+      {
+        "word": "人",
+        "tokens": [
+          4035
+        ],
+        "start": 3.82,
+        "end": 4.34,
+        "probability": 0.802970290184021
+      },
+      {
+        "word": "会",
+        "tokens": [
+          12949
+        ],
+        "start": 4.34,
+        "end": 4.82,
+        "probability": 0.7007448077201843
+      },
+      {
+        "word": "变",
+        "tokens": [
+          2129,
+          246
+        ],
+        "start": 4.82,
+        "end": 5.08,
+        "probability": 0.5406010933220387
+      },
+      {
+        "word": "得",
+        "tokens": [
+          5916
+        ],
+        "start": 5.08,
+        "end": 5.38,
+        "probability": 0.6462788581848145
+      },
+      {
+        "word": "温",
+        "tokens": [
+          9592,
+          102
+        ],
+        "start": 5.38,
+        "end": 5.64,
+        "probability": 0.5663976520299911
+      },
+      {
+        "word": "柔",
+        "tokens": [
+          17238,
+          242
+        ],
+        "start": 5.64,
+        "end": 6.12,
+        "probability": 0.8769749402999878
+      }
+    ]
+  },
+  {
+    "text": "是透澈的懂了",
+    "crop_start": 126.0,
+    "alignment": [
+      {
+        "word": "是",
+        "tokens": [
+          1541
+        ],
+        "start": 0.0,
+        "end": 1.22,
+        "probability": 0.07916922867298126
+      },
+      {
+        "word": "透",
+        "tokens": [
+          45808
+        ],
+        "start": 1.22,
+        "end": 1.56,
+        "probability": 0.0018364847637712955
+      },
+      {
+        "word": "澈",
+        "tokens": [
+          25621,
+          230
+        ],
+        "start": 1.56,
+        "end": 2.28,
+        "probability": 0.18485938187222928
+      },
+      {
+        "word": "的",
+        "tokens": [
+          1546
+        ],
+        "start": 2.28,
+        "end": 2.58,
+        "probability": 0.9654062390327454
+      },
+      {
+        "word": "懂",
+        "tokens": [
+          29624
+        ],
+        "start": 2.58,
+        "end": 3.12,
+        "probability": 0.04631193354725838
+      },
+      {
+        "word": "了",
+        "tokens": [
+          2289
+        ],
+        "start": 3.12,
+        "end": 3.62,
+        "probability": 0.0003959695459343493
+      }
+    ]
+  },
+  {
+    "text": "爱情是流动的",
+    "crop_start": 129.4,
+    "alignment": [
+      {
+        "word": "爱",
+        "tokens": [
+          27324
+        ],
+        "start": 0.0,
+        "end": 1.36,
+        "probability": 0.4763443171977997
+      },
+      {
+        "word": "情",
+        "tokens": [
+          10570
+        ],
+        "start": 1.36,
+        "end": 1.62,
+        "probability": 0.7613018155097961
+      },
+      {
+        "word": "是",
+        "tokens": [
+          1541
+        ],
+        "start": 1.62,
+        "end": 1.9,
+        "probability": 0.1339561492204666
+      },
+      {
+        "word": "流",
+        "tokens": [
+          27854
+        ],
+        "start": 1.9,
+        "end": 2.18,
+        "probability": 0.685083270072937
+      },
+      {
+        "word": "动",
+        "tokens": [
+          34961
+        ],
+        "start": 2.18,
+        "end": 2.66,
+        "probability": 0.9035096168518066
+      },
+      {
+        "word": "的",
+        "tokens": [
+          1546
+        ],
+        "start": 2.66,
+        "end": 3.1,
+        "probability": 0.9984863996505737
+      }
+    ]
+  },
+  {
+    "text": "不由人的",
+    "crop_start": 131.9,
+    "alignment": [
+      {
+        "word": "不",
+        "tokens": [
+          1960
+        ],
+        "start": 0.0,
+        "end": 0.12,
+        "probability": 0.004031736869364977
+      },
+      {
+        "word": "由",
+        "tokens": [
+          23786
+        ],
+        "start": 0.12,
+        "end": 1.62,
+        "probability": 0.0001337413559667766
+      },
+      {
+        "word": "人",
+        "tokens": [
+          4035
+        ],
+        "start": 1.62,
+        "end": 2.2,
+        "probability": 0.09600451588630676
+      },
+      {
+        "word": "的",
+        "tokens": [
+          1546
+        ],
+        "start": 2.2,
+        "end": 2.68,
+        "probability": 0.260160893201828
+      }
+    ]
+  },
+  {
+    "text": "何必激动着要理由",
+    "crop_start": 134.20000000000002,
+    "alignment": [
+      {
+        "word": "何",
+        "tokens": [
+          11906
+        ],
+        "start": 0.0,
+        "end": 1.22,
+        "probability": 0.0006131217814981937
+      },
+      {
+        "word": "必",
+        "tokens": [
+          28531
+        ],
+        "start": 1.22,
+        "end": 1.44,
+        "probability": 0.9760392308235168
+      },
+      {
+        "word": "激",
+        "tokens": [
+          26373,
+          222
+        ],
+        "start": 1.44,
+        "end": 1.76,
+        "probability": 0.49117036478128284
+      },
+      {
+        "word": "动",
+        "tokens": [
+          34961
+        ],
+        "start": 1.76,
+        "end": 1.94,
+        "probability": 0.06043531000614166
+      },
+      {
+        "word": "着",
+        "tokens": [
+          20708
+        ],
+        "start": 1.94,
+        "end": 2.22,
+        "probability": 0.019116071984171867
+      },
+      {
+        "word": "要",
+        "tokens": [
+          4275
+        ],
+        "start": 2.22,
+        "end": 2.56,
+        "probability": 0.040173474699258804
+      },
+      {
+        "word": "理",
+        "tokens": [
+          13876
+        ],
+        "start": 2.56,
+        "end": 3.02,
+        "probability": 0.0011496682418510318
+      },
+      {
+        "word": "由",
+        "tokens": [
+          23786
+        ],
+        "start": 3.02,
+        "end": 3.56,
+        "probability": 0.34233763813972473
+      }
+    ]
+  },
+  {
+    "text": "相信你只是怕伤害我",
+    "crop_start": 139.1,
+    "alignment": [
+      {
+        "word": "相信",
+        "tokens": [
+          35428
+        ],
+        "start": 0.0,
+        "end": 1.54,
+        "probability": 0.9419286251068115
+      },
+      {
+        "word": "你",
+        "tokens": [
+          2166
+        ],
+        "start": 1.54,
+        "end": 1.88,
+        "probability": 0.9432445764541626
+      },
+      {
+        "word": "只是",
+        "tokens": [
+          36859
+        ],
+        "start": 1.88,
+        "end": 2.26,
+        "probability": 0.9619662165641785
+      },
+      {
+        "word": "怕",
+        "tokens": [
+          21164
+        ],
+        "start": 2.26,
+        "end": 2.76,
+        "probability": 0.28825312852859497
+      },
+      {
+        "word": "伤",
+        "tokens": [
+          7384,
+          97
+        ],
+        "start": 2.76,
+        "end": 3.16,
+        "probability": 0.5463424101471901
+      },
+      {
+        "word": "害",
+        "tokens": [
+          14694
+        ],
+        "start": 3.16,
+        "end": 3.52,
+        "probability": 0.9858404397964478
+      },
+      {
+        "word": "我",
+        "tokens": [
+          1654
+        ],
+        "start": 3.52,
+        "end": 3.94,
+        "probability": 0.7658156752586365
+      }
+    ]
+  },
+  {
+    "text": "不是骗我",
+    "crop_start": 142.5,
+    "alignment": [
+      {
+        "word": "不是",
+        "tokens": [
+          7296
+        ],
+        "start": 0.0,
+        "end": 1.5,
+        "probability": 0.008268446661531925
+      },
+      {
+        "word": "骗",
+        "tokens": [
+          49657,
+          245
+        ],
+        "start": 1.5,
+        "end": 2.14,
+        "probability": 0.48012589471181855
+      },
+      {
+        "word": "我",
+        "tokens": [
+          1654
+        ],
+        "start": 2.14,
+        "end": 2.6,
+        "probability": 0.9098353385925293
+      }
+    ]
+  },
+  {
+    "text": "很爱过谁会舍得",
+    "crop_start": 145.0,
+    "alignment": [
+      {
+        "word": "很",
+        "tokens": [
+          4563
+        ],
+        "start": 0.0,
+        "end": 1.1,
+        "probability": 0.004598979838192463
+      },
+      {
+        "word": "爱",
+        "tokens": [
+          27324
+        ],
+        "start": 1.1,
+        "end": 1.38,
+        "probability": 0.013386902399361134
+      },
+      {
+        "word": "过",
+        "tokens": [
+          16866
+        ],
+        "start": 1.38,
+        "end": 1.58,
+        "probability": 0.18990793824195862
+      },
+      {
+        "word": "谁",
+        "tokens": [
+          33556
+        ],
+        "start": 1.58,
+        "end": 2.02,
+        "probability": 0.4300021827220917
+      },
+      {
+        "word": "会",
+        "tokens": [
+          12949
+        ],
+        "start": 2.02,
+        "end": 2.3,
+        "probability": 0.6968954801559448
+      },
+      {
+        "word": "舍",
+        "tokens": [
+          10256,
+          235
+        ],
+        "start": 2.3,
+        "end": 2.9,
+        "probability": 0.3362319926964119
+      },
+      {
+        "word": "得",
+        "tokens": [
+          5916
+        ],
+        "start": 2.9,
+        "end": 3.22,
+        "probability": 0.3243332505226135
+      }
+    ]
+  },
+  {
+    "text": "把我的梦摇醒了",
+    "crop_start": 148.8,
+    "alignment": [
+      {
+        "word": "把",
+        "tokens": [
+          16075
+        ],
+        "start": 0.0,
+        "end": 1.3,
+        "probability": 0.10516119748353958
+      },
+      {
+        "word": "我的",
+        "tokens": [
+          14200
+        ],
+        "start": 1.3,
+        "end": 1.78,
+        "probability": 0.9872744083404541
+      },
+      {
+        "word": "梦",
+        "tokens": [
+          19017,
+          99
+        ],
+        "start": 1.78,
+        "end": 2.2,
+        "probability": 0.5327119044959545
+      },
+      {
+        "word": "摇",
+        "tokens": [
+          34783,
+          229
+        ],
+        "start": 2.2,
+        "end": 2.48,
+        "probability": 0.4810736938379705
+      },
+      {
+        "word": "醒",
+        "tokens": [
+          40796
+        ],
+        "start": 2.48,
+        "end": 2.9,
+        "probability": 0.7324284911155701
+      },
+      {
+        "word": "了",
+        "tokens": [
+          2289
+        ],
+        "start": 2.9,
+        "end": 3.52,
+        "probability": 0.9206441044807434
+      }
+    ]
+  },
+  {
+    "text": "宣布幸福不会来了",
+    "crop_start": 151.8,
+    "alignment": [
+      {
+        "word": "宣",
+        "tokens": [
+          2415,
+          96
+        ],
+        "start": 0.0,
+        "end": 1.12,
+        "probability": 0.4990393668413162
+      },
+      {
+        "word": "布",
+        "tokens": [
+          34688
+        ],
+        "start": 1.12,
+        "end": 1.46,
+        "probability": 0.9595200419425964
+      },
+      {
+        "word": "幸",
+        "tokens": [
+          36482
+        ],
+        "start": 1.46,
+        "end": 1.84,
+        "probability": 0.869130551815033
+      },
+      {
+        "word": "福",
+        "tokens": [
+          33952
+        ],
+        "start": 1.84,
+        "end": 2.12,
+        "probability": 0.9968536496162415
+      },
+      {
+        "word": "不会",
+        "tokens": [
+          47928
+        ],
+        "start": 2.12,
+        "end": 2.8,
+        "probability": 0.010163466446101665
+      },
+      {
+        "word": "来了",
+        "tokens": [
+          34912
+        ],
+        "start": 2.8,
+        "end": 3.7,
+        "probability": 0.043588023632764816
+      }
+    ]
+  },
+  {
+    "text": "用心酸微笑去原谅了",
+    "crop_start": 155.5,
+    "alignment": [
+      {
+        "word": "用",
+        "tokens": [
+          9254
+        ],
+        "start": 0.0,
+        "end": 1.2,
+        "probability": 0.008873684331774712
+      },
+      {
+        "word": "心",
+        "tokens": [
+          7945
+        ],
+        "start": 1.2,
+        "end": 1.46,
+        "probability": 0.9717016220092773
+      },
+      {
+        "word": "酸",
+        "tokens": [
+          16911,
+          116
+        ],
+        "start": 1.46,
+        "end": 1.76,
+        "probability": 0.5543971695005894
+      },
+      {
+        "word": "微",
+        "tokens": [
+          39152
+        ],
+        "start": 1.76,
+        "end": 1.96,
+        "probability": 0.9175962209701538
+      },
+      {
+        "word": "笑",
+        "tokens": [
+          11600
+        ],
+        "start": 1.96,
+        "end": 2.22,
+        "probability": 0.9610695242881775
+      },
+      {
+        "word": "去",
+        "tokens": [
+          6734
+        ],
+        "start": 2.22,
+        "end": 2.58,
+        "probability": 0.11344969272613525
+      },
+      {
+        "word": "原",
+        "tokens": [
+          19683
+        ],
+        "start": 2.58,
+        "end": 2.98,
+        "probability": 0.1301761120557785
+      },
+      {
+        "word": "谅",
+        "tokens": [
+          8897,
+          227
+        ],
+        "start": 2.98,
+        "end": 3.42,
+        "probability": 0.5489460863173008
+      },
+      {
+        "word": "了",
+        "tokens": [
+          2289
+        ],
+        "start": 3.42,
+        "end": 3.78,
+        "probability": 0.01906140148639679
+      }
+    ]
+  },
+  {
+    "text": "也翻越了",
+    "crop_start": 158.9,
+    "alignment": [
+      {
+        "word": "也",
+        "tokens": [
+          6404
+        ],
+        "start": 0.0,
+        "end": 1.22,
+        "probability": 0.039794400334358215
+      },
+      {
+        "word": "翻",
+        "tokens": [
+          42716
+        ],
+        "start": 1.22,
+        "end": 1.62,
+        "probability": 0.05882226675748825
+      },
+      {
+        "word": "越",
+        "tokens": [
+          25761
+        ],
+        "start": 1.62,
+        "end": 1.9,
+        "probability": 0.7589303255081177
+      },
+      {
+        "word": "了",
+        "tokens": [
+          2289
+        ],
+        "start": 1.9,
+        "end": 2.58,
+        "probability": 0.7720064520835876
+      }
+    ]
+  },
+  {
+    "text": "有昨天还是好的",
+    "crop_start": 161.3,
+    "alignment": [
+      {
+        "word": "有",
+        "tokens": [
+          2412
+        ],
+        "start": 0.0,
+        "end": 1.0,
+        "probability": 0.3670702278614044
+      },
+      {
+        "word": "昨",
+        "tokens": [
+          47404
+        ],
+        "start": 1.0,
+        "end": 1.3,
+        "probability": 0.017067041248083115
+      },
+      {
+        "word": "天",
+        "tokens": [
+          6135
+        ],
+        "start": 1.3,
+        "end": 1.56,
+        "probability": 0.9875800013542175
+      },
+      {
+        "word": "还是",
+        "tokens": [
+          45726
+        ],
+        "start": 1.56,
+        "end": 2.14,
+        "probability": 0.1587267518043518
+      },
+      {
+        "word": "好的",
+        "tokens": [
+          20715
+        ],
+        "start": 2.14,
+        "end": 3.08,
+        "probability": 0.6003041863441467
+      }
+    ]
+  },
+  {
+    "text": "但明天是自己的",
+    "crop_start": 164.4,
+    "alignment": [
+      {
+        "word": "但",
+        "tokens": [
+          8395
+        ],
+        "start": 0.0,
+        "end": 1.98,
+        "probability": 0.4072725474834442
+      },
+      {
+        "word": "明",
+        "tokens": [
+          11100
+        ],
+        "start": 1.98,
+        "end": 2.28,
+        "probability": 9.914473776007071e-05
+      },
+      {
+        "word": "天",
+        "tokens": [
+          6135
+        ],
+        "start": 2.28,
+        "end": 2.48,
+        "probability": 0.7601512670516968
+      },
+      {
+        "word": "是",
+        "tokens": [
+          1541
+        ],
+        "start": 2.48,
+        "end": 2.82,
+        "probability": 0.6878812909126282
+      },
+      {
+        "word": "自己",
+        "tokens": [
+          17645
+        ],
+        "start": 2.82,
+        "end": 3.46,
+        "probability": 0.5000993013381958
+      },
+      {
+        "word": "的",
+        "tokens": [
+          1546
+        ],
+        "start": 3.46,
+        "end": 3.84,
+        "probability": 0.3691632151603699
+      }
+    ]
+  },
+  {
+    "text": "开始懂了",
+    "crop_start": 167.5,
+    "alignment": [
+      {
+        "word": "开始",
+        "tokens": [
+          45213
+        ],
+        "start": 0.0,
+        "end": 0.4,
+        "probability": 0.0005549457855522633
+      },
+      {
+        "word": "懂",
+        "tokens": [
+          29624
+        ],
+        "start": 0.4,
+        "end": 2.72,
+        "probability": 0.020062284544110298
+      },
+      {
+        "word": "了",
+        "tokens": [
+          2289
+        ],
+        "start": 2.72,
+        "end": 3.3,
+        "probability": 0.6668790578842163
+      }
+    ]
+  },
+  {
+    "text": "快乐是选择",
+    "crop_start": 171.4,
+    "alignment": [
+      {
+        "word": "快",
+        "tokens": [
+          10251
+        ],
+        "start": 0.0,
+        "end": 1.46,
+        "probability": 0.02618260495364666
+      },
+      {
+        "word": "乐",
+        "tokens": [
+          44365
+        ],
+        "start": 1.46,
+        "end": 1.74,
+        "probability": 0.1306704878807068
+      },
+      {
+        "word": "是",
+        "tokens": [
+          1541
+        ],
+        "start": 1.74,
+        "end": 2.14,
+        "probability": 0.09834372252225876
+      },
+      {
+        "word": "选",
+        "tokens": [
+          2215,
+          231
+        ],
+        "start": 2.14,
+        "end": 2.88,
+        "probability": 0.19268893310800195
+      },
+      {
+        "word": "择",
+        "tokens": [
+          6852,
+          102
+        ],
+        "start": 2.88,
+        "end": 3.78,
+        "probability": 0.7280403673648834
+      }
+    ]
+  },
+  {
+    "text": "相信你只是怕伤害我",
+    "crop_start": 204.20000000000002,
+    "alignment": [
+      {
+        "word": "相信",
+        "tokens": [
+          35428
+        ],
+        "start": 0.0,
+        "end": 0.48,
+        "probability": 0.0002752937434706837
+      },
+      {
+        "word": "你",
+        "tokens": [
+          2166
+        ],
+        "start": 0.48,
+        "end": 1.82,
+        "probability": 0.7198957204818726
+      },
+      {
+        "word": "只是",
+        "tokens": [
+          36859
+        ],
+        "start": 1.82,
+        "end": 2.2,
+        "probability": 0.3300188481807709
+      },
+      {
+        "word": "怕",
+        "tokens": [
+          21164
+        ],
+        "start": 2.2,
+        "end": 2.68,
+        "probability": 0.7433841824531555
+      },
+      {
+        "word": "伤",
+        "tokens": [
+          7384,
+          97
+        ],
+        "start": 2.68,
+        "end": 3.2,
+        "probability": 0.5361224859952927
+      },
+      {
+        "word": "害",
+        "tokens": [
+          14694
+        ],
+        "start": 3.2,
+        "end": 3.52,
+        "probability": 0.9970544576644897
+      },
+      {
+        "word": "我",
+        "tokens": [
+          1654
+        ],
+        "start": 3.52,
+        "end": 3.94,
+        "probability": 0.9811166524887085
+      }
+    ]
+  },
+  {
+    "text": "不是骗我",
+    "crop_start": 207.5,
+    "alignment": [
+      {
+        "word": "不是",
+        "tokens": [
+          7296
+        ],
+        "start": 0.0,
+        "end": 1.54,
+        "probability": 0.0028525982052087784
+      },
+      {
+        "word": "骗",
+        "tokens": [
+          49657,
+          245
+        ],
+        "start": 1.54,
+        "end": 2.2,
+        "probability": 0.6023065596818924
+      },
+      {
+        "word": "我",
+        "tokens": [
+          1654
+        ],
+        "start": 2.2,
+        "end": 2.66,
+        "probability": 0.9498501420021057
+      }
+    ]
+  },
+  {
+    "text": "很爱过谁会舍得",
+    "crop_start": 209.8,
+    "alignment": [
+      {
+        "word": "很",
+        "tokens": [
+          4563
+        ],
+        "start": 0.0,
+        "end": 1.3,
+        "probability": 0.0004610797041095793
+      },
+      {
+        "word": "爱",
+        "tokens": [
+          27324
+        ],
+        "start": 1.3,
+        "end": 1.62,
+        "probability": 0.03221731632947922
+      },
+      {
+        "word": "过",
+        "tokens": [
+          16866
+        ],
+        "start": 1.62,
+        "end": 1.82,
+        "probability": 0.25914090871810913
+      },
+      {
+        "word": "谁",
+        "tokens": [
+          33556
+        ],
+        "start": 1.82,
+        "end": 2.2,
+        "probability": 0.9510293006896973
+      },
+      {
+        "word": "会",
+        "tokens": [
+          12949
+        ],
+        "start": 2.2,
+        "end": 2.64,
+        "probability": 0.8329200744628906
+      },
+      {
+        "word": "舍",
+        "tokens": [
+          10256,
+          235
+        ],
+        "start": 2.64,
+        "end": 3.12,
+        "probability": 0.29850715459906496
+      },
+      {
+        "word": "得",
+        "tokens": [
+          5916
+        ],
+        "start": 3.12,
+        "end": 3.54,
+        "probability": 0.20868182182312012
+      }
+    ]
+  },
+  {
+    "text": "把我的梦摇醒了",
+    "crop_start": 213.4,
+    "alignment": [
+      {
+        "word": "把",
+        "tokens": [
+          16075
+        ],
+        "start": 0.0,
+        "end": 1.8,
+        "probability": 0.005936415400356054
+      },
+      {
+        "word": "我的",
+        "tokens": [
+          14200
+        ],
+        "start": 1.8,
+        "end": 2.26,
+        "probability": 0.8645259141921997
+      },
+      {
+        "word": "梦",
+        "tokens": [
+          19017,
+          99
+        ],
+        "start": 2.26,
+        "end": 2.66,
+        "probability": 0.5083071310073137
+      },
+      {
+        "word": "摇",
+        "tokens": [
+          34783,
+          229
+        ],
+        "start": 2.66,
+        "end": 2.94,
+        "probability": 0.4648653362528421
+      },
+      {
+        "word": "醒",
+        "tokens": [
+          40796
+        ],
+        "start": 2.94,
+        "end": 3.34,
+        "probability": 0.43414509296417236
+      },
+      {
+        "word": "了",
+        "tokens": [
+          2289
+        ],
+        "start": 3.34,
+        "end": 3.72,
+        "probability": 0.8064117431640625
+      }
+    ]
+  },
+  {
+    "text": "宣布幸福不会来了",
+    "crop_start": 216.70000000000002,
+    "alignment": [
+      {
+        "word": "宣",
+        "tokens": [
+          2415,
+          96
+        ],
+        "start": 0.0,
+        "end": 1.34,
+        "probability": 0.04541590670123696
+      },
+      {
+        "word": "布",
+        "tokens": [
+          34688
+        ],
+        "start": 1.34,
+        "end": 1.7,
+        "probability": 0.9577854871749878
+      },
+      {
+        "word": "幸",
+        "tokens": [
+          36482
+        ],
+        "start": 1.7,
+        "end": 2.04,
+        "probability": 0.5767269730567932
+      },
+      {
+        "word": "福",
+        "tokens": [
+          33952
+        ],
+        "start": 2.04,
+        "end": 2.34,
+        "probability": 0.9969884753227234
+      },
+      {
+        "word": "不会",
+        "tokens": [
+          47928
+        ],
+        "start": 2.34,
+        "end": 3.04,
+        "probability": 0.37846818566322327
+      },
+      {
+        "word": "来了",
+        "tokens": [
+          34912
+        ],
+        "start": 3.04,
+        "end": 4.04,
+        "probability": 0.5460830330848694
+      }
+    ]
+  },
+  {
+    "text": "用心酸微笑去原谅了",
+    "crop_start": 221.0,
+    "alignment": [
+      {
+        "word": "用",
+        "tokens": [
+          9254
+        ],
+        "start": 0.0,
+        "end": 0.8,
+        "probability": 0.26520630717277527
+      },
+      {
+        "word": "心",
+        "tokens": [
+          7945
+        ],
+        "start": 0.8,
+        "end": 1.02,
+        "probability": 0.8548009395599365
+      },
+      {
+        "word": "酸",
+        "tokens": [
+          16911,
+          116
+        ],
+        "start": 1.02,
+        "end": 1.32,
+        "probability": 0.44311500573530793
+      },
+      {
+        "word": "微",
+        "tokens": [
+          39152
+        ],
+        "start": 1.32,
+        "end": 1.56,
+        "probability": 0.028697911649942398
+      },
+      {
+        "word": "笑",
+        "tokens": [
+          11600
+        ],
+        "start": 1.56,
+        "end": 1.82,
+        "probability": 0.3430396020412445
+      },
+      {
+        "word": "去",
+        "tokens": [
+          6734
+        ],
+        "start": 1.82,
+        "end": 2.18,
+        "probability": 0.01709960773587227
+      },
+      {
+        "word": "原",
+        "tokens": [
+          19683
+        ],
+        "start": 2.18,
+        "end": 2.62,
+        "probability": 0.017679695039987564
+      },
+      {
+        "word": "谅",
+        "tokens": [
+          8897,
+          227
+        ],
+        "start": 2.62,
+        "end": 3.14,
+        "probability": 0.506587702780962
+      },
+      {
+        "word": "了",
+        "tokens": [
+          2289
+        ],
+        "start": 3.14,
+        "end": 3.46,
+        "probability": 0.1847117692232132
+      }
+    ]
+  },
+  {
+    "text": "也翻越了",
+    "crop_start": 224.4,
+    "alignment": [
+      {
+        "word": "也",
+        "tokens": [
+          6404
+        ],
+        "start": 0.0,
+        "end": 1.02,
+        "probability": 0.03796382620930672
+      },
+      {
+        "word": "翻",
+        "tokens": [
+          42716
+        ],
+        "start": 1.02,
+        "end": 1.48,
+        "probability": 0.02270510420203209
+      },
+      {
+        "word": "越",
+        "tokens": [
+          25761
+        ],
+        "start": 1.48,
+        "end": 1.78,
+        "probability": 0.1563660055398941
+      },
+      {
+        "word": "了",
+        "tokens": [
+          2289
+        ],
+        "start": 1.78,
+        "end": 2.26,
+        "probability": 0.5687761902809143
+      }
+    ]
+  },
+  {
+    "text": "有昨天还是好的",
+    "crop_start": 226.4,
+    "alignment": [
+      {
+        "word": "有",
+        "tokens": [
+          2412
+        ],
+        "start": 0.0,
+        "end": 1.0,
+        "probability": 0.004903714172542095
+      },
+      {
+        "word": "昨",
+        "tokens": [
+          47404
+        ],
+        "start": 1.0,
+        "end": 1.26,
+        "probability": 0.27342960238456726
+      },
+      {
+        "word": "天",
+        "tokens": [
+          6135
+        ],
+        "start": 1.26,
+        "end": 1.58,
+        "probability": 0.9904154539108276
+      },
+      {
+        "word": "还是",
+        "tokens": [
+          45726
+        ],
+        "start": 1.58,
+        "end": 2.18,
+        "probability": 0.036448024213314056
+      },
+      {
+        "word": "好的",
+        "tokens": [
+          20715
+        ],
+        "start": 2.18,
+        "end": 3.06,
+        "probability": 0.6488441228866577
+      }
+    ]
+  },
+  {
+    "text": "但明天是自己的",
+    "crop_start": 229.70000000000002,
+    "alignment": [
+      {
+        "word": "但",
+        "tokens": [
+          8395
+        ],
+        "start": 0.0,
+        "end": 1.76,
+        "probability": 0.00813757348805666
+      },
+      {
+        "word": "明",
+        "tokens": [
+          11100
+        ],
+        "start": 1.76,
+        "end": 2.04,
+        "probability": 0.17013384401798248
+      },
+      {
+        "word": "天",
+        "tokens": [
+          6135
+        ],
+        "start": 2.04,
+        "end": 2.24,
+        "probability": 0.03315207362174988
+      },
+      {
+        "word": "是",
+        "tokens": [
+          1541
+        ],
+        "start": 2.24,
+        "end": 2.56,
+        "probability": 0.5889621376991272
+      },
+      {
+        "word": "自己",
+        "tokens": [
+          17645
+        ],
+        "start": 2.56,
+        "end": 3.24,
+        "probability": 0.43670135736465454
+      },
+      {
+        "word": "的",
+        "tokens": [
+          1546
+        ],
+        "start": 3.24,
+        "end": 3.6,
+        "probability": 0.9936918020248413
+      }
+    ]
+  },
+  {
+    "text": "开始懂了",
+    "crop_start": 233.0,
+    "alignment": [
+      {
+        "word": "开始",
+        "tokens": [
+          45213
+        ],
+        "start": 0.0,
+        "end": 1.66,
+        "probability": 0.009483939036726952
+      },
+      {
+        "word": "懂",
+        "tokens": [
+          29624
+        ],
+        "start": 1.66,
+        "end": 2.46,
+        "probability": 0.14912864565849304
+      },
+      {
+        "word": "了",
+        "tokens": [
+          2289
+        ],
+        "start": 2.46,
+        "end": 3.02,
+        "probability": 0.8071888089179993
+      }
+    ]
+  },
+  {
+    "text": "快乐是选择",
+    "crop_start": 236.1,
+    "alignment": [
+      {
+        "word": "快",
+        "tokens": [
+          10251
+        ],
+        "start": 0.0,
+        "end": 1.9,
+        "probability": 0.051422614604234695
+      },
+      {
+        "word": "乐",
+        "tokens": [
+          44365
+        ],
+        "start": 1.9,
+        "end": 2.22,
+        "probability": 0.08316725492477417
+      },
+      {
+        "word": "是",
+        "tokens": [
+          1541
+        ],
+        "start": 2.22,
+        "end": 2.66,
+        "probability": 0.24268878996372223
+      },
+      {
+        "word": "选",
+        "tokens": [
+          2215,
+          231
+        ],
+        "start": 2.66,
+        "end": 4.36,
+        "probability": 0.4315330556128174
+      },
+      {
+        "word": "择",
+        "tokens": [
+          6852,
+          102
+        ],
+        "start": 4.36,
+        "end": 4.82,
+        "probability": 0.7068228721618652
+      }
+    ]
+  }
+]

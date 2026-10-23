@@ -1,0 +1,15 @@
+{
+  "selectedVersion": "kugou-135049983",
+  "selectionStatus": "user-selected",
+  "selectedOn": "2026-10-23",
+  "displayMode": "words",
+  "presentation": "all-characters-rhythm-v3",
+  "archive": "archive/lyrics-versions-2026-10-23.zip",
+  "archiveManifest": "archive/lyrics-versions-2026-10-23.manifest.json",
+  "visualStyle": "pencil",
+  "visualStyleStatus": "user-selected",
+  "visualStyleSelectedOn": "2026-10-23",
+  "lyricPlacement": "in-scene-handwriting",
+  "storyboard": "storyboard.md",
+  "storyboardStatus": "draft"
+}

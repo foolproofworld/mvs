@@ -1,0 +1,53 @@
+{
+  "scope": "Sampled source canvas frames only; no full-song performance or beat accuracy claim.",
+  "styles": {
+    "paper": {
+      "blackFrameCount": 0,
+      "sampledMeanAbsoluteFrameDifferences": [
+        3.8809,
+        4.835,
+        1.875
+      ],
+      "imageSize": [
+        1920,
+        1080
+      ]
+    },
+    "pencil": {
+      "blackFrameCount": 0,
+      "sampledMeanAbsoluteFrameDifferences": [
+        4.1719,
+        3.8098,
+        2.0087
+      ],
+      "imageSize": [
+        1920,
+        1080
+      ]
+    },
+    "pixel": {
+      "blackFrameCount": 0,
+      "sampledMeanAbsoluteFrameDifferences": [
+        0.5467,
+        0.7956,
+        0.2572
+      ],
+      "imageSize": [
+        1920,
+        1080
+      ]
+    }
+  },
+  "sampleSeconds": [
+    44.45,
+    54.9,
+    65,
+    75.5
+  ],
+  "seekReproducible": true,
+  "pixelPaletteColors": 23,
+  "halfSecondTransitionDifferences": [
+    0.6183,
+    0.7341
+  ]
+}

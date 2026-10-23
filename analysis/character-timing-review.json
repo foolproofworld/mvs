@@ -1,0 +1,17 @@
+{
+  "characters": 325,
+  "methods": {
+    "base-character-attention": 317,
+    "base-character-attention-context-retry": 8
+  },
+  "confirmed": 0,
+  "lowModelProbability": 164,
+  "shortestCandidateDuration": 0.08,
+  "longestCandidateDuration": 1.68,
+  "status": "All timestamps are model estimates pending listening; visual intervals are editorial defaults, not measured phoneme boundaries.",
+  "limitations": [
+    "First-character onset hints are estimates.",
+    "Attention end boundaries can include breath or silence.",
+    "Larger small-model download failed; used cached base with per-character tokenization and wider-context retry."
+  ]
+}

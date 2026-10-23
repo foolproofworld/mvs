@@ -1,0 +1,29 @@
+header nav{display:flex;gap:18px}
+.toolbar{display:flex;justify-content:space-between;align-items:center;gap:12px;margin:0 0 12px;flex-wrap:wrap}
+.segmented{display:flex;gap:6px;flex-wrap:wrap}
+.segmented button{padding:8px 12px}
+.segmented button[aria-pressed=true]{background:#d3d7be;color:#28382e;border-color:#d3d7be}
+.shots #visualLyrics{bottom:2.4%}
+.screen canvas.overlay{position:absolute;inset:0;pointer-events:none}
+.screen #visualLyrics[hidden]{display:none}
+.shots .screen:fullscreen #visualLyrics{bottom:3%}
+.chain{display:flex;align-items:center;gap:6px;font-size:11px;color:#b4c0ac;cursor:pointer;padding:0 6px}
+.chain input{accent-color:#c2c8a9}
+.board{display:grid;gap:18px}
+.shot-row{display:grid;gap:12px;border-top:1px solid #2c362a;padding-top:16px}
+.shot-row.current .shot-meta h3{color:#e9ecdc}
+.shot-meta{display:flex;align-items:baseline;gap:18px;flex-wrap:wrap}
+.shot-meta h3{font-size:13px;font-weight:400;margin:0;color:#c3cab6;letter-spacing:.06em}
+.shot-meta h3 small{font-size:10px;color:#7f8c77;margin-left:8px;font-variant-numeric:tabular-nums}
+.shot-meta .lyric{font-family:'SimSun',serif;font-size:13px;color:#d6dccb;margin:0;line-height:1.7}
+.shot-row dl{margin:0;font-size:10px;line-height:1.75;color:#91a087;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:4px 18px}
+.shot-row dl div{min-width:0}
+.shot-row dt{color:#c3cab6}
+.shot-row dd{margin:0 0 4px}
+.thumbs{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;align-self:start}
+.thumb{padding:0;border:1px solid #384533;background:#19211b;overflow:hidden;text-align:left}
+.thumb[aria-pressed=true]{border-color:#c2c9a7}
+.thumb canvas{display:block;width:100%;aspect-ratio:16/9}
+.thumb span{display:block;padding:6px 8px;font-size:10px;color:#b4c0ac}
+@media(max-width:820px){.shot-row dl{grid-template-columns:1fr}}
+@media(max-width:420px){.thumbs{gap:4px}.thumb span{font-size:9px;padding:4px 5px}.toolbar{flex-direction:column;align-items:stretch}}

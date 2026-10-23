@@ -1,0 +1,650 @@
+{
+  "method": "Windows OCR on bottom crop; 0.5 second sampling; display times only, may miss fades or unreadable text",
+  "groups": [
+    {
+      "firstSample": 3.5,
+      "lastSample": 7,
+      "variants": [
+        "（我待在這裎多久了呢？）",
+        "（我待在這裎多久了呢？）",
+        "（我待在這裎多久了呢？）",
+        "（我待在這裎多久了呢？）",
+        "（我待在這裎多久了呢？）",
+        "过裎多久了",
+        "过悝多久了呢？）",
+        "（我待在通俚多久了呢?)"
+      ],
+      "id": 1,
+      "ocrText": "（我待在這裎多久了呢？）",
+      "verified": false
+    },
+    {
+      "firstSample": 22,
+      "lastSample": 24,
+      "variants": [
+        "我竟然没有調頭",
+        "\\有調頭",
+        "我竟然没有調頭",
+        "我竟然有調頭",
+        "我竟然没有調頭"
+      ],
+      "id": 2,
+      "ocrText": "我竟然没有調頭",
+      "verified": false
+    },
+    {
+      "firstSample": 25.5,
+      "lastSample": 26,
+      "variants": [
+        "最殘忍那一彡刂",
+        "最殘忍那一刻"
+      ],
+      "id": 3,
+      "ocrText": "最殘忍那一彡刂",
+      "verified": false
+    },
+    {
+      "firstSample": 29,
+      "lastSample": 34.5,
+      "variants": [
+        "一點都不像我",
+        "一點都不像我",
+        "0靜靜看你走一點都不像我",
+        "靜靜看你走一點都不像我",
+        "靜靜看你走一點都不像我",
+        "靜靜看你走一點都不像我",
+        "靜靜看你走一點都不像我",
+        "看你走一咗都不像我",
+        "靜靜看你走一點不像我",
+        "靜看你走一點不'像我",
+        "靜看你走點不我"
+      ],
+      "id": 4,
+      "ocrText": "靜靜看你走一點都不像我",
+      "verified": false
+    },
+    {
+      "firstSample": 39.5,
+      "lastSample": 39.5,
+      "variants": [
+        "丿·：人艹得溪柔"
+      ],
+      "id": 5,
+      "ocrText": "丿·：人艹得溪柔",
+      "verified": false
+    },
+    {
+      "firstSample": 40,
+      "lastSample": 40,
+      "variants": [
+        "和人變得"
+      ],
+      "id": 6,
+      "ocrText": "和人變得",
+      "verified": false
+    },
+    {
+      "firstSample": 42,
+      "lastSample": 43.5,
+      "variants": [
+        "是透澈的了",
+        "是透澈的了",
+        "是透澈一的一",
+        "是透澈的"
+      ],
+      "id": 7,
+      "ocrText": "是透澈的了",
+      "verified": false
+    },
+    {
+      "firstSample": 45,
+      "lastSample": 46.5,
+      "variants": [
+        "、動的'人《的",
+        "·0小、，的钚、虍人的"
+      ],
+      "id": 8,
+      "ocrText": "·0小、，的钚、虍人的",
+      "verified": false
+    },
+    {
+      "firstSample": 47.5,
+      "lastSample": 48,
+      "variants": [
+        "愛情是流動的[",
+        "愛情是流動"
+      ],
+      "id": 9,
+      "ocrText": "愛情是流動的[",
+      "verified": false
+    },
+    {
+      "firstSample": 49.5,
+      "lastSample": 52.5,
+      "variants": [
+        "阿必激動著要",
+        "何必激動著要柙",
+        "著、要理由",
+        "著、要理由",
+        "何怼著理",
+        "、何動理"
+      ],
+      "id": 10,
+      "ocrText": "著、要理由",
+      "verified": false
+    },
+    {
+      "firstSample": 55,
+      "lastSample": 59,
+      "variants": [
+        "相信。只拍心",
+        "相信，，一只怕",
+        "相信你只是怕害我不是騙民",
+        "相信你只是怕害我不是騙\"",
+        "相信你只是怕傷害我不是騙我",
+        "相信你只是怕害、我、不是騙我",
+        "相信你只是怕傷害我、不是騙我"
+      ],
+      "id": 11,
+      "ocrText": "相信你只是怕害我不是騙民",
+      "verified": false
+    },
+    {
+      "firstSample": 60.5,
+      "lastSample": 62,
+      "variants": [
+        "很愛過誰令得",
+        "很愛誰得",
+        "很愛過誰會得",
+        "很愛過誰會"
+      ],
+      "id": 12,
+      "ocrText": "很愛過誰令得",
+      "verified": false
+    },
+    {
+      "firstSample": 64.5,
+      "lastSample": 64.5,
+      "variants": [
+        "。亻醒了"
+      ],
+      "id": 13,
+      "ocrText": "。亻醒了",
+      "verified": false
+    },
+    {
+      "firstSample": 67.5,
+      "lastSample": 68,
+      "variants": [
+        "怖福不會",
+        "旦怖一福一一不會"
+      ],
+      "id": 14,
+      "ocrText": "旦怖一福一一不會",
+      "verified": false
+    },
+    {
+      "firstSample": 68.5,
+      "lastSample": 68.5,
+      "variants": [
+        "福一丕釒"
+      ],
+      "id": 15,
+      "ocrText": "福一丕釒",
+      "verified": false
+    },
+    {
+      "firstSample": 71,
+      "lastSample": 75,
+      "variants": [
+        "用心酸微笑去原諒了也翻越了",
+        "用心酸徹笑去原諒了也翻越了",
+        "用心酸笑去原一",
+        "一用心'酸微关一、彳一一飞了",
+        "用心酸笑去卜·《一一越",
+        "．源諒了也翻越",
+        "用．心酸微笑去原諒了也翻越了·",
+        "笑去原諒",
+        "馓知去原諒犭"
+      ],
+      "id": 16,
+      "ocrText": "用心酸微笑去原諒了也翻越了",
+      "verified": false
+    },
+    {
+      "firstSample": 76.5,
+      "lastSample": 79,
+      "variants": [
+        "有昨大是好自0",
+        "有昨大還是好的",
+        "天還是好的",
+        "有昨大是好的",
+        "有昨大還是好的",
+        "有昨大是好的．，"
+      ],
+      "id": 17,
+      "ocrText": "有昨大還是好的",
+      "verified": false
+    },
+    {
+      "firstSample": 81.5,
+      "lastSample": 82,
+      "variants": [
+        "的明天是自己的",
+        "0．明天是自己的"
+      ],
+      "id": 18,
+      "ocrText": "0．明天是自己的",
+      "verified": false
+    },
+    {
+      "firstSample": 83.5,
+      "lastSample": 84,
+      "variants": [
+        "開始懂了",
+        "開始懂了"
+      ],
+      "id": 19,
+      "ocrText": "開始懂了",
+      "verified": false
+    },
+    {
+      "firstSample": 87.5,
+      "lastSample": 89.5,
+      "variants": [
+        "快樂是選擇",
+        "快樂是選擇",
+        "快樂是選擇",
+        "快樂是選擇",
+        "快樂是選擇"
+      ],
+      "id": 20,
+      "ocrText": "快樂是選擇",
+      "verified": false
+    },
+    {
+      "firstSample": 107,
+      "lastSample": 109.5,
+      "variants": [
+        "我竟然有調頭",
+        "我竟然没有調頭",
+        "我竟然没有調頭",
+        "'竟然有調頭",
+        ",竟然有調頭",
+        "、竟然有調頭"
+      ],
+      "id": 21,
+      "ocrText": "我竟然没有調頭",
+      "verified": false
+    },
+    {
+      "firstSample": 111.5,
+      "lastSample": 113,
+      "variants": [
+        "'。殘忍那一刻",
+        "殘忍那一刻",
+        "最殘忍了",
+        "最殘忍了"
+      ],
+      "id": 22,
+      "ocrText": "最殘忍了",
+      "verified": false
+    },
+    {
+      "firstSample": 115.5,
+      "lastSample": 120,
+      "variants": [
+        "下靜看你走一",
+        "靜靜看你走一點都不像我",
+        "靜靜看你走一點都不像我",
+        "靜靜看你走一點都不像我",
+        "靜靜看你走一點都不像我",
+        "靜靜看你走一點都不像我",
+        "靜靜看你走一點都不像我",
+        "一點都不像我",
+        "靜靜看你走一點都不像我"
+      ],
+      "id": 23,
+      "ocrText": "靜靜看你走一點都不像我",
+      "verified": false
+    },
+    {
+      "firstSample": 123.5,
+      "lastSample": 123.5,
+      "variants": [
+        "一京来人變得柔"
+      ],
+      "id": 24,
+      "ocrText": "一京来人變得柔",
+      "verified": false
+    },
+    {
+      "firstSample": 124,
+      "lastSample": 125.5,
+      "variants": [
+        "、合矍得温柔",
+        "原來一丛合變得柔",
+        "原人得过·柔",
+        "原來人變得一氵£柔"
+      ],
+      "id": 25,
+      "ocrText": "原來人變得一氵£柔",
+      "verified": false
+    },
+    {
+      "firstSample": 127,
+      "lastSample": 128,
+      "variants": [
+        "是透澈的懂了",
+        "是透澈的懂了",
+        "是透澈的懂了"
+      ],
+      "id": 26,
+      "ocrText": "是透澈的懂了",
+      "verified": false
+    },
+    {
+      "firstSample": 130.5,
+      "lastSample": 134,
+      "variants": [
+        "尹情是流動的不由人的",
+        "愛情是流動的不由人的",
+        "》愛情是氵少動的不由人的",
+        "愛情是、少的不由人的",
+        "愛情是的怀由人的",
+        "動的不由人的",
+        "愛情是流動的不由人的",
+        "愛情是流動的不由人的"
+      ],
+      "id": 27,
+      "ocrText": "愛情是流動的不由人的",
+      "verified": false
+    },
+    {
+      "firstSample": 135,
+      "lastSample": 138,
+      "variants": [
+        "，何必激動著理由",
+        "必澉動理岫一",
+        "何必激動奮理由",
+        "\\何必激動著要理由",
+        "何必激'：要理由"
+      ],
+      "id": 28,
+      "ocrText": "\\何必激動著要理由",
+      "verified": false
+    },
+    {
+      "firstSample": 140.5,
+      "lastSample": 140.5,
+      "variants": [
+        "相你只是傷我不。我才"
+      ],
+      "id": 29,
+      "ocrText": "相你只是傷我不。我才",
+      "verified": false
+    },
+    {
+      "firstSample": 141,
+      "lastSample": 143,
+      "variants": [
+        "“湘信&是怕傷害、是騙我",
+        "“，流信咻只是怕害我／怀是騙我",
+        "《相信你只是怕害我不是騙我",
+        "相信你只是怕僭我不是騙我",
+        ";)''相唯你只是怕僭我不是騙我、"
+      ],
+      "id": 30,
+      "ocrText": "“湘信&是怕傷害、是騙我",
+      "verified": false
+    },
+    {
+      "firstSample": 146,
+      "lastSample": 148,
+      "variants": [
+        "很愛過誰合捨得",
+        "很愛過誰會捨得",
+        "很愛過誰捨得",
+        "很愛會捨得"
+      ],
+      "id": 31,
+      "ocrText": "很愛過誰合捨得",
+      "verified": false
+    },
+    {
+      "firstSample": 151,
+      "lastSample": 151.5,
+      "variants": [
+        "7把我一一的摇醒了",
+        "把我的夢搐醒了"
+      ],
+      "id": 32,
+      "ocrText": "7把我一一的摇醒了",
+      "verified": false
+    },
+    {
+      "firstSample": 152.5,
+      "lastSample": 154,
+      "variants": [
+        "宣怖幸福不來一",
+        "宣怖幸福不來了",
+        "宣怖幸福",
+        "宣怖幸'"
+      ],
+      "id": 33,
+      "ocrText": "宣怖幸福不來一",
+      "verified": false
+    },
+    {
+      "firstSample": 156.5,
+      "lastSample": 160.5,
+      "variants": [
+        "用心酸徹笑去'艮諒了也翻",
+        "用心酸微笑去艮諒了也翻",
+        "用心酸徹笑去原諒了也翻越了",
+        "用心酸徹笑去原諒0也越",
+        "用心酸微笑去原諒了也翻越了",
+        "用心酸微笑去原諒了一也翻越了",
+        "影微笑去原諒了也翻越了",
+        "徹笑去原諒一了也翻越了",
+        "徹笑`去原諒了也翻越了"
+      ],
+      "id": 34,
+      "ocrText": "用心酸徹笑去'艮諒了也翻",
+      "verified": false
+    },
+    {
+      "firstSample": 162,
+      "lastSample": 164,
+      "variants": [
+        "／“有一昨馱還是好的",
+        "／，：有昨禾還是好的",
+        "有昨天還",
+        "有大是妩的L"
+      ],
+      "id": 35,
+      "ocrText": "／“有一昨馱還是好的",
+      "verified": false
+    },
+    {
+      "firstSample": 166,
+      "lastSample": 167.5,
+      "variants": [
+        "笸明是自己的",
+        "但明是自己的",
+        "但明天是自己的",
+        "亻箍自戾一自一己的"
+      ],
+      "id": 36,
+      "ocrText": "亻箍自戾一自一己的",
+      "verified": false
+    },
+    {
+      "firstSample": 170.5,
+      "lastSample": 170.5,
+      "variants": [
+        "閉始懂了"
+      ],
+      "id": 37,
+      "ocrText": "閉始懂了",
+      "verified": false
+    },
+    {
+      "firstSample": 172.5,
+      "lastSample": 173,
+      "variants": [
+        "1快樂是選擇",
+        "快樂是選擇"
+      ],
+      "id": 38,
+      "ocrText": "1快樂是選擇",
+      "verified": false
+    },
+    {
+      "firstSample": 175,
+      "lastSample": 175,
+      "variants": [
+        "快樂是選擇"
+      ],
+      "id": 39,
+      "ocrText": "快樂是選擇",
+      "verified": false
+    },
+    {
+      "firstSample": 205.5,
+      "lastSample": 205.5,
+      "variants": [
+        "飞珀傷一一不·是騙我"
+      ],
+      "id": 40,
+      "ocrText": "飞珀傷一一不·是騙我",
+      "verified": false
+    },
+    {
+      "firstSample": 206,
+      "lastSample": 206,
+      "variants": [
+        "你只是怕傷害我不是"
+      ],
+      "id": 41,
+      "ocrText": "你只是怕傷害我不是",
+      "verified": false
+    },
+    {
+      "firstSample": 208,
+      "lastSample": 209.5,
+      "variants": [
+        "湘信，你只是是哦丷",
+        "湘信你只是傷我不是哦不",
+        "相信你尺是，傷．名我",
+        "相信你一只成"
+      ],
+      "id": 42,
+      "ocrText": "湘信你只是傷我不是哦不",
+      "verified": false
+    },
+    {
+      "firstSample": 211,
+      "lastSample": 212.5,
+      "variants": [
+        "很愛過誰合捨得",
+        "很愛過誰會捨得",
+        "很愛過誰會捨得",
+        "很愛過會捨得"
+      ],
+      "id": 43,
+      "ocrText": "很愛過誰會捨得",
+      "verified": false
+    },
+    {
+      "firstSample": 214.5,
+      "lastSample": 216.5,
+      "variants": [
+        "把我的夢醒了`",
+        "把我的夢搐醒了",
+        "把我夢搐醒了",
+        "把我的夢搐醒",
+        "把我自亏夢搐了"
+      ],
+      "id": 44,
+      "ocrText": "把我的夢醒了`",
+      "verified": false
+    },
+    {
+      "firstSample": 217.5,
+      "lastSample": 220,
+      "variants": [
+        "亘怖幸福不下來_",
+        "幸福不會",
+        "一幸福不會來了",
+        "亠。．幸福不會",
+        "幸福不會來了"
+      ],
+      "id": 45,
+      "ocrText": "亘怖幸福不下來_",
+      "verified": false
+    },
+    {
+      "firstSample": 222,
+      "lastSample": 226,
+      "variants": [
+        "肘心酸微笑去原諒了也翻越了",
+        "用心酸微笑去原諒了也翻越了",
+        "用心酸微笑去原諒了也翻越了",
+        "用心酸微笑去原諒了也翻越",
+        "用心酸徹笑去原諒了也翻越了",
+        "用心酸微笑去原諒了也翻越了",
+        "1用心酸徹笑去原諒了也翻越0",
+        "用心酸微笑去原諒了也翻越了以",
+        "用心酸去原諒了也翻越飞"
+      ],
+      "id": 46,
+      "ocrText": "用心酸微笑去原諒了也翻越了",
+      "verified": false
+    },
+    {
+      "firstSample": 227,
+      "lastSample": 229,
+      "variants": [
+        "一有旷夭好的-",
+        "有昨大是好的",
+        "有昨大還是好的",
+        "，丶有、禾是的"
+      ],
+      "id": 47,
+      "ocrText": "一有旷夭好的-",
+      "verified": false
+    },
+    {
+      "firstSample": 231,
+      "lastSample": 232.5,
+      "variants": [
+        "大是自己的",
+        "天是自己的",
+        "天是自己的",
+        "明天是自己的"
+      ],
+      "id": 48,
+      "ocrText": "天是自己的",
+      "verified": false
+    },
+    {
+      "firstSample": 238,
+      "lastSample": 242.5,
+      "variants": [
+        "快樂是選擇",
+        "快樂是選",
+        "快樂是選擇",
+        "快樂是選擇",
+        "丿'决樂選擇",
+        "快樂是選擇",
+        "快樂是選擇",
+        "快樂是選擇",
+        "决是選擇"
+      ],
+      "id": 49,
+      "ocrText": "快樂是選擇",
+      "verified": false
+    }
+  ]
+}

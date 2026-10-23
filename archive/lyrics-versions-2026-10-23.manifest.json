@@ -1,0 +1,162 @@
+{
+  "createdOn": "2026-10-23",
+  "selectedVersion": "kugou-135049983",
+  "selectionBasis": "User selected Kugou KRC 3 after auditioning candidates.",
+  "profiles": [
+    "auto",
+    "kugou-223522842",
+    "kugou-191997125",
+    "kugou-135049983",
+    "kugou-826083305"
+  ],
+  "note": "Original source files; selection does not assert every character has been manually verified. Browser-only edits remain in their existing per-version localStorage profiles.",
+  "files": [
+    {
+      "path": "analysis/online-lyrics/135049983.krc",
+      "bytes": 6057,
+      "sha256": "40df2a50f34f821a151668532d86fff9d8a7d34bdc490a051c824f75c43fe4f8"
+    },
+    {
+      "path": "analysis/online-lyrics/137026410.krc",
+      "bytes": 6121,
+      "sha256": "b4a4b20afba6577bf3d8e5e3523d51066146a850777eed168fa7b2cab5406a09"
+    },
+    {
+      "path": "analysis/online-lyrics/191997125.krc",
+      "bytes": 6121,
+      "sha256": "b4a4b20afba6577bf3d8e5e3523d51066146a850777eed168fa7b2cab5406a09"
+    },
+    {
+      "path": "analysis/online-lyrics/223522842.krc",
+      "bytes": 6259,
+      "sha256": "14cd2986c9b38e63a78cf6d539a25f106e7e9d364e866597bf0070580d24af36"
+    },
+    {
+      "path": "analysis/online-lyrics/826083205.krc",
+      "bytes": 6055,
+      "sha256": "e7a12a2e165fab5a03a9d7ed1b3ecef855e2fc167adc98fe8a2eb433f32907a0"
+    },
+    {
+      "path": "analysis/online-lyrics/826083206.krc",
+      "bytes": 6059,
+      "sha256": "8e6449ab953cbe302d6c901d9dcbb6baaac7b89364052a71ca0688930feaa87b"
+    },
+    {
+      "path": "analysis/online-lyrics/826083304.krc",
+      "bytes": 6059,
+      "sha256": "8e6449ab953cbe302d6c901d9dcbb6baaac7b89364052a71ca0688930feaa87b"
+    },
+    {
+      "path": "analysis/online-lyrics/826083305.krc",
+      "bytes": 6055,
+      "sha256": "e7a12a2e165fab5a03a9d7ed1b3ecef855e2fc167adc98fe8a2eb433f32907a0"
+    },
+    {
+      "path": "analysis/online-lyrics/amll-index.response",
+      "bytes": 1642343,
+      "sha256": "7ef23afdd821664c9dd3431b8ed97330428c1461cd54f703370e75506eaa903c"
+    },
+    {
+      "path": "analysis/online-lyrics/comparison-report.json",
+      "bytes": 1935,
+      "sha256": "a80bd4885aa08e12f74c5cebb28b94aa6c4c986716adc9a71f59499c1685877c"
+    },
+    {
+      "path": "analysis/online-lyrics/kugou-135049983.response",
+      "bytes": 3824,
+      "sha256": "d3dd87a707f60e28353697c617ed29694fa969dfdca2ddb0664cc712b7dbaaeb"
+    },
+    {
+      "path": "analysis/online-lyrics/kugou-137026410.response",
+      "bytes": 3720,
+      "sha256": "2d2e1c17d6e2c087da2540c3e48c174b1f1e6ee7228b3d4a9970435cdca1905c"
+    },
+    {
+      "path": "analysis/online-lyrics/kugou-191997125.response",
+      "bytes": 3720,
+      "sha256": "b8dff97dca55349960341df51538cd49e2f5f78623809b2ae7d589ae21995092"
+    },
+    {
+      "path": "analysis/online-lyrics/kugou-223522842.response",
+      "bytes": 4008,
+      "sha256": "02b4e33e2da09447d66a5beba29c7998ef4637617eba9382028b22c16f328449"
+    },
+    {
+      "path": "analysis/online-lyrics/kugou-826083205.response",
+      "bytes": 3756,
+      "sha256": "62b8ecbee379107be51eb512c08d1cd7b43619d2990234b4fb5fc386d0c0b40f"
+    },
+    {
+      "path": "analysis/online-lyrics/kugou-826083206.response",
+      "bytes": 3756,
+      "sha256": "6f0bda190873ba2aa78deba773973d90d412858140eadc1cc666be4be533e3f0"
+    },
+    {
+      "path": "analysis/online-lyrics/kugou-826083304.response",
+      "bytes": 3756,
+      "sha256": "f751b07a1ab2af5d945cc66b057015a9bd2200ba35978849fb9e20b5d5b04aa3"
+    },
+    {
+      "path": "analysis/online-lyrics/kugou-826083305.response",
+      "bytes": 3756,
+      "sha256": "e1d15175c4530430429d78c59414f6bac016bdc9616e53da60de30331246ab52"
+    },
+    {
+      "path": "analysis/online-lyrics/kugou-candidates.json",
+      "bytes": 13531,
+      "sha256": "0ce9c2d174b2ed68bb7353726768008602b24a37ff75ed7e8bae78980f5b8119"
+    },
+    {
+      "path": "analysis/online-lyrics/kugou-search.response",
+      "bytes": 11542,
+      "sha256": "8819e584ad89c43399c40158d8bf094d3ba75259647fdd4d880129192c0ba2f5"
+    },
+    {
+      "path": "analysis/online-lyrics/manifest.json",
+      "bytes": 8106,
+      "sha256": "5e7110c3af5e4590ff8d4ccb48cca5f52f57c7a3e306cbd00dc7b0e4c5a76c18"
+    },
+    {
+      "path": "analysis/online-lyrics/netease-search.response",
+      "bytes": 21993,
+      "sha256": "0a4970b69ea5abec59dad2eb673c1f0b7451d19c36cd71e06d21e6d65b5a08fc"
+    },
+    {
+      "path": "analysis/online-lyrics/pairwise-timing-comparison.json",
+      "bytes": 655,
+      "sha256": "cfe32e06d0bfd4d09e3480246db80310a4849853c900c6d7cc8c3a01d1da5027"
+    },
+    {
+      "path": "data/lyrics.json",
+      "bytes": 132479,
+      "sha256": "0f269f89bdd4df4ff093c235fa3d3a39f01ca78f56b8f70de0d42d8da848f47b"
+    },
+    {
+      "path": "data/versions/kugou-135049983.json",
+      "bytes": 99294,
+      "sha256": "d3916ecdfc5413c86677944126a5cc16686333a2240fc5ebaaf6dc8802c1c09c"
+    },
+    {
+      "path": "data/versions/kugou-191997125.json",
+      "bytes": 99289,
+      "sha256": "6ab87f9a1296895fdacb22349643d901f4a049e44b66d24e7e79a90b796bff99"
+    },
+    {
+      "path": "data/versions/kugou-223522842.json",
+      "bytes": 99282,
+      "sha256": "2fdb52b6269063b053709e562c63948ef892783240a961cda59af355aade17d4"
+    },
+    {
+      "path": "data/versions/kugou-826083305.json",
+      "bytes": 99167,
+      "sha256": "27731d2dc78e047f0e49a04b4b4072cb4aeec53265b615cb7cb70aa9971a19b9"
+    },
+    {
+      "path": "data/versions.json",
+      "bytes": 1843,
+      "sha256": "87b53eecff7f2fa3bc1e8bbd01660280ba3ab965db33efcec0432fee75188e1e"
+    }
+  ],
+  "archive": "lyrics-versions-2026-10-23.zip",
+  "archiveSha256": "a45b9c1d7524da254e144e7b69ef04cb76d1ebd6ac61607c9b37c0adb2d47bc9"
+}

@@ -1,0 +1,3759 @@
+{
+  "version": 1,
+  "title": "开始懂了",
+  "artist": "孙燕姿",
+  "duration": 270.047846,
+  "status": "online-unverified",
+  "timingStatus": "provider-timing",
+  "method": "Downloaded KRC; original timing units preserved, no interpolation",
+  "lines": [
+    {
+      "id": "krc-135049983-line-01",
+      "text": "我竟然没有调头",
+      "start": 21.867,
+      "end": 24.739,
+      "chars": [
+        {
+          "text": "我",
+          "start": 21.867,
+          "end": 22.078,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 21.747,
+          "disappearAt": 25.089000000000002
+        },
+        {
+          "text": "竟",
+          "start": 22.078,
+          "end": 22.33,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 21.958,
+          "disappearAt": 25.089000000000002
+        },
+        {
+          "text": "然",
+          "start": 22.33,
+          "end": 23.157,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 22.209999999999997,
+          "disappearAt": 25.089000000000002
+        },
+        {
+          "text": "没",
+          "start": 23.157,
+          "end": 23.393,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 23.037,
+          "disappearAt": 25.089000000000002
+        },
+        {
+          "text": "有",
+          "start": 23.393,
+          "end": 23.896,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 23.273,
+          "disappearAt": 25.089000000000002
+        },
+        {
+          "text": "调",
+          "start": 23.896,
+          "end": 24.35,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 23.776,
+          "disappearAt": 25.089000000000002
+        },
+        {
+          "text": "头",
+          "start": 24.35,
+          "end": 24.739,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 24.23,
+          "disappearAt": 25.089000000000002
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-02",
+      "text": "最残忍那一刻",
+      "start": 25.146,
+      "end": 27.921,
+      "chars": [
+        {
+          "text": "最",
+          "start": 25.146,
+          "end": 25.383,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 25.026,
+          "disappearAt": 28.271
+        },
+        {
+          "text": "残",
+          "start": 25.383,
+          "end": 25.89,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 25.262999999999998,
+          "disappearAt": 28.271
+        },
+        {
+          "text": "忍",
+          "start": 25.89,
+          "end": 26.436,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 25.77,
+          "disappearAt": 28.271
+        },
+        {
+          "text": "那",
+          "start": 26.436,
+          "end": 26.974,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 26.316,
+          "disappearAt": 28.271
+        },
+        {
+          "text": "一",
+          "start": 26.974,
+          "end": 27.266,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 26.854,
+          "disappearAt": 28.271
+        },
+        {
+          "text": "刻",
+          "start": 27.266,
+          "end": 27.921,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 27.145999999999997,
+          "disappearAt": 28.271
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-03",
+      "text": "静静看你走",
+      "start": 28.724,
+      "end": 30.826,
+      "chars": [
+        {
+          "text": "静",
+          "start": 28.724,
+          "end": 28.929,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 28.604,
+          "disappearAt": 31.176000000000002
+        },
+        {
+          "text": "静",
+          "start": 28.929,
+          "end": 29.18,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 28.808999999999997,
+          "disappearAt": 31.176000000000002
+        },
+        {
+          "text": "看",
+          "start": 29.18,
+          "end": 29.463,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 29.06,
+          "disappearAt": 31.176000000000002
+        },
+        {
+          "text": "你",
+          "start": 29.463,
+          "end": 30.315,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 29.343,
+          "disappearAt": 31.176000000000002
+        },
+        {
+          "text": "走",
+          "start": 30.315,
+          "end": 30.826,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 30.195,
+          "disappearAt": 31.176000000000002
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-04",
+      "text": "一点都不像我",
+      "start": 31.981,
+      "end": 35.211,
+      "chars": [
+        {
+          "text": "一",
+          "start": 31.981,
+          "end": 32.198,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 31.861,
+          "disappearAt": 35.561
+        },
+        {
+          "text": "点",
+          "start": 32.198,
+          "end": 32.453,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 32.078,
+          "disappearAt": 35.561
+        },
+        {
+          "text": "都",
+          "start": 32.453,
+          "end": 32.976,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 32.333000000000006,
+          "disappearAt": 35.561
+        },
+        {
+          "text": "不",
+          "start": 32.976,
+          "end": 33.289,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 32.856,
+          "disappearAt": 35.561
+        },
+        {
+          "text": "像",
+          "start": 33.289,
+          "end": 33.974,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 33.169000000000004,
+          "disappearAt": 35.561
+        },
+        {
+          "text": "我",
+          "start": 33.974,
+          "end": 35.211,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 33.854,
+          "disappearAt": 35.561
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-05",
+      "text": "原来人会变得温柔",
+      "start": 38.232,
+      "end": 41.077,
+      "chars": [
+        {
+          "text": "原",
+          "start": 38.232,
+          "end": 38.438,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 38.112,
+          "disappearAt": 41.427
+        },
+        {
+          "text": "来",
+          "start": 38.438,
+          "end": 38.642,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 38.318000000000005,
+          "disappearAt": 41.427
+        },
+        {
+          "text": "人",
+          "start": 38.642,
+          "end": 39.379,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 38.522000000000006,
+          "disappearAt": 41.427
+        },
+        {
+          "text": "会",
+          "start": 39.379,
+          "end": 39.614,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 39.259,
+          "disappearAt": 41.427
+        },
+        {
+          "text": "变",
+          "start": 39.614,
+          "end": 39.872,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 39.494,
+          "disappearAt": 41.427
+        },
+        {
+          "text": "得",
+          "start": 39.872,
+          "end": 40.166,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 39.752,
+          "disappearAt": 41.427
+        },
+        {
+          "text": "温",
+          "start": 40.166,
+          "end": 40.377,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 40.046,
+          "disappearAt": 41.427
+        },
+        {
+          "text": "柔",
+          "start": 40.377,
+          "end": 41.077,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 40.257000000000005,
+          "disappearAt": 41.427
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-06",
+      "text": "是透彻的懂了",
+      "start": 41.449,
+      "end": 44.713,
+      "chars": [
+        {
+          "text": "是",
+          "start": 41.449,
+          "end": 41.651,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 41.329,
+          "disappearAt": 45.063
+        },
+        {
+          "text": "透",
+          "start": 41.651,
+          "end": 42.127,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 41.531000000000006,
+          "disappearAt": 45.063
+        },
+        {
+          "text": "彻",
+          "start": 42.127,
+          "end": 42.635,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 42.007000000000005,
+          "disappearAt": 45.063
+        },
+        {
+          "text": "的",
+          "start": 42.635,
+          "end": 43.217,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 42.515,
+          "disappearAt": 45.063
+        },
+        {
+          "text": "懂",
+          "start": 43.217,
+          "end": 43.485,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 43.097,
+          "disappearAt": 45.063
+        },
+        {
+          "text": "了",
+          "start": 43.485,
+          "end": 44.713,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 43.365,
+          "disappearAt": 45.063
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-07",
+      "text": "爱情是流动的 不由人的",
+      "start": 45.011,
+      "end": 48.949,
+      "chars": [
+        {
+          "text": "爱",
+          "start": 45.011,
+          "end": 45.197,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 44.891000000000005,
+          "disappearAt": 49.299
+        },
+        {
+          "text": "情",
+          "start": 45.197,
+          "end": 45.479,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 45.077000000000005,
+          "disappearAt": 49.299
+        },
+        {
+          "text": "是",
+          "start": 45.479,
+          "end": 45.706,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 45.359,
+          "disappearAt": 49.299
+        },
+        {
+          "text": "流",
+          "start": 45.706,
+          "end": 46.29,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 45.586000000000006,
+          "disappearAt": 49.299
+        },
+        {
+          "text": "动",
+          "start": 46.29,
+          "end": 46.616,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 46.17,
+          "disappearAt": 49.299
+        },
+        {
+          "text": "的",
+          "start": 46.616,
+          "end": 47.472,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 46.496,
+          "disappearAt": 49.299
+        },
+        {
+          "text": "不",
+          "start": 47.472,
+          "end": 47.738,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 47.352000000000004,
+          "disappearAt": 49.299
+        },
+        {
+          "text": "由",
+          "start": 47.738,
+          "end": 48.327,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 47.618,
+          "disappearAt": 49.299
+        },
+        {
+          "text": "人",
+          "start": 48.327,
+          "end": 48.562,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 48.207,
+          "disappearAt": 49.299
+        },
+        {
+          "text": "的",
+          "start": 48.562,
+          "end": 48.949,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 48.442,
+          "disappearAt": 49.299
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-08",
+      "text": "何必激动着要理由",
+      "start": 49.532,
+      "end": 53.698,
+      "chars": [
+        {
+          "text": "何",
+          "start": 49.532,
+          "end": 49.757,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 49.412,
+          "disappearAt": 54.048
+        },
+        {
+          "text": "必",
+          "start": 49.757,
+          "end": 50.021,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 49.637,
+          "disappearAt": 54.048
+        },
+        {
+          "text": "激",
+          "start": 50.021,
+          "end": 50.269,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 49.901,
+          "disappearAt": 54.048
+        },
+        {
+          "text": "动",
+          "start": 50.269,
+          "end": 50.543,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 50.149,
+          "disappearAt": 54.048
+        },
+        {
+          "text": "着",
+          "start": 50.543,
+          "end": 50.782,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 50.423,
+          "disappearAt": 54.048
+        },
+        {
+          "text": "要",
+          "start": 50.782,
+          "end": 51.378,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 50.662,
+          "disappearAt": 54.048
+        },
+        {
+          "text": "理",
+          "start": 51.378,
+          "end": 51.641,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 51.258,
+          "disappearAt": 54.048
+        },
+        {
+          "text": "由",
+          "start": 51.641,
+          "end": 53.698,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 51.521,
+          "disappearAt": 54.048
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-09",
+      "text": "相信你只是怕伤害我",
+      "start": 54.739,
+      "end": 57.81,
+      "chars": [
+        {
+          "text": "相",
+          "start": 54.739,
+          "end": 54.966,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 54.619,
+          "disappearAt": 58.160000000000004
+        },
+        {
+          "text": "信",
+          "start": 54.966,
+          "end": 55.256,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 54.846000000000004,
+          "disappearAt": 58.160000000000004
+        },
+        {
+          "text": "你",
+          "start": 55.256,
+          "end": 55.534,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 55.136,
+          "disappearAt": 58.160000000000004
+        },
+        {
+          "text": "只",
+          "start": 55.534,
+          "end": 55.76,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 55.414,
+          "disappearAt": 58.160000000000004
+        },
+        {
+          "text": "是",
+          "start": 55.76,
+          "end": 56.067,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 55.64,
+          "disappearAt": 58.160000000000004
+        },
+        {
+          "text": "怕",
+          "start": 56.067,
+          "end": 56.678,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 55.947,
+          "disappearAt": 58.160000000000004
+        },
+        {
+          "text": "伤",
+          "start": 56.678,
+          "end": 56.9,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 56.558,
+          "disappearAt": 58.160000000000004
+        },
+        {
+          "text": "害",
+          "start": 56.9,
+          "end": 57.411,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 56.78,
+          "disappearAt": 58.160000000000004
+        },
+        {
+          "text": "我",
+          "start": 57.411,
+          "end": 57.81,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 57.291000000000004,
+          "disappearAt": 58.160000000000004
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-10",
+      "text": "不是骗我",
+      "start": 58.15,
+      "end": 60.107,
+      "chars": [
+        {
+          "text": "不",
+          "start": 58.15,
+          "end": 58.683,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 58.03,
+          "disappearAt": 60.457
+        },
+        {
+          "text": "是",
+          "start": 58.683,
+          "end": 58.893,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 58.563,
+          "disappearAt": 60.457
+        },
+        {
+          "text": "骗",
+          "start": 58.893,
+          "end": 59.36,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 58.773,
+          "disappearAt": 60.457
+        },
+        {
+          "text": "我",
+          "start": 59.36,
+          "end": 60.107,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 59.24,
+          "disappearAt": 60.457
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-11",
+      "text": "很爱过谁会舍得",
+      "start": 60.457,
+      "end": 63.622,
+      "chars": [
+        {
+          "text": "很",
+          "start": 60.457,
+          "end": 60.673,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 60.337,
+          "disappearAt": 63.972
+        },
+        {
+          "text": "爱",
+          "start": 60.673,
+          "end": 60.925,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 60.553000000000004,
+          "disappearAt": 63.972
+        },
+        {
+          "text": "过",
+          "start": 60.925,
+          "end": 61.229,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 60.805,
+          "disappearAt": 63.972
+        },
+        {
+          "text": "谁",
+          "start": 61.229,
+          "end": 61.596,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 61.109,
+          "disappearAt": 63.972
+        },
+        {
+          "text": "会",
+          "start": 61.596,
+          "end": 62.035,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 61.476,
+          "disappearAt": 63.972
+        },
+        {
+          "text": "舍",
+          "start": 62.035,
+          "end": 62.549,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 61.915,
+          "disappearAt": 63.972
+        },
+        {
+          "text": "得",
+          "start": 62.549,
+          "end": 63.622,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 62.429,
+          "disappearAt": 63.972
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-12",
+      "text": "把我的梦摇醒了",
+      "start": 64.506,
+      "end": 66.81,
+      "chars": [
+        {
+          "text": "把",
+          "start": 64.506,
+          "end": 64.778,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 64.386,
+          "disappearAt": 67.16
+        },
+        {
+          "text": "我",
+          "start": 64.778,
+          "end": 64.999,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 64.658,
+          "disappearAt": 67.16
+        },
+        {
+          "text": "的",
+          "start": 64.999,
+          "end": 65.244,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 64.87899999999999,
+          "disappearAt": 67.16
+        },
+        {
+          "text": "梦",
+          "start": 65.244,
+          "end": 65.616,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 65.124,
+          "disappearAt": 67.16
+        },
+        {
+          "text": "摇",
+          "start": 65.616,
+          "end": 66.014,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 65.496,
+          "disappearAt": 67.16
+        },
+        {
+          "text": "醒",
+          "start": 66.014,
+          "end": 66.269,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 65.89399999999999,
+          "disappearAt": 67.16
+        },
+        {
+          "text": "了",
+          "start": 66.269,
+          "end": 66.81,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 66.149,
+          "disappearAt": 67.16
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-13",
+      "text": "宣布幸福不会来了",
+      "start": 67.276,
+      "end": 70.743,
+      "chars": [
+        {
+          "text": "宣",
+          "start": 67.276,
+          "end": 67.751,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 67.15599999999999,
+          "disappearAt": 71.09299999999999
+        },
+        {
+          "text": "布",
+          "start": 67.751,
+          "end": 68.048,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 67.631,
+          "disappearAt": 71.09299999999999
+        },
+        {
+          "text": "幸",
+          "start": 68.048,
+          "end": 68.302,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 67.928,
+          "disappearAt": 71.09299999999999
+        },
+        {
+          "text": "福",
+          "start": 68.302,
+          "end": 68.831,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 68.182,
+          "disappearAt": 71.09299999999999
+        },
+        {
+          "text": "不",
+          "start": 68.831,
+          "end": 69.063,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 68.711,
+          "disappearAt": 71.09299999999999
+        },
+        {
+          "text": "会",
+          "start": 69.063,
+          "end": 69.552,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 68.943,
+          "disappearAt": 71.09299999999999
+        },
+        {
+          "text": "来",
+          "start": 69.552,
+          "end": 70.333,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 69.432,
+          "disappearAt": 71.09299999999999
+        },
+        {
+          "text": "了",
+          "start": 70.333,
+          "end": 70.743,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 70.213,
+          "disappearAt": 71.09299999999999
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-14",
+      "text": "用心酸微笑去原谅了",
+      "start": 71.102,
+      "end": 73.942,
+      "chars": [
+        {
+          "text": "用",
+          "start": 71.102,
+          "end": 71.317,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 70.982,
+          "disappearAt": 74.29199999999999
+        },
+        {
+          "text": "心",
+          "start": 71.317,
+          "end": 71.606,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 71.19699999999999,
+          "disappearAt": 74.29199999999999
+        },
+        {
+          "text": "酸",
+          "start": 71.606,
+          "end": 71.842,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 71.48599999999999,
+          "disappearAt": 74.29199999999999
+        },
+        {
+          "text": "微",
+          "start": 71.842,
+          "end": 72.09,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 71.722,
+          "disappearAt": 74.29199999999999
+        },
+        {
+          "text": "笑",
+          "start": 72.09,
+          "end": 72.335,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 71.97,
+          "disappearAt": 74.29199999999999
+        },
+        {
+          "text": "去",
+          "start": 72.335,
+          "end": 72.862,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 72.21499999999999,
+          "disappearAt": 74.29199999999999
+        },
+        {
+          "text": "原",
+          "start": 72.862,
+          "end": 73.106,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 72.74199999999999,
+          "disappearAt": 74.29199999999999
+        },
+        {
+          "text": "谅",
+          "start": 73.106,
+          "end": 73.601,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 72.98599999999999,
+          "disappearAt": 74.29199999999999
+        },
+        {
+          "text": "了",
+          "start": 73.601,
+          "end": 73.942,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 73.481,
+          "disappearAt": 74.29199999999999
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-15",
+      "text": "也翻越了",
+      "start": 74.389,
+      "end": 76.205,
+      "chars": [
+        {
+          "text": "也",
+          "start": 74.389,
+          "end": 74.978,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 74.26899999999999,
+          "disappearAt": 76.55499999999999
+        },
+        {
+          "text": "翻",
+          "start": 74.978,
+          "end": 75.2,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 74.85799999999999,
+          "disappearAt": 76.55499999999999
+        },
+        {
+          "text": "越",
+          "start": 75.2,
+          "end": 75.675,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 75.08,
+          "disappearAt": 76.55499999999999
+        },
+        {
+          "text": "了",
+          "start": 75.675,
+          "end": 76.205,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 75.55499999999999,
+          "disappearAt": 76.55499999999999
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-16",
+      "text": "有昨天还是好的",
+      "start": 76.756,
+      "end": 79.968,
+      "chars": [
+        {
+          "text": "有",
+          "start": 76.756,
+          "end": 76.974,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 76.636,
+          "disappearAt": 80.318
+        },
+        {
+          "text": "昨",
+          "start": 76.974,
+          "end": 77.214,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 76.854,
+          "disappearAt": 80.318
+        },
+        {
+          "text": "天",
+          "start": 77.214,
+          "end": 77.489,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 77.094,
+          "disappearAt": 80.318
+        },
+        {
+          "text": "还",
+          "start": 77.489,
+          "end": 77.979,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 77.369,
+          "disappearAt": 80.318
+        },
+        {
+          "text": "是",
+          "start": 77.979,
+          "end": 78.341,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 77.859,
+          "disappearAt": 80.318
+        },
+        {
+          "text": "好",
+          "start": 78.341,
+          "end": 78.783,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 78.22099999999999,
+          "disappearAt": 80.318
+        },
+        {
+          "text": "的",
+          "start": 78.783,
+          "end": 79.968,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 78.663,
+          "disappearAt": 80.318
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-17",
+      "text": "但明天是自己的",
+      "start": 80.737,
+      "end": 83.063,
+      "chars": [
+        {
+          "text": "但",
+          "start": 80.737,
+          "end": 80.984,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 80.61699999999999,
+          "disappearAt": 83.413
+        },
+        {
+          "text": "明",
+          "start": 80.984,
+          "end": 81.235,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 80.86399999999999,
+          "disappearAt": 83.413
+        },
+        {
+          "text": "天",
+          "start": 81.235,
+          "end": 81.5,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 81.115,
+          "disappearAt": 83.413
+        },
+        {
+          "text": "是",
+          "start": 81.5,
+          "end": 81.933,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 81.38,
+          "disappearAt": 83.413
+        },
+        {
+          "text": "自",
+          "start": 81.933,
+          "end": 82.24,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 81.813,
+          "disappearAt": 83.413
+        },
+        {
+          "text": "己",
+          "start": 82.24,
+          "end": 82.508,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 82.11999999999999,
+          "disappearAt": 83.413
+        },
+        {
+          "text": "的",
+          "start": 82.508,
+          "end": 83.063,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 82.38799999999999,
+          "disappearAt": 83.413
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-18",
+      "text": "开始懂了",
+      "start": 83.577,
+      "end": 86.582,
+      "chars": [
+        {
+          "text": "开",
+          "start": 83.577,
+          "end": 84.148,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 83.457,
+          "disappearAt": 86.93199999999999
+        },
+        {
+          "text": "始",
+          "start": 84.148,
+          "end": 84.705,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 84.02799999999999,
+          "disappearAt": 86.93199999999999
+        },
+        {
+          "text": "懂",
+          "start": 84.705,
+          "end": 85.208,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 84.585,
+          "disappearAt": 86.93199999999999
+        },
+        {
+          "text": "了",
+          "start": 85.208,
+          "end": 86.582,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 85.088,
+          "disappearAt": 86.93199999999999
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-19",
+      "text": "快乐是选择",
+      "start": 87.299,
+      "end": 92.425,
+      "chars": [
+        {
+          "text": "快",
+          "start": 87.299,
+          "end": 87.505,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 87.179,
+          "disappearAt": 92.77499999999999
+        },
+        {
+          "text": "乐",
+          "start": 87.505,
+          "end": 87.797,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 87.38499999999999,
+          "disappearAt": 92.77499999999999
+        },
+        {
+          "text": "是",
+          "start": 87.797,
+          "end": 88.8,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 87.67699999999999,
+          "disappearAt": 92.77499999999999
+        },
+        {
+          "text": "选",
+          "start": 88.8,
+          "end": 89.497,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 88.67999999999999,
+          "disappearAt": 92.77499999999999
+        },
+        {
+          "text": "择",
+          "start": 89.497,
+          "end": 92.425,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 89.377,
+          "disappearAt": 92.77499999999999
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-20",
+      "text": "我竟然没有调头",
+      "start": 107.551,
+      "end": 110.426,
+      "chars": [
+        {
+          "text": "我",
+          "start": 107.551,
+          "end": 107.751,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 107.431,
+          "disappearAt": 110.776
+        },
+        {
+          "text": "竟",
+          "start": 107.751,
+          "end": 107.986,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 107.631,
+          "disappearAt": 110.776
+        },
+        {
+          "text": "然",
+          "start": 107.986,
+          "end": 108.763,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 107.866,
+          "disappearAt": 110.776
+        },
+        {
+          "text": "没",
+          "start": 108.763,
+          "end": 109.011,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 108.643,
+          "disappearAt": 110.776
+        },
+        {
+          "text": "有",
+          "start": 109.011,
+          "end": 109.509,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 108.89099999999999,
+          "disappearAt": 110.776
+        },
+        {
+          "text": "调",
+          "start": 109.509,
+          "end": 109.99,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 109.389,
+          "disappearAt": 110.776
+        },
+        {
+          "text": "头",
+          "start": 109.99,
+          "end": 110.426,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 109.86999999999999,
+          "disappearAt": 110.776
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-21",
+      "text": "最残忍那一刻",
+      "start": 110.797,
+      "end": 113.863,
+      "chars": [
+        {
+          "text": "最",
+          "start": 110.797,
+          "end": 111.002,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 110.67699999999999,
+          "disappearAt": 114.213
+        },
+        {
+          "text": "残",
+          "start": 111.002,
+          "end": 111.498,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 110.88199999999999,
+          "disappearAt": 114.213
+        },
+        {
+          "text": "忍",
+          "start": 111.498,
+          "end": 112.025,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 111.378,
+          "disappearAt": 114.213
+        },
+        {
+          "text": "那",
+          "start": 112.025,
+          "end": 112.562,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 111.905,
+          "disappearAt": 114.213
+        },
+        {
+          "text": "一",
+          "start": 112.562,
+          "end": 112.967,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 112.442,
+          "disappearAt": 114.213
+        },
+        {
+          "text": "刻",
+          "start": 112.967,
+          "end": 113.863,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 112.847,
+          "disappearAt": 114.213
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-22",
+      "text": "静静看你走",
+      "start": 114.331,
+      "end": 116.735,
+      "chars": [
+        {
+          "text": "静",
+          "start": 114.331,
+          "end": 114.52,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 114.211,
+          "disappearAt": 117.085
+        },
+        {
+          "text": "静",
+          "start": 114.52,
+          "end": 114.759,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 114.39999999999999,
+          "disappearAt": 117.085
+        },
+        {
+          "text": "看",
+          "start": 114.759,
+          "end": 115.048,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 114.639,
+          "disappearAt": 117.085
+        },
+        {
+          "text": "你",
+          "start": 115.048,
+          "end": 115.793,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 114.928,
+          "disappearAt": 117.085
+        },
+        {
+          "text": "走",
+          "start": 115.793,
+          "end": 116.735,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 115.673,
+          "disappearAt": 117.085
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-23",
+      "text": "一点都不像我",
+      "start": 117.593,
+      "end": 120.82,
+      "chars": [
+        {
+          "text": "一",
+          "start": 117.593,
+          "end": 117.816,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 117.473,
+          "disappearAt": 121.16999999999999
+        },
+        {
+          "text": "点",
+          "start": 117.816,
+          "end": 118.093,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 117.696,
+          "disappearAt": 121.16999999999999
+        },
+        {
+          "text": "都",
+          "start": 118.093,
+          "end": 118.67,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 117.973,
+          "disappearAt": 121.16999999999999
+        },
+        {
+          "text": "不",
+          "start": 118.67,
+          "end": 118.9,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 118.55,
+          "disappearAt": 121.16999999999999
+        },
+        {
+          "text": "像",
+          "start": 118.9,
+          "end": 119.612,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 118.78,
+          "disappearAt": 121.16999999999999
+        },
+        {
+          "text": "我",
+          "start": 119.612,
+          "end": 120.82,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 119.49199999999999,
+          "disappearAt": 121.16999999999999
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-24",
+      "text": "原来人会变得温柔",
+      "start": 123.785,
+      "end": 126.766,
+      "chars": [
+        {
+          "text": "原",
+          "start": 123.785,
+          "end": 123.984,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 123.66499999999999,
+          "disappearAt": 127.116
+        },
+        {
+          "text": "来",
+          "start": 123.984,
+          "end": 124.23,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 123.86399999999999,
+          "disappearAt": 127.116
+        },
+        {
+          "text": "人",
+          "start": 124.23,
+          "end": 124.988,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 124.11,
+          "disappearAt": 127.116
+        },
+        {
+          "text": "会",
+          "start": 124.988,
+          "end": 125.232,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 124.868,
+          "disappearAt": 127.116
+        },
+        {
+          "text": "变",
+          "start": 125.232,
+          "end": 125.48,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 125.112,
+          "disappearAt": 127.116
+        },
+        {
+          "text": "得",
+          "start": 125.48,
+          "end": 125.802,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 125.36,
+          "disappearAt": 127.116
+        },
+        {
+          "text": "温",
+          "start": 125.802,
+          "end": 126.161,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 125.682,
+          "disappearAt": 127.116
+        },
+        {
+          "text": "柔",
+          "start": 126.161,
+          "end": 126.766,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 126.041,
+          "disappearAt": 127.116
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-25",
+      "text": "是透彻的懂了",
+      "start": 127.094,
+      "end": 130.157,
+      "chars": [
+        {
+          "text": "是",
+          "start": 127.094,
+          "end": 127.295,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 126.97399999999999,
+          "disappearAt": 130.507
+        },
+        {
+          "text": "透",
+          "start": 127.295,
+          "end": 127.78,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 127.175,
+          "disappearAt": 130.507
+        },
+        {
+          "text": "彻",
+          "start": 127.78,
+          "end": 128.272,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 127.66,
+          "disappearAt": 130.507
+        },
+        {
+          "text": "的",
+          "start": 128.272,
+          "end": 128.843,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 128.152,
+          "disappearAt": 130.507
+        },
+        {
+          "text": "懂",
+          "start": 128.843,
+          "end": 129.228,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 128.72299999999998,
+          "disappearAt": 130.507
+        },
+        {
+          "text": "了",
+          "start": 129.228,
+          "end": 130.157,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 129.108,
+          "disappearAt": 130.507
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-26",
+      "text": "爱情是流动的 不由人的",
+      "start": 130.606,
+      "end": 134.827,
+      "chars": [
+        {
+          "text": "爱",
+          "start": 130.606,
+          "end": 130.813,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 130.486,
+          "disappearAt": 135.177
+        },
+        {
+          "text": "情",
+          "start": 130.813,
+          "end": 131.074,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 130.69299999999998,
+          "disappearAt": 135.177
+        },
+        {
+          "text": "是",
+          "start": 131.074,
+          "end": 131.346,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 130.954,
+          "disappearAt": 135.177
+        },
+        {
+          "text": "流",
+          "start": 131.346,
+          "end": 131.893,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 131.226,
+          "disappearAt": 135.177
+        },
+        {
+          "text": "动",
+          "start": 131.893,
+          "end": 132.184,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 131.773,
+          "disappearAt": 135.177
+        },
+        {
+          "text": "的",
+          "start": 132.184,
+          "end": 133.102,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 132.064,
+          "disappearAt": 135.177
+        },
+        {
+          "text": "不",
+          "start": 133.102,
+          "end": 133.362,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 132.982,
+          "disappearAt": 135.177
+        },
+        {
+          "text": "由",
+          "start": 133.362,
+          "end": 133.928,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 133.242,
+          "disappearAt": 135.177
+        },
+        {
+          "text": "人",
+          "start": 133.928,
+          "end": 134.204,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 133.808,
+          "disappearAt": 135.177
+        },
+        {
+          "text": "的",
+          "start": 134.204,
+          "end": 134.827,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 134.084,
+          "disappearAt": 135.177
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-27",
+      "text": "何必激动着要理由",
+      "start": 135.221,
+      "end": 139.898,
+      "chars": [
+        {
+          "text": "何",
+          "start": 135.221,
+          "end": 135.426,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 135.101,
+          "disappearAt": 140.248
+        },
+        {
+          "text": "必",
+          "start": 135.426,
+          "end": 135.692,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 135.30599999999998,
+          "disappearAt": 140.248
+        },
+        {
+          "text": "激",
+          "start": 135.692,
+          "end": 135.934,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 135.572,
+          "disappearAt": 140.248
+        },
+        {
+          "text": "动",
+          "start": 135.934,
+          "end": 136.171,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 135.814,
+          "disappearAt": 140.248
+        },
+        {
+          "text": "着",
+          "start": 136.171,
+          "end": 136.411,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 136.051,
+          "disappearAt": 140.248
+        },
+        {
+          "text": "要",
+          "start": 136.411,
+          "end": 136.968,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 136.291,
+          "disappearAt": 140.248
+        },
+        {
+          "text": "理",
+          "start": 136.968,
+          "end": 137.388,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 136.84799999999998,
+          "disappearAt": 140.248
+        },
+        {
+          "text": "由",
+          "start": 137.388,
+          "end": 139.898,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 137.268,
+          "disappearAt": 140.248
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-28",
+      "text": "相信你只是怕伤害我",
+      "start": 140.266,
+      "end": 143.262,
+      "chars": [
+        {
+          "text": "相",
+          "start": 140.266,
+          "end": 140.484,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 140.146,
+          "disappearAt": 143.612
+        },
+        {
+          "text": "信",
+          "start": 140.484,
+          "end": 140.726,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 140.364,
+          "disappearAt": 143.612
+        },
+        {
+          "text": "你",
+          "start": 140.726,
+          "end": 140.982,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 140.606,
+          "disappearAt": 143.612
+        },
+        {
+          "text": "只",
+          "start": 140.982,
+          "end": 141.234,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 140.862,
+          "disappearAt": 143.612
+        },
+        {
+          "text": "是",
+          "start": 141.234,
+          "end": 141.499,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 141.114,
+          "disappearAt": 143.612
+        },
+        {
+          "text": "怕",
+          "start": 141.499,
+          "end": 142.074,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 141.379,
+          "disappearAt": 143.612
+        },
+        {
+          "text": "伤",
+          "start": 142.074,
+          "end": 142.339,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 141.954,
+          "disappearAt": 143.612
+        },
+        {
+          "text": "害",
+          "start": 142.339,
+          "end": 142.808,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 142.219,
+          "disappearAt": 143.612
+        },
+        {
+          "text": "我",
+          "start": 142.808,
+          "end": 143.262,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 142.688,
+          "disappearAt": 143.612
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-29",
+      "text": "不是骗我",
+      "start": 143.551,
+      "end": 145.597,
+      "chars": [
+        {
+          "text": "不",
+          "start": 143.551,
+          "end": 144.099,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 143.43099999999998,
+          "disappearAt": 145.947
+        },
+        {
+          "text": "是",
+          "start": 144.099,
+          "end": 144.325,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 143.97899999999998,
+          "disappearAt": 145.947
+        },
+        {
+          "text": "骗",
+          "start": 144.325,
+          "end": 144.786,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 144.20499999999998,
+          "disappearAt": 145.947
+        },
+        {
+          "text": "我",
+          "start": 144.786,
+          "end": 145.597,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 144.666,
+          "disappearAt": 145.947
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-30",
+      "text": "很爱过谁会舍得",
+      "start": 145.907,
+      "end": 149.257,
+      "chars": [
+        {
+          "text": "很",
+          "start": 145.907,
+          "end": 146.112,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 145.787,
+          "disappearAt": 149.607
+        },
+        {
+          "text": "爱",
+          "start": 146.112,
+          "end": 146.383,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 145.992,
+          "disappearAt": 149.607
+        },
+        {
+          "text": "过",
+          "start": 146.383,
+          "end": 146.619,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 146.263,
+          "disappearAt": 149.607
+        },
+        {
+          "text": "谁",
+          "start": 146.619,
+          "end": 147.144,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 146.499,
+          "disappearAt": 149.607
+        },
+        {
+          "text": "会",
+          "start": 147.144,
+          "end": 147.672,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 147.024,
+          "disappearAt": 149.607
+        },
+        {
+          "text": "舍",
+          "start": 147.672,
+          "end": 148.032,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 147.552,
+          "disappearAt": 149.607
+        },
+        {
+          "text": "得",
+          "start": 148.032,
+          "end": 149.257,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 147.912,
+          "disappearAt": 149.607
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-31",
+      "text": "把我的梦摇醒了",
+      "start": 149.926,
+      "end": 152.444,
+      "chars": [
+        {
+          "text": "把",
+          "start": 149.926,
+          "end": 150.154,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 149.80599999999998,
+          "disappearAt": 152.79399999999998
+        },
+        {
+          "text": "我",
+          "start": 150.154,
+          "end": 150.413,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 150.034,
+          "disappearAt": 152.79399999999998
+        },
+        {
+          "text": "的",
+          "start": 150.413,
+          "end": 150.675,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 150.293,
+          "disappearAt": 152.79399999999998
+        },
+        {
+          "text": "梦",
+          "start": 150.675,
+          "end": 151.045,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 150.555,
+          "disappearAt": 152.79399999999998
+        },
+        {
+          "text": "摇",
+          "start": 151.045,
+          "end": 151.421,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 150.92499999999998,
+          "disappearAt": 152.79399999999998
+        },
+        {
+          "text": "醒",
+          "start": 151.421,
+          "end": 151.684,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 151.301,
+          "disappearAt": 152.79399999999998
+        },
+        {
+          "text": "了",
+          "start": 151.684,
+          "end": 152.444,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 151.564,
+          "disappearAt": 152.79399999999998
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-32",
+      "text": "宣布幸福不会来了",
+      "start": 152.742,
+      "end": 156.186,
+      "chars": [
+        {
+          "text": "宣",
+          "start": 152.742,
+          "end": 153.192,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 152.62199999999999,
+          "disappearAt": 156.536
+        },
+        {
+          "text": "布",
+          "start": 153.192,
+          "end": 153.48,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 153.072,
+          "disappearAt": 156.536
+        },
+        {
+          "text": "幸",
+          "start": 153.48,
+          "end": 153.723,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 153.35999999999999,
+          "disappearAt": 156.536
+        },
+        {
+          "text": "福",
+          "start": 153.723,
+          "end": 154.24,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 153.603,
+          "disappearAt": 156.536
+        },
+        {
+          "text": "不",
+          "start": 154.24,
+          "end": 154.458,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 154.12,
+          "disappearAt": 156.536
+        },
+        {
+          "text": "会",
+          "start": 154.458,
+          "end": 154.955,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 154.338,
+          "disappearAt": 156.536
+        },
+        {
+          "text": "来",
+          "start": 154.955,
+          "end": 155.717,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 154.835,
+          "disappearAt": 156.536
+        },
+        {
+          "text": "了",
+          "start": 155.717,
+          "end": 156.186,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 155.597,
+          "disappearAt": 156.536
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-33",
+      "text": "用心酸微笑去原谅了",
+      "start": 156.561,
+      "end": 159.484,
+      "chars": [
+        {
+          "text": "用",
+          "start": 156.561,
+          "end": 156.773,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 156.441,
+          "disappearAt": 159.834
+        },
+        {
+          "text": "心",
+          "start": 156.773,
+          "end": 157.028,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 156.653,
+          "disappearAt": 159.834
+        },
+        {
+          "text": "酸",
+          "start": 157.028,
+          "end": 157.294,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 156.908,
+          "disappearAt": 159.834
+        },
+        {
+          "text": "微",
+          "start": 157.294,
+          "end": 157.522,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 157.174,
+          "disappearAt": 159.834
+        },
+        {
+          "text": "笑",
+          "start": 157.522,
+          "end": 157.781,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 157.402,
+          "disappearAt": 159.834
+        },
+        {
+          "text": "去",
+          "start": 157.781,
+          "end": 158.288,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 157.661,
+          "disappearAt": 159.834
+        },
+        {
+          "text": "原",
+          "start": 158.288,
+          "end": 158.548,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 158.168,
+          "disappearAt": 159.834
+        },
+        {
+          "text": "谅",
+          "start": 158.548,
+          "end": 158.994,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 158.428,
+          "disappearAt": 159.834
+        },
+        {
+          "text": "了",
+          "start": 158.994,
+          "end": 159.484,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 158.874,
+          "disappearAt": 159.834
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-34",
+      "text": "也翻越了",
+      "start": 159.79,
+      "end": 161.844,
+      "chars": [
+        {
+          "text": "也",
+          "start": 159.79,
+          "end": 160.314,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 159.67,
+          "disappearAt": 162.194
+        },
+        {
+          "text": "翻",
+          "start": 160.314,
+          "end": 160.571,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 160.194,
+          "disappearAt": 162.194
+        },
+        {
+          "text": "越",
+          "start": 160.571,
+          "end": 161.06,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 160.451,
+          "disappearAt": 162.194
+        },
+        {
+          "text": "了",
+          "start": 161.06,
+          "end": 161.844,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 160.94,
+          "disappearAt": 162.194
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-35",
+      "text": "有昨天还是好的",
+      "start": 162.144,
+      "end": 165.855,
+      "chars": [
+        {
+          "text": "有",
+          "start": 162.144,
+          "end": 162.366,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 162.024,
+          "disappearAt": 166.20499999999998
+        },
+        {
+          "text": "昨",
+          "start": 162.366,
+          "end": 162.602,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 162.246,
+          "disappearAt": 166.20499999999998
+        },
+        {
+          "text": "天",
+          "start": 162.602,
+          "end": 162.91,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 162.482,
+          "disappearAt": 166.20499999999998
+        },
+        {
+          "text": "还",
+          "start": 162.91,
+          "end": 163.429,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 162.79,
+          "disappearAt": 166.20499999999998
+        },
+        {
+          "text": "是",
+          "start": 163.429,
+          "end": 163.756,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 163.309,
+          "disappearAt": 166.20499999999998
+        },
+        {
+          "text": "好",
+          "start": 163.756,
+          "end": 164.221,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 163.636,
+          "disappearAt": 166.20499999999998
+        },
+        {
+          "text": "的",
+          "start": 164.221,
+          "end": 165.855,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 164.101,
+          "disappearAt": 166.20499999999998
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-36",
+      "text": "但明天是自己的",
+      "start": 166.208,
+      "end": 168.664,
+      "chars": [
+        {
+          "text": "但",
+          "start": 166.208,
+          "end": 166.424,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 166.088,
+          "disappearAt": 169.01399999999998
+        },
+        {
+          "text": "明",
+          "start": 166.424,
+          "end": 166.689,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 166.304,
+          "disappearAt": 169.01399999999998
+        },
+        {
+          "text": "天",
+          "start": 166.689,
+          "end": 166.94,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 166.569,
+          "disappearAt": 169.01399999999998
+        },
+        {
+          "text": "是",
+          "start": 166.94,
+          "end": 167.33,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 166.82,
+          "disappearAt": 169.01399999999998
+        },
+        {
+          "text": "自",
+          "start": 167.33,
+          "end": 167.692,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 167.21,
+          "disappearAt": 169.01399999999998
+        },
+        {
+          "text": "己",
+          "start": 167.692,
+          "end": 167.955,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 167.572,
+          "disappearAt": 169.01399999999998
+        },
+        {
+          "text": "的",
+          "start": 167.955,
+          "end": 168.664,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 167.835,
+          "disappearAt": 169.01399999999998
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-37",
+      "text": "开始懂了",
+      "start": 169.073,
+      "end": 171.946,
+      "chars": [
+        {
+          "text": "开",
+          "start": 169.073,
+          "end": 169.597,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 168.953,
+          "disappearAt": 172.296
+        },
+        {
+          "text": "始",
+          "start": 169.597,
+          "end": 170.09,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 169.477,
+          "disappearAt": 172.296
+        },
+        {
+          "text": "懂",
+          "start": 170.09,
+          "end": 170.374,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 169.97,
+          "disappearAt": 172.296
+        },
+        {
+          "text": "了",
+          "start": 170.374,
+          "end": 171.946,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 170.254,
+          "disappearAt": 172.296
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-38",
+      "text": "快乐是选择",
+      "start": 172.67,
+      "end": 176.964,
+      "chars": [
+        {
+          "text": "快",
+          "start": 172.67,
+          "end": 172.871,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 172.54999999999998,
+          "disappearAt": 177.314
+        },
+        {
+          "text": "乐",
+          "start": 172.871,
+          "end": 173.254,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 172.751,
+          "disappearAt": 177.314
+        },
+        {
+          "text": "是",
+          "start": 173.254,
+          "end": 174.131,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 173.134,
+          "disappearAt": 177.314
+        },
+        {
+          "text": "选",
+          "start": 174.131,
+          "end": 174.796,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 174.011,
+          "disappearAt": 177.314
+        },
+        {
+          "text": "择",
+          "start": 174.796,
+          "end": 176.964,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 174.676,
+          "disappearAt": 177.314
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-39",
+      "text": "相信你只是怕伤害我",
+      "start": 205.535,
+      "end": 208.329,
+      "chars": [
+        {
+          "text": "相",
+          "start": 205.535,
+          "end": 205.715,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 205.415,
+          "disappearAt": 208.679
+        },
+        {
+          "text": "信",
+          "start": 205.715,
+          "end": 205.876,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 205.595,
+          "disappearAt": 208.679
+        },
+        {
+          "text": "你",
+          "start": 205.876,
+          "end": 206.091,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 205.756,
+          "disappearAt": 208.679
+        },
+        {
+          "text": "只",
+          "start": 206.091,
+          "end": 206.317,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 205.971,
+          "disappearAt": 208.679
+        },
+        {
+          "text": "是",
+          "start": 206.317,
+          "end": 206.584,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 206.197,
+          "disappearAt": 208.679
+        },
+        {
+          "text": "怕",
+          "start": 206.584,
+          "end": 207.1,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 206.464,
+          "disappearAt": 208.679
+        },
+        {
+          "text": "伤",
+          "start": 207.1,
+          "end": 207.358,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 206.98,
+          "disappearAt": 208.679
+        },
+        {
+          "text": "害",
+          "start": 207.358,
+          "end": 207.873,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 207.238,
+          "disappearAt": 208.679
+        },
+        {
+          "text": "我",
+          "start": 207.873,
+          "end": 208.329,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 207.753,
+          "disappearAt": 208.679
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-40",
+      "text": "不是骗我",
+      "start": 208.622,
+      "end": 210.557,
+      "chars": [
+        {
+          "text": "不",
+          "start": 208.622,
+          "end": 209.161,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 208.502,
+          "disappearAt": 210.90699999999998
+        },
+        {
+          "text": "是",
+          "start": 209.161,
+          "end": 209.376,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 209.041,
+          "disappearAt": 210.90699999999998
+        },
+        {
+          "text": "骗",
+          "start": 209.376,
+          "end": 209.837,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 209.256,
+          "disappearAt": 210.90699999999998
+        },
+        {
+          "text": "我",
+          "start": 209.837,
+          "end": 210.557,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 209.71699999999998,
+          "disappearAt": 210.90699999999998
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-41",
+      "text": "很爱过谁会舍得",
+      "start": 210.917,
+      "end": 214.191,
+      "chars": [
+        {
+          "text": "很",
+          "start": 210.917,
+          "end": 211.154,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 210.797,
+          "disappearAt": 214.541
+        },
+        {
+          "text": "爱",
+          "start": 211.154,
+          "end": 211.401,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 211.034,
+          "disappearAt": 214.541
+        },
+        {
+          "text": "过",
+          "start": 211.401,
+          "end": 211.678,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 211.281,
+          "disappearAt": 214.541
+        },
+        {
+          "text": "谁",
+          "start": 211.678,
+          "end": 212.202,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 211.558,
+          "disappearAt": 214.541
+        },
+        {
+          "text": "会",
+          "start": 212.202,
+          "end": 212.732,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 212.082,
+          "disappearAt": 214.541
+        },
+        {
+          "text": "舍",
+          "start": 212.732,
+          "end": 213.018,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 212.612,
+          "disappearAt": 214.541
+        },
+        {
+          "text": "得",
+          "start": 213.018,
+          "end": 214.191,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 212.898,
+          "disappearAt": 214.541
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-42",
+      "text": "把我的梦摇醒了",
+      "start": 215.025,
+      "end": 217.443,
+      "chars": [
+        {
+          "text": "把",
+          "start": 215.025,
+          "end": 215.258,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 214.905,
+          "disappearAt": 217.793
+        },
+        {
+          "text": "我",
+          "start": 215.258,
+          "end": 215.501,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 215.138,
+          "disappearAt": 217.793
+        },
+        {
+          "text": "的",
+          "start": 215.501,
+          "end": 215.741,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 215.381,
+          "disappearAt": 217.793
+        },
+        {
+          "text": "梦",
+          "start": 215.741,
+          "end": 216.068,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 215.621,
+          "disappearAt": 217.793
+        },
+        {
+          "text": "摇",
+          "start": 216.068,
+          "end": 216.49,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 215.948,
+          "disappearAt": 217.793
+        },
+        {
+          "text": "醒",
+          "start": 216.49,
+          "end": 216.75,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 216.37,
+          "disappearAt": 217.793
+        },
+        {
+          "text": "了",
+          "start": 216.75,
+          "end": 217.443,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 216.63,
+          "disappearAt": 217.793
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-43",
+      "text": "宣布幸福不会来了",
+      "start": 217.802,
+      "end": 221.241,
+      "chars": [
+        {
+          "text": "宣",
+          "start": 217.802,
+          "end": 218.258,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 217.682,
+          "disappearAt": 221.591
+        },
+        {
+          "text": "布",
+          "start": 218.258,
+          "end": 218.523,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 218.138,
+          "disappearAt": 221.591
+        },
+        {
+          "text": "幸",
+          "start": 218.523,
+          "end": 218.795,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 218.403,
+          "disappearAt": 221.591
+        },
+        {
+          "text": "福",
+          "start": 218.795,
+          "end": 219.327,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 218.67499999999998,
+          "disappearAt": 221.591
+        },
+        {
+          "text": "不",
+          "start": 219.327,
+          "end": 219.557,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 219.207,
+          "disappearAt": 221.591
+        },
+        {
+          "text": "会",
+          "start": 219.557,
+          "end": 220.036,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 219.43699999999998,
+          "disappearAt": 221.591
+        },
+        {
+          "text": "来",
+          "start": 220.036,
+          "end": 220.572,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 219.916,
+          "disappearAt": 221.591
+        },
+        {
+          "text": "了",
+          "start": 220.572,
+          "end": 221.241,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 220.452,
+          "disappearAt": 221.591
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-44",
+      "text": "用心酸微笑去原谅了",
+      "start": 221.587,
+      "end": 224.843,
+      "chars": [
+        {
+          "text": "用",
+          "start": 221.587,
+          "end": 221.818,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 221.46699999999998,
+          "disappearAt": 225.19299999999998
+        },
+        {
+          "text": "心",
+          "start": 221.818,
+          "end": 222.086,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 221.698,
+          "disappearAt": 225.19299999999998
+        },
+        {
+          "text": "酸",
+          "start": 222.086,
+          "end": 222.34,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 221.966,
+          "disappearAt": 225.19299999999998
+        },
+        {
+          "text": "微",
+          "start": 222.34,
+          "end": 222.565,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 222.22,
+          "disappearAt": 225.19299999999998
+        },
+        {
+          "text": "笑",
+          "start": 222.565,
+          "end": 222.842,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 222.445,
+          "disappearAt": 225.19299999999998
+        },
+        {
+          "text": "去",
+          "start": 222.842,
+          "end": 223.47,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 222.722,
+          "disappearAt": 225.19299999999998
+        },
+        {
+          "text": "原",
+          "start": 223.47,
+          "end": 223.694,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 223.35,
+          "disappearAt": 225.19299999999998
+        },
+        {
+          "text": "谅",
+          "start": 223.694,
+          "end": 224.144,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 223.57399999999998,
+          "disappearAt": 225.19299999999998
+        },
+        {
+          "text": "了",
+          "start": 224.144,
+          "end": 224.843,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 224.024,
+          "disappearAt": 225.19299999999998
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-45",
+      "text": "也翻越了",
+      "start": 225.183,
+      "end": 226.96,
+      "chars": [
+        {
+          "text": "也",
+          "start": 225.183,
+          "end": 225.679,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 225.063,
+          "disappearAt": 227.31
+        },
+        {
+          "text": "翻",
+          "start": 225.679,
+          "end": 225.924,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 225.559,
+          "disappearAt": 227.31
+        },
+        {
+          "text": "越",
+          "start": 225.924,
+          "end": 226.408,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 225.804,
+          "disappearAt": 227.31
+        },
+        {
+          "text": "了",
+          "start": 226.408,
+          "end": 226.96,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 226.28799999999998,
+          "disappearAt": 227.31
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-46",
+      "text": "有昨天还是好的",
+      "start": 227.242,
+      "end": 230.945,
+      "chars": [
+        {
+          "text": "有",
+          "start": 227.242,
+          "end": 227.466,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 227.12199999999999,
+          "disappearAt": 231.295
+        },
+        {
+          "text": "昨",
+          "start": 227.466,
+          "end": 227.718,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 227.346,
+          "disappearAt": 231.295
+        },
+        {
+          "text": "天",
+          "start": 227.718,
+          "end": 227.958,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 227.59799999999998,
+          "disappearAt": 231.295
+        },
+        {
+          "text": "还",
+          "start": 227.958,
+          "end": 228.439,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 227.838,
+          "disappearAt": 231.295
+        },
+        {
+          "text": "是",
+          "start": 228.439,
+          "end": 228.829,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 228.319,
+          "disappearAt": 231.295
+        },
+        {
+          "text": "好",
+          "start": 228.829,
+          "end": 229.269,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 228.709,
+          "disappearAt": 231.295
+        },
+        {
+          "text": "的",
+          "start": 229.269,
+          "end": 230.945,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 229.149,
+          "disappearAt": 231.295
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-47",
+      "text": "但明天是自己的",
+      "start": 231.304,
+      "end": 233.852,
+      "chars": [
+        {
+          "text": "但",
+          "start": 231.304,
+          "end": 231.538,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 231.184,
+          "disappearAt": 234.202
+        },
+        {
+          "text": "明",
+          "start": 231.538,
+          "end": 231.777,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 231.418,
+          "disappearAt": 234.202
+        },
+        {
+          "text": "天",
+          "start": 231.777,
+          "end": 232.015,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 231.65699999999998,
+          "disappearAt": 234.202
+        },
+        {
+          "text": "是",
+          "start": 232.015,
+          "end": 232.45,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 231.89499999999998,
+          "disappearAt": 234.202
+        },
+        {
+          "text": "自",
+          "start": 232.45,
+          "end": 232.827,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 232.32999999999998,
+          "disappearAt": 234.202
+        },
+        {
+          "text": "己",
+          "start": 232.827,
+          "end": 233.071,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 232.707,
+          "disappearAt": 234.202
+        },
+        {
+          "text": "的",
+          "start": 233.071,
+          "end": 233.852,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 232.951,
+          "disappearAt": 234.202
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-48",
+      "text": "开始懂了",
+      "start": 234.071,
+      "end": 237.129,
+      "chars": [
+        {
+          "text": "开",
+          "start": 234.071,
+          "end": 234.625,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 233.951,
+          "disappearAt": 237.47899999999998
+        },
+        {
+          "text": "始",
+          "start": 234.625,
+          "end": 235.177,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 234.505,
+          "disappearAt": 237.47899999999998
+        },
+        {
+          "text": "懂",
+          "start": 235.177,
+          "end": 235.623,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 235.057,
+          "disappearAt": 237.47899999999998
+        },
+        {
+          "text": "了",
+          "start": 235.623,
+          "end": 237.129,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 235.503,
+          "disappearAt": 237.47899999999998
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    },
+    {
+      "id": "krc-135049983-line-49",
+      "text": "快乐是选择",
+      "start": 237.749,
+      "end": 244.701,
+      "chars": [
+        {
+          "text": "快",
+          "start": 237.749,
+          "end": 238.208,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 237.629,
+          "disappearAt": 245.051
+        },
+        {
+          "text": "乐",
+          "start": 238.208,
+          "end": 238.473,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 238.088,
+          "disappearAt": 245.051
+        },
+        {
+          "text": "是",
+          "start": 238.473,
+          "end": 240.195,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 238.353,
+          "disappearAt": 245.051
+        },
+        {
+          "text": "选",
+          "start": 240.195,
+          "end": 241.144,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 240.075,
+          "disappearAt": 245.051
+        },
+        {
+          "text": "择",
+          "start": 241.144,
+          "end": 244.701,
+          "method": "krc-character",
+          "verified": false,
+          "emphasis": 1,
+          "appearAt": 241.024,
+          "disappearAt": 245.051
+        }
+      ],
+      "section": "网络原始分句",
+      "verified": false
+    }
+  ],
+  "source": {
+    "provider": "酷狗 KRC",
+    "lyricId": "135049983",
+    "sourceUrl": "https://lyrics.kugou.com/download?id=135049983&accesskey=D0BC9143014E00627C9023B041E6B715&fmt=krc&charset=utf8&client=mobi&ver=1",
+    "candidateDurationMs": 271542,
+    "downloadedAt": "2026-10-23",
+    "raw": "analysis/online-lyrics/135049983.krc"
+  }
+}
